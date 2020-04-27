@@ -1,0 +1,1297 @@
+{
+  "total": 21,
+  "rows": [
+    {
+      "id": "sESV1i4NEemI3ufJjeqi7Q",
+      "created": "2019-02-11T14:59:53.569061+00:00",
+      "updated": "2019-02-11T14:59:53.569061+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://ac.els-cdn.com/S1096719200931184/1-s2.0-S1096719200931184-main.pdf",
+      "text": "A104D",
+      "tags": [
+        "MissenseVariant"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://ac.els-cdn.com/S1096719200931184/1-s2.0-S1096719200931184-main.pdf",
+          "selector": [
+            {
+              "end": 9462,
+              "type": "TextPositionSelector",
+              "start": 9403
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "A104DA104D-forTCAAGATCTTGAGGCATGACATTGGTGACACTGTCCBglII, Xh",
+              "prefix": "CAGGCAGTCTACGTTTATCCAXbaI, BglII",
+              "suffix": "oIT124IT124I-revCCAGCTCTTGAATGAT"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/sESV1i4NEemI3ufJjeqi7Q",
+        "incontext": "https://hyp.is/sESV1i4NEemI3ufJjeqi7Q/ac.els-cdn.com/S1096719200931184/1-s2.0-S1096719200931184-main.pdf",
+        "json": "https://hypothes.is/api/annotations/sESV1i4NEemI3ufJjeqi7Q"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "wZHbKC4NEemYhOd0j0ZwjA",
+      "created": "2019-02-11T15:00:22.749751+00:00",
+      "updated": "2019-02-11T15:00:22.749751+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://ac.els-cdn.com/S1096719200931184/1-s2.0-S1096719200931184-main.pdf",
+      "text": "PMID: 11161839",
+      "tags": [],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://ac.els-cdn.com/S1096719200931184/1-s2.0-S1096719200931184-main.pdf",
+          "selector": [
+            {
+              "end": 172,
+              "type": "TextPositionSelector",
+              "start": 0
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "In VitroExpression of 34 Naturally Occurring Mutant Variants ofPhenylalanine Hydroxylase: Correlation with Metabolic Phenotypesand Susceptibility toward Protein Aggregation",
+              "prefix": "  \n        \n\n        \n          ",
+              "suffix": "Torben Gjetting, Marie Petersen,"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/wZHbKC4NEemYhOd0j0ZwjA",
+        "incontext": "https://hyp.is/wZHbKC4NEemYhOd0j0ZwjA/ac.els-cdn.com/S1096719200931184/1-s2.0-S1096719200931184-main.pdf",
+        "json": "https://hypothes.is/api/annotations/wZHbKC4NEemYhOd0j0ZwjA"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "3NGhXC4NEemQii_jDYU9lA",
+      "created": "2019-02-11T15:01:08.235367+00:00",
+      "updated": "2019-02-11T15:01:08.235367+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://ac.els-cdn.com/S1096719200931184/1-s2.0-S1096719200931184-main.pdf",
+      "text": "A104D",
+      "tags": [
+        "AssayResults"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://ac.els-cdn.com/S1096719200931184/1-s2.0-S1096719200931184-main.pdf",
+          "selector": [
+            {
+              "end": 17245,
+              "type": "TextPositionSelector",
+              "start": 17213
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "A104Dc.311C-.A36;1867619Mild PKU",
+              "prefix": "ld PKUS87Rc.261C-.A22;2882624MHP",
+              "suffix": "T124Ic.371C-.T57;474265Unclassif"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/3NGhXC4NEemQii_jDYU9lA",
+        "incontext": "https://hyp.is/3NGhXC4NEemQii_jDYU9lA/ac.els-cdn.com/S1096719200931184/1-s2.0-S1096719200931184-main.pdf",
+        "json": "https://hypothes.is/api/annotations/3NGhXC4NEemQii_jDYU9lA"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "vtCn3m3qEeqaGcvMa3uAzw",
+      "created": "2020-03-24T16:15:57.847727+00:00",
+      "updated": "2020-03-30T13:25:07.502781+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "**PMID**: 9535769\n\n**Gene**: GAA\n\n**Disease**: glycogen storage disease II\n\n**MONDO_ID**: MONDO:0009290",
+      "tags": [
+        "Gene:GAA",
+        "MONDO:0009290",
+        "HGNC:4065",
+        "CGType:General"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 293,
+              "type": "TextPositionSelector",
+              "start": 90
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "Glycogen Storage Disease Type II: Identification of FourNovel Missense Mutations (D645N, G648S, R672W,R672Q) and Two Insertions/Deletions in the Acida-Glucosidase Locus of Patients of Differing Phenotype",
+              "prefix": " \u2013 927 (1998)ARTICLE NO.RC988255",
+              "suffix": "M. L. Huie,*,1S. Tsujino,\u2020,1S. S"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/vtCn3m3qEeqaGcvMa3uAzw",
+        "incontext": "https://hyp.is/vtCn3m3qEeqaGcvMa3uAzw/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/vtCn3m3qEeqaGcvMa3uAzw"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "gkU8jm3rEeq-i6OYhFNBpA",
+      "created": "2020-03-24T16:21:25.788537+00:00",
+      "updated": "2020-03-24T16:23:58.425295+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "NM_000152.3:c.1933G>A (Asp645Asn)",
+      "tags": [
+        "Variant:1",
+        "ClinVarID:188728",
+        "CAID:CA273892",
+        "CGType:VariantID"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 6517,
+              "type": "TextPositionSelector",
+              "start": 6512
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "D645N",
+              "prefix": "r  novel  missense  mutations  (",
+              "suffix": ",  G648S,was 6.6% of normal (6 v"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/gkU8jm3rEeq-i6OYhFNBpA",
+        "incontext": "https://hyp.is/gkU8jm3rEeq-i6OYhFNBpA/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/gkU8jm3rEeq-i6OYhFNBpA"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "_IniYG3rEeqnRtMSAzrVsw",
+      "created": "2020-03-24T16:24:50.873609+00:00",
+      "updated": "2020-03-24T16:24:50.873609+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "NM_000152.3:c.1942G>A (Gly648Ser)",
+      "tags": [
+        "Variant:2",
+        "ClinVarID:188902",
+        "CAID:CA274102",
+        "CGType:VariantID"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 6525,
+              "type": "TextPositionSelector",
+              "start": 6520
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "G648S",
+              "prefix": "  missense  mutations  (D645N,  ",
+              "suffix": ",was 6.6% of normal (6 vs 90.3{8"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/_IniYG3rEeqnRtMSAzrVsw",
+        "incontext": "https://hyp.is/_IniYG3rEeqnRtMSAzrVsw/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/_IniYG3rEeqnRtMSAzrVsw"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "YykgJm3sEeqXabM3uEOdsQ",
+      "created": "2020-03-24T16:27:43.070510+00:00",
+      "updated": "2020-03-24T16:27:43.070510+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "NM_000152.3:c.2014C>T (Arg672Trp)",
+      "tags": [
+        "Variant:3",
+        "CAID:CA273939",
+        "ClinVarID:188773",
+        "CGType:VariantID"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 6593,
+              "type": "TextPositionSelector",
+              "start": 6588
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "R672W",
+              "prefix": "8.4 nmol maltose hydrolyzed/min/",
+              "suffix": ", R672Q) as well as a previously"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/YykgJm3sEeqXabM3uEOdsQ",
+        "incontext": "https://hyp.is/YykgJm3sEeqXabM3uEOdsQ/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/YykgJm3sEeqXabM3uEOdsQ"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "mFhYZm3sEeqHtKcLuo6QRA",
+      "created": "2020-03-24T16:29:12.324551+00:00",
+      "updated": "2020-03-24T16:29:31.204273+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "NM_000152.3:c.2015G>A (Arg672Gln)",
+      "tags": [
+        "Variant:4",
+        "CAID:CA8815566",
+        "ClinVarID:371126",
+        "CGType:VariantID"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 6600,
+              "type": "TextPositionSelector",
+              "start": 6595
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "R672Q",
+              "prefix": "l maltose hydrolyzed/min/R672W, ",
+              "suffix": ") as well as a previously descri"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/mFhYZm3sEeqHtKcLuo6QRA",
+        "incontext": "https://hyp.is/mFhYZm3sEeqHtKcLuo6QRA/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/mFhYZm3sEeqHtKcLuo6QRA"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "zyeo7G3xEeqmgb9MKUx-kw",
+      "created": "2020-03-24T17:06:31.615090+00:00",
+      "updated": "2020-03-24T17:06:31.615090+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "NM_000152.3:c.1941C>G (Cys647Trp)",
+      "tags": [
+        "Variant:5",
+        "ClinVarID:550327",
+        "CAID:CA8815554",
+        "CGType:VariantID"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 6730,
+              "type": "TextPositionSelector",
+              "start": 6725
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "C647W",
+              "prefix": "atory failure.sense  mutation  (",
+              "suffix": ",  ref  #22)  were  identified  "
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/zyeo7G3xEeqmgb9MKUx-kw",
+        "incontext": "https://hyp.is/zyeo7G3xEeqmgb9MKUx-kw/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/zyeo7G3xEeqmgb9MKUx-kw"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "y1iTaG30EeqER4_1uURqwg",
+      "created": "2020-03-24T17:27:53.843522+00:00",
+      "updated": "2020-03-24T17:27:53.843522+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "NM_000152.3:c.2238G>C (Trp746Cys)",
+      "tags": [
+        "ClinVarID:265160",
+        "CAID:CA8815665",
+        "CGType:VariantID",
+        "ValidationControl:Pathogenic"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 13205,
+              "type": "TextPositionSelector",
+              "start": 13200
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "W746C",
+              "prefix": "ed missense mutations in exon 14",
+              "suffix": ", 12%nl (22) and E689K, 125%nl; "
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/y1iTaG30EeqER4_1uURqwg",
+        "incontext": "https://hyp.is/y1iTaG30EeqER4_1uURqwg/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/y1iTaG30EeqER4_1uURqwg"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "Ty0iHG31Eeqg9buS4EmXSw",
+      "created": "2020-03-24T17:31:34.981724+00:00",
+      "updated": "2020-03-24T17:31:34.981724+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "NM_000152.3:c.1555A>G (Met519Val)",
+      "tags": [
+        "CAID:CA401367186",
+        "ValidationControl:Pathogenic",
+        "CGType:VariantID"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 13127,
+              "type": "TextPositionSelector",
+              "start": 13121
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": " M519V",
+              "prefix": "mutations (C647W; \u2018\u20180*\u2019%nl (22),",
+              "suffix": ", up to 3%nl (32),less, all eigh"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/Ty0iHG31Eeqg9buS4EmXSw",
+        "incontext": "https://hyp.is/Ty0iHG31Eeqg9buS4EmXSw/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/Ty0iHG31Eeqg9buS4EmXSw"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "goS3Wm32EeqxED_uXCLgKA",
+      "created": "2020-03-24T17:40:10.661586+00:00",
+      "updated": "2020-03-24T17:40:10.661586+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "NM_000152.3:c.2065G>A (Glu689Lys)",
+      "tags": [
+        "ClinVarID:4030",
+        "CAID:CA116612",
+        "ValidationControl:Benign",
+        "CGType:VariantID"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 13227,
+              "type": "TextPositionSelector",
+              "start": 13222
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "E689K",
+              "prefix": "in exon 14W746C, 12%nl (22) and ",
+              "suffix": ", 125%nl; the molecular basis fo"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/goS3Wm32EeqxED_uXCLgKA",
+        "incontext": "https://hyp.is/goS3Wm32EeqxED_uXCLgKA/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/goS3Wm32EeqxED_uXCLgKA"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "izmy4G7UEeqd3GsHeY11Rg",
+      "created": "2020-03-25T20:09:33.543613+00:00",
+      "updated": "2020-04-20T17:50:58.147539+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "**Variant 1 Experiment 1 Result**\n\nD645N\n\n**AssayResult**: 0.49 +/- 0.10\n\n**ExperimentResultAssertion**: abnormal",
+      "tags": [
+        "Variant:1",
+        "ClinVarID:188728",
+        "CGType:ExperimentResult",
+        "FuncExp:1"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 11671,
+              "type": "TextPositionSelector",
+              "start": 11666
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "D645N",
+              "prefix": "n 14Infantile (proband I)1933GrA",
+              "suffix": "0.49{0.10   (7)Infantile (proban"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/izmy4G7UEeqd3GsHeY11Rg",
+        "incontext": "https://hyp.is/izmy4G7UEeqd3GsHeY11Rg/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/izmy4G7UEeqd3GsHeY11Rg"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "ub_oeG7UEeqIez_Si884Kg",
+      "created": "2020-03-25T20:10:51.592769+00:00",
+      "updated": "2020-04-20T17:51:24.768383+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "**Variant 5 Experiment 1 Result**\n\nC647W\n\n**AssayResult**: 0.84 +/- 0.52\n\n**ExperimentResultAssertion**: abnormal",
+      "tags": [
+        "Variant:5",
+        "ClinVarID:550327",
+        "CGType:ExperimentResult",
+        "FuncExp:1"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 11720,
+              "type": "TextPositionSelector",
+              "start": 11715
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "C647W",
+              "prefix": "(7)Infantile (proband II)1941CrG",
+              "suffix": "0.84{0.52   (6)Adult (proband II"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/ub_oeG7UEeqIez_Si884Kg",
+        "incontext": "https://hyp.is/ub_oeG7UEeqIez_Si884Kg/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/ub_oeG7UEeqIez_Si884Kg"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "7B2Q4G7UEeqGxlMck1ZjBg",
+      "created": "2020-03-25T20:12:15.999444+00:00",
+      "updated": "2020-04-20T17:51:34.445698+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "**Variant 2 Experiment 1 Result**\n\nG648S\n\n**AssayResult**: 0.68 +/- 0.12\n\n**ExperimentResultAssertion**: abnormal",
+      "tags": [
+        "Variant:2",
+        "ClinVarID:188902",
+        "CGType:ExperimentResult",
+        "FuncExp:1"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 11766,
+              "type": "TextPositionSelector",
+              "start": 11761
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "G648S",
+              "prefix": "   (6)Adult (proband III)1942GrA",
+              "suffix": "0.68{0.12   (12)Adult (proband I"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/7B2Q4G7UEeqGxlMck1ZjBg",
+        "incontext": "https://hyp.is/7B2Q4G7UEeqGxlMck1ZjBg/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/7B2Q4G7UEeqGxlMck1ZjBg"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "GKdBLm7VEeqE6g8x2bRwbQ",
+      "created": "2020-03-25T20:13:30.805328+00:00",
+      "updated": "2020-04-20T17:51:46.917452+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "**Variant 3 Experiment 1 Result**\n\nR672W\n\n**AssayResult**: 1.57 +/- 0.34\n\n**ExperimentResultAssertion**: abnormal",
+      "tags": [
+        "Variant:3",
+        "ClinVarID:188773",
+        "CGType:ExperimentResult",
+        "FuncExp:1"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 11812,
+              "type": "TextPositionSelector",
+              "start": 11807
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "R672W",
+              "prefix": "   (12)Adult (proband IV)2014CrT",
+              "suffix": "1.57{0.34   (10)**Juvenile (prob"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/GKdBLm7VEeqE6g8x2bRwbQ",
+        "incontext": "https://hyp.is/GKdBLm7VEeqE6g8x2bRwbQ/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/GKdBLm7VEeqE6g8x2bRwbQ"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "cP07Ym7VEeqwo1M7Ooroyg",
+      "created": "2020-03-25T20:15:58.963614+00:00",
+      "updated": "2020-04-20T17:51:55.039749+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "**Variant 4 Experiment 1 Resul\n\nR672Q\n\n**AssayResult**: 0.63 +/- 0.19\n\n**ExperimentResultAssertion**: abnormal",
+      "tags": [
+        "Variant:4",
+        "ClinVarID:371126",
+        "CGType:ExperimentResult",
+        "FuncExp:1"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 11862,
+              "type": "TextPositionSelector",
+              "start": 11857
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "R672Q",
+              "prefix": "10)**Juvenile (proband V)2015GrA",
+              "suffix": "0.63{0.19   (8)ControlsNormal an"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/cP07Ym7VEeqwo1M7Ooroyg",
+        "incontext": "https://hyp.is/cP07Ym7VEeqwo1M7Ooroyg/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/cP07Ym7VEeqwo1M7Ooroyg"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "kQfn3nKSEeqlArcRz2rf_g",
+      "created": "2020-03-30T14:27:21.121609+00:00",
+      "updated": "2020-03-30T14:27:21.121609+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "**Experiment 1 Description**\n\n**GeneralClass**: BAO:0002994\n\n**MaterialUsed**: TR4912 (derived from GM4912 -CLO:0025608)\n\n**AssayDescription**: TR4912 cells (SV40 transformed acid alpha-glucosidase deficient cell line) were transfected with control and variant cDNA. Cells were harvested after 48 hours and the enzyme activity was measured using the 4-MUG substrate\n\n**AssayReadOutDescription**: enzyme activity +/- S.E.M.\n\n**AssayReadOutValues**: Nmol/min/gm protein\n\n**AssayReadOutNormal**: similar to wild type, 2641 +/- 372\n\n**AssayReadOutAbormal**: similar to negative control, 0.62 +/- 0.14\n\n**AssayReadOutIndeterminate**: unclear results\n\n**AssayControlNormalControl**: WT in sense orientation\n\n**AssayControlAbnormalControl**: WT in antisense orientation \n\n**ValidationControlPathogenic**: 2\n\n**ValidationControlBenign**: 1\n\n**Replication**: two independent clones for each mutation  was isolated and expressed, except for the 2015G>A  missense mutation where only a single clone was isolated and expressed. Each results is an average of 3-12 enzyme activity values\n\n**StatisticalAnalysisDescription**: p=0.02; statistically different from mean enzyme expression of antisense normal cDNA. Significance determined with unpaired Welch\u2019s 2 tailed t test",
+      "tags": [
+        "BAO:0002994",
+        "FuncExp:1",
+        "MONDO:0009290",
+        "AssayReadOutType:Quantitative",
+        "CGType:ExperimentDescription",
+        "CLO:0025608"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 11565,
+              "type": "TextPositionSelector",
+              "start": 11525
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "In VitroExpression of Missense Mutations",
+              "prefix": "RESEARCH  COMMUNICATIONSTABLE  2",
+              "suffix": "PhenotypeNucleotideAmino acidEnz"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/kQfn3nKSEeqlArcRz2rf_g",
+        "incontext": "https://hyp.is/kQfn3nKSEeqlArcRz2rf_g/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/kQfn3nKSEeqlArcRz2rf_g"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "-2E9GnKSEeqfOINcor4oDA",
+      "created": "2020-03-30T14:30:19.501842+00:00",
+      "updated": "2020-04-20T17:52:05.170143+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "**Pathogenic Control Experiment 1 Result**\n\nM519V\n\n**AssayResult**: 22.10 +/- 3.5\n\n**ExperimentResultAssertion**: abnormal",
+      "tags": [
+        "ValidationControl:Pathogenic",
+        "CAID:CA401367186",
+        "CGType:ExperimentResult",
+        "FuncExp:1"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 11945,
+              "type": "TextPositionSelector",
+              "start": 11940
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "M519V",
+              "prefix": "0.14   (10)Late infantile1555ArG",
+              "suffix": "22.10{3.50   (7)Unknown (10% nor"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/-2E9GnKSEeqfOINcor4oDA",
+        "incontext": "https://hyp.is/-2E9GnKSEeqfOINcor4oDA/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/-2E9GnKSEeqfOINcor4oDA"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "We4xTnKTEeqZ0PPoYEAQdA",
+      "created": "2020-03-30T14:32:58.207940+00:00",
+      "updated": "2020-04-20T17:52:12.978125+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "**Pathogenic Control Experiment 1 Result**\n\nW746C\n\n**AssayResult**: 352.0 +/- 78.1\n\n**ExperimentResultAssertion**: abnormal",
+      "tags": [
+        "ClinVarID:265160",
+        "ValidationControl:Pathogenic",
+        "CGType:ExperimentResult",
+        "FuncExp:1"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 11993,
+              "type": "TextPositionSelector",
+              "start": 11988
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "W746C",
+              "prefix": "  (7)Unknown (10% normal)2238GrC",
+              "suffix": "352.00{78.1   (3)Normal polymorp"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/We4xTnKTEeqZ0PPoYEAQdA",
+        "incontext": "https://hyp.is/We4xTnKTEeqZ0PPoYEAQdA/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/We4xTnKTEeqZ0PPoYEAQdA"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    },
+    {
+      "id": "hFOTjnKTEeqCBF9FjiXgXw",
+      "created": "2020-03-30T14:34:09.298147+00:00",
+      "updated": "2020-04-20T17:52:20.586631+00:00",
+      "user": "acct:dkanavy@hypothes.is",
+      "uri": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+      "text": "**Benign Control Experiment 1 Result**\n\nE689K\n\n**AssayResult**: 1906.0 +/- 38.1\n\n**ExperimentResultAssertion**: normal",
+      "tags": [
+        "ClinVarID:4030",
+        "ValidationControl:Benign",
+        "CGType:ExperimentResult",
+        "FuncExp:1"
+      ],
+      "group": "DRL6xW1v",
+      "permissions": {
+        "read": [
+          "group:DRL6xW1v"
+        ],
+        "admin": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "update": [
+          "acct:dkanavy@hypothes.is"
+        ],
+        "delete": [
+          "acct:dkanavy@hypothes.is"
+        ]
+      },
+      "target": [
+        {
+          "source": "https://pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+          "selector": [
+            {
+              "end": 12049,
+              "type": "TextPositionSelector",
+              "start": 12044
+            },
+            {
+              "type": "TextQuoteSelector",
+              "exact": "E689K",
+              "prefix": "rmal polymorphism (GAA\u22174)2065GrA",
+              "suffix": "1906.00{38.1   (3)Normal sense\u2014\u2014"
+            }
+          ]
+        }
+      ],
+      "document": {
+        "title": [
+          "Revista 6-2 jul-dec 2007.p65"
+        ]
+      },
+      "links": {
+        "html": "https://hypothes.is/a/hFOTjnKTEeqCBF9FjiXgXw",
+        "incontext": "https://hyp.is/hFOTjnKTEeqCBF9FjiXgXw/pdf.sciencedirectassets.com/272308/1-s2.0-S0006291X00X03002/1-s2.0-S0006291X98982559/main.pdf",
+        "json": "https://hypothes.is/api/annotations/hFOTjnKTEeqCBF9FjiXgXw"
+      },
+      "flagged": false,
+      "hidden": false,
+      "user_info": {
+        "display_name": null
+      }
+    }
+  ]
+}

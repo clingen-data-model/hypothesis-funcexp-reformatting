@@ -1,0 +1,768 @@
+rows:
+- created: '2020-03-11T15:43:58.198108+00:00'
+  document:
+    title:
+    - 'PII: S0092-8674(85)80054-4'
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: H1DdQGOvEeqQHjdBgiYZ5A
+  links:
+    html: https://hypothes.is/a/H1DdQGOvEeqQHjdBgiYZ5A
+    incontext: https://hyp.is/H1DdQGOvEeqQHjdBgiYZ5A/reader.elsevier.com/reader/sd/pii/S0092867485800544
+    json: https://hypothes.is/api/annotations/H1DdQGOvEeqQHjdBgiYZ5A
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - Gene:LDLR
+  - HGNC:6547
+  - MONDO:0005439
+  - CGType:General
+  target:
+  - selector:
+    - end: 225
+      start: 91
+      type: TextPositionSelector
+    - exact: 'Internalization-Defective LDL Receptors Produced by Genes with Nonsense
+        and Frameshift Mutations That Truncate the Cytoplasmic Domain '
+      prefix: '0092-8674/85/070735-09 $02.00/0 '
+      suffix: Mark A. Lehrman, Joseph L. Golds
+      type: TextQuoteSelector
+    source: https://reader.elsevier.com/reader/sd/pii/S0092867485800544
+  text: '**PMID**: 3924410
+
+
+    **Gene**: LDLR
+
+
+    **Disease**: familial hypercholesterolemia
+
+
+    **MONDO ID**: MONDO:0005439'
+  updated: '2020-03-11T15:43:58.198108+00:00'
+  uri: https://reader.elsevier.com/reader/sd/pii/S0092867485800544
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-11T16:13:55.192525+00:00'
+  document:
+    title:
+    - 'PII: S0092-8674(85)80054-4'
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: TlH6qGOzEeqtEbdtHWz7AQ
+  links:
+    html: https://hypothes.is/a/TlH6qGOzEeqtEbdtHWz7AQ
+    incontext: https://hyp.is/TlH6qGOzEeqtEbdtHWz7AQ/reader.elsevier.com/reader/sd/pii/S0092867485800544
+    json: https://hypothes.is/api/annotations/TlH6qGOzEeqtEbdtHWz7AQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CAID:CA023668
+  - ClinVarID:3703
+  - Variant:1
+  - CGType:VariantID
+  target:
+  - selector:
+    - end: 13405
+      start: 13294
+      type: TextPositionSelector
+    - exact: 'In the FH 683 gene,  an adenine replaced a  guanine, changing amino
+        acid  792 from tryptophan to a stop codon. '
+      prefix: 'agment isolated  from  FH  683. '
+      suffix: Figure 3 shows the sequence of t
+      type: TextQuoteSelector
+    source: https://reader.elsevier.com/reader/sd/pii/S0092867485800544
+  text: 'NM_000527.4:c.2439G>A (p.Trp813Ter)
+
+
+    FH682 and FH683'
+  updated: '2020-04-02T16:33:12.634615+00:00'
+  uri: https://reader.elsevier.com/reader/sd/pii/S0092867485800544
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-11T17:31:49.754893+00:00'
+  document:
+    title:
+    - 'PII: S0092-8674(85)80054-4'
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: MJXUemO-EeqZT9c0rft4QA
+  links:
+    html: https://hypothes.is/a/MJXUemO-EeqZT9c0rft4QA
+    incontext: https://hyp.is/MJXUemO-EeqZT9c0rft4QA/reader.elsevier.com/reader/sd/pii/S0092867485800544
+    json: https://hypothes.is/api/annotations/MJXUemO-EeqZT9c0rft4QA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CAID:CA023673
+  - Variant:2
+  - CGType:VariantID
+  - ClinVarID:3705
+  target:
+  - selector:
+    - end: 13694
+      start: 13406
+      type: TextPositionSelector
+    - exact: igure 3 shows the sequence of the FH 763 clone, which contains a dupli-
+        cation  of four bases (AGAA)  in the region of amino  acid 796. This alters
+        the reading frame of codons distal  to this point.  A  termination codon now  appears
+        eight codons downstream  at amino acid  position  804.
+      prefix: om tryptophan to a stop codon. F
+      suffix: '  (Although  dupli- cation of th'
+      type: TextQuoteSelector
+    source: https://reader.elsevier.com/reader/sd/pii/S0092867485800544
+  text: 'NM_000527.4:c.2447_2450dup (p.Asn817Lysfs)
+
+
+    FH 763'
+  updated: '2020-04-02T16:33:51.656142+00:00'
+  uri: https://reader.elsevier.com/reader/sd/pii/S0092867485800544
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-11T18:26:17.042091+00:00'
+  document:
+    title:
+    - 'PII: S0092-8674(85)80054-4'
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: zAXuFmPFEeqLP48AUE1Wzw
+  links:
+    html: https://hypothes.is/a/zAXuFmPFEeqLP48AUE1Wzw
+    incontext: https://hyp.is/zAXuFmPFEeqLP48AUE1Wzw/reader.elsevier.com/reader/sd/pii/S0092867485800544
+    json: https://hypothes.is/api/annotations/zAXuFmPFEeqLP48AUE1Wzw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - MONDO:0005439
+  - AssayReadOutType:Quantitative
+  - CGType:ExperimentResult
+  - BAO:0002990
+  - CL:0000057
+  - FuncExp:1A
+  target:
+  - selector:
+    - end: 5815
+      start: 5808
+      type: TextPositionSelector
+    - exact: Table 1
+      prefix: 'sellWolfgangJ.SchneiderCell 736 '
+      suffix: . Metabolism of 12~I-LDL by Fibr
+      type: TextQuoteSelector
+    source: https://reader.elsevier.com/reader/sd/pii/S0092867485800544
+  text: "**Experiment 1A Description**\n\n**GeneralClass**: BAO:0002990\n\n**MaterialUsed**:\
+    \ fibroblasts (CL:0000057) derived from patient (CLO:0000015)\n\n**AssayDescription**:\
+    \ patient cells were used to make a fibroblast cell line that was tested for the\
+    \ cells' ability to bind LDL. \n\n**AssayReadOutDescription**: amount of protein\
+    \ present\n\n**AssayReadOutValues**: ng/mg \n\n**AssayReadOutNormal**: similar\
+    \ to wild type\n\n**AssayReadOutAbormal**: different from wild type\n\n**AssayReadOutIndeterminate**:\
+    \ unclear results\n\n**AssayControlNormalControl**: normal fibroblasts\n\n**AssayControlAbnormalControl**:\
+    \ not stated\n\n**ValidationControlPathogenic**: 0\n\n**ValidationControlBenign**:\
+    \ 0\n\n**Replication**: each value represents the mean of triplicate incubations.\n\
+    \n**StatisticalAnalysisDescription**: ND "
+  updated: '2020-04-02T16:30:11.329120+00:00'
+  uri: https://reader.elsevier.com/reader/sd/pii/S0092867485800544
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-11T18:38:00.163749+00:00'
+  document:
+    title:
+    - 'PII: S0092-8674(85)80054-4'
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: byBbMGPHEeqmu5NcWdj9zA
+  links:
+    html: https://hypothes.is/a/byBbMGPHEeqmu5NcWdj9zA
+    incontext: https://hyp.is/byBbMGPHEeqmu5NcWdj9zA/reader.elsevier.com/reader/sd/pii/S0092867485800544
+    json: https://hypothes.is/api/annotations/byBbMGPHEeqmu5NcWdj9zA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - MONDO:0005439
+  - AssayReadOutType:Quantitative
+  - CGType:ExperimentDescription
+  - BAO:0010040
+  - CL:0000057
+  - FuncExp:2
+  target:
+  - selector:
+    - end: 9375
+      start: 9368
+      type: TextPositionSelector
+    - exact: Table 2
+      prefix: 'h enters cells independently of '
+      suffix: . Incorporation of [14C]Oleate i
+      type: TextQuoteSelector
+    source: https://reader.elsevier.com/reader/sd/pii/S0092867485800544
+  text: "**Experiment 2 Description**\n\n**GeneralClass**: BAO:0010040 \n\n**MaterialUsed**:\
+    \ fibroblasts (CL:0000057) derived from patient (CLO:0000015)\n\n**AssayDescription**:\
+    \ patient cells were used to make a fibroblast cell line that was tested for the\
+    \ cells' ability to incorporate 14COlate into cholestery esters. \n\n**AssayReadOutDescription**:\
+    \ Cholesteryl 14COleate formed\n\n**AssayReadOutValues**: pmol per mg/protein\n\
+    \n**AssayReadOutNormal**: similar to wild type\n\n**AssayReadOutAbormal**: different\
+    \ from wild type\n\n**AssayControlNormalControl**: normal fibroblasts\n\n**AssayControlAbnormalControl**:\
+    \ not stated\n\n**ValidationControlPathogenic**: 0\n\n**ValidationControlBenign**:\
+    \ 0\n\n**Replication**: each value represents the mean of triplicate incubations.\n\
+    \n**StatisticalAnalysisDescription**: ND"
+  updated: '2020-04-02T18:37:22.046145+00:00'
+  uri: https://reader.elsevier.com/reader/sd/pii/S0092867485800544
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-04-02T16:28:09.529550+00:00'
+  document:
+    title:
+    - 'PII: S0092-8674(85)80054-4'
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 8KTgFnT-Eeq1vbNChkzMKw
+  links:
+    html: https://hypothes.is/a/8KTgFnT-Eeq1vbNChkzMKw
+    incontext: https://hyp.is/8KTgFnT-Eeq1vbNChkzMKw/pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+    json: https://hypothes.is/api/annotations/8KTgFnT-Eeq1vbNChkzMKw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - MONDO:0005439
+  - BAO:0002990
+  - CL:0000057
+  - AssayReadOutType:Quantitative
+  - CGType:ExperimentDescription
+  - FuncExp:1B
+  target:
+  - selector:
+    - end: 5816
+      start: 5808
+      type: TextPositionSelector
+    - exact: Table 1.
+      prefix: 'lings with the classic Cell 736 '
+      suffix: ' Metabolism of 12~I-LDL by Fibro'
+      type: TextQuoteSelector
+    source: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  text: "**Experiment 1B Description**\n\n**GeneralClass**: BAO:0002990\n\n**MaterialUsed**:\
+    \ fibroblasts (CL:0000057) derived from patient (CLO:0000015)\n\n**AssayDescription**:\
+    \ patient cells were used to make a fibroblast cell line that was tested for the\
+    \ cells' ability to  internalize the protein into the cell. \n\n**AssayReadOutDescription**:\
+    \ amount of protein present\n\n**AssayReadOutValues**: ng/mg \n\n**AssayReadOutNormal**:\
+    \ similar to wild type\n\n**AssayReadOutAbormal**: different from wild type\n\n\
+    **AssayReadOutIndeterminate**: unclear results\n\n**AssayControlNormalControl**:\
+    \ normal fibroblasts\n\n**AssayControlAbnormalControl**: not stated\n\n**ValidationControlPathogenic**:\
+    \ 0\n\n**ValidationControlBenign**: 0\n\n**Replication**: each value represents\
+    \ the mean of triplicate incubations.\n\n**StatisticalAnalysisDescription**: ND"
+  updated: '2020-04-02T16:30:03.037160+00:00'
+  uri: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-04-02T16:29:48.479030+00:00'
+  document:
+    title:
+    - 'PII: S0092-8674(85)80054-4'
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: K7j7pnT_EeqgNf-yFyLOVQ
+  links:
+    html: https://hypothes.is/a/K7j7pnT_EeqgNf-yFyLOVQ
+    incontext: https://hyp.is/K7j7pnT_EeqgNf-yFyLOVQ/pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+    json: https://hypothes.is/api/annotations/K7j7pnT_EeqgNf-yFyLOVQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - MONDO:0005439
+  - BAO:0002990
+  - CL:0000057
+  - AssayReadOutType:Quantitative
+  - CGType:ExperimentDescription
+  - FuncExp:1C
+  target:
+  - selector:
+    - end: 5815
+      start: 5808
+      type: TextPositionSelector
+    - exact: Table 1
+      prefix: 'lings with the classic Cell 736 '
+      suffix: . Metabolism of 12~I-LDL by Fibr
+      type: TextQuoteSelector
+    source: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  text: "**Experiment 1C Description**\n\n**GeneralClass**: BAO:0002990\n\n**MaterialUsed**:\
+    \ fibroblasts (CL:0000057) derived from patient (CLO:0000015)\n\n**AssayDescription**:\
+    \ patient cells were used to make a fibroblast cell line that was tested for the\
+    \ cells' ability to degrade LDL. \n\n**AssayReadOutDescription**: amount of protein\
+    \ present\n\n**AssayReadOutValues**: ng/mg \n\n**AssayReadOutNormal**: similar\
+    \ to wild type\n\n**AssayReadOutAbormal**: different from wild type\n\n**AssayReadOutIndeterminate**:\
+    \ unclear results\n\n**AssayControlNormalControl**: normal fibroblasts\n\n**AssayControlAbnormalControl**:\
+    \ not stated\n\n**ValidationControlPathogenic**: 0\n\n**ValidationControlBenign**:\
+    \ 0\n\n**Replication**: each value represents the mean of triplicate incubations.\n\
+    \n**StatisticalAnalysisDescription**: ND"
+  updated: '2020-04-02T16:29:48.479030+00:00'
+  uri: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-04-02T16:37:58.429953+00:00'
+  document:
+    title:
+    - 'PII: S0092-8674(85)80054-4'
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: T6vsXHUAEeqklTtzw9BaBw
+  links:
+    html: https://hypothes.is/a/T6vsXHUAEeqklTtzw9BaBw
+    incontext: https://hyp.is/T6vsXHUAEeqklTtzw9BaBw/pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+    json: https://hypothes.is/api/annotations/T6vsXHUAEeqklTtzw9BaBw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExpResults:1A
+  - Variant:1
+  - ClinVarID:3703
+  - CGType:ExperimentResult
+  target:
+  - selector:
+    - end: 6094
+      start: 6092
+      type: TextPositionSelector
+    - exact: '42'
+      prefix: ' 44 FH 682 42 19 10 0.69 FH 683 '
+      suffix: ' 21 14 0.82 Experiment B Normal '
+      type: TextQuoteSelector
+    source: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  text: '**Variant 1 Experiment 1A Result**
+
+
+    FH682/683
+
+
+    **AssayResult**: 42
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-02T16:37:58.429953+00:00'
+  uri: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-04-02T16:38:53.356579+00:00'
+  document:
+    title:
+    - 'PII: S0092-8674(85)80054-4'
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: cGLRVHUAEeq69TelR1Qi_A
+  links:
+    html: https://hypothes.is/a/cGLRVHUAEeq69TelR1Qi_A
+    incontext: https://hyp.is/cGLRVHUAEeq69TelR1Qi_A/pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+    json: https://hypothes.is/api/annotations/cGLRVHUAEeq69TelR1Qi_A
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExpResults:1B
+  - Variant:1
+  - ClinVarID:3703
+  - CGType:ExperimentResult
+  target:
+  - selector:
+    - end: 6097
+      start: 6095
+      type: TextPositionSelector
+    - exact: '21'
+      prefix: ' FH 682 42 19 10 0.69 FH 683 42 '
+      suffix: ' 14 0.82 Experiment B Normal 213'
+      type: TextQuoteSelector
+    source: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  text: '**Variant 1 Experiment 1B Result**
+
+
+    FH682/683
+
+
+    **AssayResult**: 21
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-02T16:38:53.356579+00:00'
+  uri: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-04-02T16:39:33.758488+00:00'
+  document:
+    title:
+    - 'PII: S0092-8674(85)80054-4'
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: iHiunnUAEeqS6180uQz4eA
+  links:
+    html: https://hypothes.is/a/iHiunnUAEeqS6180uQz4eA
+    incontext: https://hyp.is/iHiunnUAEeqS6180uQz4eA/pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+    json: https://hypothes.is/api/annotations/iHiunnUAEeqS6180uQz4eA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExpResults:1C
+  - Variant:1
+  - ClinVarID:3703
+  - CGType:ExperimentResult
+  target:
+  - selector:
+    - end: 6100
+      start: 6098
+      type: TextPositionSelector
+    - exact: '14'
+      prefix: ' 682 42 19 10 0.69 FH 683 42 21 '
+      suffix: ' 0.82 Experiment B Normal 213 10'
+      type: TextQuoteSelector
+    source: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  text: '**Variant 1 Experiment 1C Result**
+
+
+    FH682/683
+
+
+    **AssayResult**: 14
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-02T16:39:33.758488+00:00'
+  uri: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-04-02T16:40:43.949064+00:00'
+  document:
+    title:
+    - 'PII: S0092-8674(85)80054-4'
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: sk1TRnUAEeqp4qfI91gKfw
+  links:
+    html: https://hypothes.is/a/sk1TRnUAEeqp4qfI91gKfw
+    incontext: https://hyp.is/sk1TRnUAEeqp4qfI91gKfw/pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+    json: https://hypothes.is/api/annotations/sk1TRnUAEeqp4qfI91gKfw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExpResults:1A
+  - Variant:2
+  - ClinVarID:3705
+  - CGType:ExperimentResult
+  target:
+  - selector:
+    - end: 6276
+      start: 6274
+      type: TextPositionSelector
+    - exact: '47'
+      prefix: 'C Normal 130 950 3480 34 FH 763 '
+      suffix: ' 50 120 3.6 After incubation of '
+      type: TextQuoteSelector
+    source: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  text: '**Variant 2 Experiment 1A Result**
+
+
+    FH763
+
+
+    **AssayResult**: 47
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-02T16:41:18.930475+00:00'
+  uri: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-04-02T16:41:54.703385+00:00'
+  document:
+    title:
+    - 'PII: S0092-8674(85)80054-4'
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 3H3utHUAEeqgzi8VBBkvHw
+  links:
+    html: https://hypothes.is/a/3H3utHUAEeqgzi8VBBkvHw
+    incontext: https://hyp.is/3H3utHUAEeqgzi8VBBkvHw/pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+    json: https://hypothes.is/api/annotations/3H3utHUAEeqgzi8VBBkvHw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExpResults:1B
+  - Variant:2
+  - ClinVarID:3705
+  - CGType:ExperimentResult
+  target:
+  - selector:
+    - end: 6279
+      start: 6277
+      type: TextPositionSelector
+    - exact: '50'
+      prefix: 'ormal 130 950 3480 34 FH 763 47 '
+      suffix: ' 120 3.6 After incubation of cel'
+      type: TextQuoteSelector
+    source: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  text: '**Variant 2 Experiment 1B Result**
+
+
+    FH763
+
+
+    **AssayResult**: 50
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-02T16:41:54.703385+00:00'
+  uri: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-04-02T16:42:40.219425+00:00'
+  document:
+    title:
+    - 'PII: S0092-8674(85)80054-4'
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 95gr9nUAEeqgM-_q5eJmpQ
+  links:
+    html: https://hypothes.is/a/95gr9nUAEeqgM-_q5eJmpQ
+    incontext: https://hyp.is/95gr9nUAEeqgM-_q5eJmpQ/pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+    json: https://hypothes.is/api/annotations/95gr9nUAEeqgM-_q5eJmpQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExpResults:1C
+  - Variant:2
+  - ClinVarID:3705
+  - CGType:ExperimentResult
+  target:
+  - selector:
+    - end: 6283
+      start: 6280
+      type: TextPositionSelector
+    - exact: '120'
+      prefix: 'al 130 950 3480 34 FH 763 47 50 '
+      suffix: ' 3.6 After incubation of cells f'
+      type: TextQuoteSelector
+    source: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  text: '**Variant 2 Experiment 1C Result**
+
+
+    FH763
+
+
+    **AssayResult**: 120
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-02T16:42:40.219425+00:00'
+  uri: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-04-02T18:47:25.909922+00:00'
+  document:
+    title:
+    - 'PII: S0092-8674(85)80054-4'
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: ZWm_5HUSEeqFbXcv0ojYEg
+  links:
+    html: https://hypothes.is/a/ZWm_5HUSEeqFbXcv0ojYEg
+    incontext: https://hyp.is/ZWm_5HUSEeqFbXcv0ojYEg/pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+    json: https://hypothes.is/api/annotations/ZWm_5HUSEeqFbXcv0ojYEg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExpResults:2
+  - Variant:1
+  - ClinVarID:3703
+  - CGType:ExperimentResult
+  target:
+  - selector:
+    - end: 9655
+      start: 9653
+      type: TextPositionSelector
+    - exact: '90'
+      prefix: '60 FH 682 89 90 3000 FH 683 117 '
+      suffix: ' 3150 Experiment B Normal 143 65'
+      type: TextQuoteSelector
+    source: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  text: '**Variant 1 Experiment 2 Result**
+
+
+    FH682/683
+
+
+    **AssayResult**: 90
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-02T18:47:25.909922+00:00'
+  uri: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-04-02T18:48:11.605453+00:00'
+  document:
+    title:
+    - 'PII: S0092-8674(85)80054-4'
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: gK0sHnUSEeqOTcdjlJ9PZQ
+  links:
+    html: https://hypothes.is/a/gK0sHnUSEeqOTcdjlJ9PZQ
+    incontext: https://hyp.is/gK0sHnUSEeqOTcdjlJ9PZQ/pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+    json: https://hypothes.is/api/annotations/gK0sHnUSEeqOTcdjlJ9PZQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExpResults:2
+  - Variant:2
+  - ClinVarID:3705
+  - CGType:ExperimentResult
+  target:
+  - selector:
+    - end: 9709
+      start: 9706
+      type: TextPositionSelector
+    - exact: '125'
+      prefix: 'Normal 143 6510 2280 FH 763 120 '
+      suffix: ' 2310 After incubation of cells '
+      type: TextQuoteSelector
+    source: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  text: '**Variant 2 Experiment 2 Result**
+
+
+    FH763
+
+
+    **AssayResult**: 125
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-02T18:48:11.605453+00:00'
+  uri: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X06459/1-s2.0-S0092867485800544/main.pdf
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+total: 15

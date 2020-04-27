@@ -1,0 +1,2055 @@
+rows:
+- created: '2019-01-09T18:25:04.403968+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 4pWlPhQ7EemUcEPQdHs8eg
+  links:
+    html: https://hypothes.is/a/4pWlPhQ7EemUcEPQdHs8eg
+    incontext: https://hyp.is/4pWlPhQ7EemUcEPQdHs8eg/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/4pWlPhQ7EemUcEPQdHs8eg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - DiseaseMechanism
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0020
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[3]
+      endOffset: 697
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[3]
+      startOffset: 233
+      type: RangeSelector
+    - end: 11146
+      start: 10682
+      type: TextPositionSelector
+    - exact: "PTEN antagonizes the phosphoinositide 3-kinase (PI3K) signaling pathway\
+        \ through its lipid phosphatase activity toward the signaling lipid phosphatidylinositol\
+        \ (3,4,5)-trisphosphate (PIP3).9, 10 In mice, loss of this activity increases\
+        \ tumor susceptibility in a dose-dependent\_manner.11 This observation led\
+        \ to a continuum model for PTEN\u2019s role in cancer development, with the\
+        \ level of phenotypic severity tightly coupled to the level of lipid phosphatase\
+        \ activity."
+      prefix: 'n homolog (PTEN [MIM: 601728]). '
+      suffix: 12Germline PTEN mutations are as
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-09T18:25:04.403968+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-09T18:37:32.425480+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: oI7qLBQ9EemKXqNOPLb9sA
+  links:
+    html: https://hypothes.is/a/oI7qLBQ9EemKXqNOPLb9sA
+    incontext: https://hyp.is/oI7qLBQ9EemKXqNOPLb9sA/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/oI7qLBQ9EemKXqNOPLb9sA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags: []
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0030
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      endOffset: 384
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      startOffset: 179
+      type: RangeSelector
+    - end: 12510
+      start: 12305
+      type: TextPositionSelector
+    - exact: This is exemplified by the fact that a majority of missense variants
+        (131/241, 54%) in ClinVar are considered VUS and seven additional variants
+        have inconsistent pathogenicity reported across laboratories.
+      prefix: 'ic effect is still challenging. '
+      suffix: ' Recent evidence from functional'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: Looking at clinical classification of variants.
+  updated: '2019-01-09T18:37:32.425480+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-09T18:54:57.827979+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: D4nxGBRAEemCrUdvHeJSLw
+  links:
+    html: https://hypothes.is/a/D4nxGBRAEemCrUdvHeJSLw
+    incontext: https://hyp.is/D4nxGBRAEemCrUdvHeJSLw/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/D4nxGBRAEemCrUdvHeJSLw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - GeneticManipulation
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[6]/div[2]/h3[1]
+      endOffset: 27
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[6]/div[2]/h3[1]/em[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 15283
+      start: 15256
+      type: TextPositionSelector
+    - exact: PTEN Saturation Mutagenesis
+      prefix: horts.Go to:Material and Methods
+      suffix: We obtained wild-type PTEN seque
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-09T18:54:57.827979+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-09T18:56:37.113633+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: SpkaLBRAEem8j68uJhuN2Q
+  links:
+    html: https://hypothes.is/a/SpkaLBRAEem8j68uJhuN2Q
+    incontext: https://hyp.is/SpkaLBRAEem8j68uJhuN2Q/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/SpkaLBRAEem8j68uJhuN2Q
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - NCBITaxon:4932_SaccharomycesCerevisiae
+  - MaterialUsed
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0050
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[6]/div[3]/p[1]
+      endOffset: 256
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[6]/div[3]/p[1]/em[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 17476
+      start: 17448
+      type: TextPositionSelector
+    - exact: "S.\_cerevisiae strain YPH-499"
+      prefix: 'a-pool was transformed into the '
+      suffix: ', which already contained YCpLG-'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-02-21T14:56:37.830101+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-09T19:00:45.538719+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 3q9O1BRAEemonpMwKBxQPA
+  links:
+    html: https://hypothes.is/a/3q9O1BRAEemonpMwKBxQPA
+    incontext: https://hyp.is/3q9O1BRAEemonpMwKBxQPA/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/3q9O1BRAEemonpMwKBxQPA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - GeneticManipulation
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[6]/div[3]/h3[1]
+      endOffset: 27
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[6]/div[3]/h3[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 17220
+      start: 17193
+      type: TextPositionSelector
+    - exact: Yeast Selection Experiments
+      prefix: prep Spin Miniprep Kit (QIAGEN).
+      suffix: Plasmid libraries were normalize
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: 'Possible variants differed by one codon from the wild type PTEN sequence.
+    These sequences were transformed into E. coli and then plasmids were isolated.
+    The plasmids were then transformed in S. cerevisiae. '
+  updated: '2019-01-09T19:00:45.538719+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-09T19:39:24.512249+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: ROzPWhRGEem9ivuRPGjGdQ
+  links:
+    html: https://hypothes.is/a/ROzPWhRGEem9ivuRPGjGdQ
+    incontext: https://hyp.is/ROzPWhRGEem9ivuRPGjGdQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/ROzPWhRGEem9ivuRPGjGdQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags: []
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0070
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[6]/div[6]/p[1]
+      endOffset: 498
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[6]/div[6]/p[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 21390
+      start: 20892
+      type: TextPositionSelector
+    - exact: We considered any PTEN missense or nonsense (excluding frameshifting
+        insertions or deletions [indels]) mutation in the gnomAD database1 (accessed
+        11/19/17) to be benign, with the exception of two variants that are considered
+        pathogenic in ClinVar (p.Lys289Glu and p.Arg173His). We considered single-residue
+        missense mutations from ClinVar (accessed 09/30/17) that were considered either
+        pathogenic or likely pathogenic, were submitted with criteria, and had no
+        conflicting reports to be pathogenic.
+      prefix: gh-confidence.Mutation Collation
+      suffix: ' We collected ASD-associated var'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: Benign and pathogenic classification according to ClinVar
+  updated: '2019-01-09T19:39:24.512249+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-09T20:04:37.804456+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: ytk2RhRJEemZer9zZhxu2w
+  links:
+    html: https://hypothes.is/a/ytk2RhRJEemZer9zZhxu2w
+    incontext: https://hyp.is/ytk2RhRJEemZer9zZhxu2w/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/ytk2RhRJEemZer9zZhxu2w
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - ECO:0001563_CellGrowthAssayEvidence
+  - ECO:0001067 in vitro phosphatase Assay Evidence
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0085
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/p[1]
+      endOffset: 975
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/p[1]
+      startOffset: 900
+      type: RangeSelector
+    - end: 21060
+      start: 20985
+      type: TextPositionSelector
+    - exact: growth rate provides a quantitative surrogate of lipid phosphatase activity
+      prefix: " survive (Figure\_1A). Moreover, "
+      suffix: ' with partial loss-of-function m'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: Growth rate functional assay to assess lipid phosphatase activity
+  updated: '2019-01-09T20:04:37.804456+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-09T20:12:13.291024+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 2lYUThRKEeme_FefyH4dAw
+  links:
+    html: https://hypothes.is/a/2lYUThRKEeme_FefyH4dAw
+    incontext: https://hyp.is/2lYUThRKEeme_FefyH4dAw/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/2lYUThRKEeme_FefyH4dAw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - Replication
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0095
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/p[3]
+      endOffset: 78
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/p[3]
+      startOffset: 0
+      type: RangeSelector
+    - end: 23084
+      start: 23006
+      type: TextPositionSelector
+    - exact: We transformed two independent yeast populations with our mutagenesis
+        library.
+      prefix: "ase-pair quadrants (Figure\_S2A)."
+      suffix: ' Sequencing of naive yeast libra'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-09T20:12:13.291024+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-09T20:12:34.915891+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 5z3yOhRKEembdIsPgd13OQ
+  links:
+    html: https://hypothes.is/a/5z3yOhRKEembdIsPgd13OQ
+    incontext: https://hyp.is/5z3yOhRKEembdIsPgd13OQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/5z3yOhRKEembdIsPgd13OQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - Replication
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0095
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/p[3]
+      endOffset: 495
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/p[3]
+      startOffset: 375
+      type: RangeSelector
+    - end: 23501
+      start: 23381
+      type: TextPositionSelector
+    - exact: We then performed selection experiments on these two independent yeast
+        populations, each with three selection replicates
+      prefix: 'ch repeatedly performed poorly. '
+      suffix: " (Figure\_1B). We calculated natu"
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-09T20:12:34.915891+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-09T20:13:06.371525+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: -f7O7hRKEemlGmf8eYvACQ
+  links:
+    html: https://hypothes.is/a/-f7O7hRKEemlGmf8eYvACQ
+    incontext: https://hyp.is/-f7O7hRKEemlGmf8eYvACQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/-f7O7hRKEemlGmf8eYvACQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - ValidationofAssay
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0095
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/p[3]
+      endOffset: 652
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/p[3]
+      startOffset: 611
+      type: RangeSelector
+    - end: 23658
+      start: 23617
+      type: TextPositionSelector
+    - exact: standard error-based confidence intervals
+      prefix: 'es for each variant, along with '
+      suffix: " (Material and Methods, Figure\_S"
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-09T20:13:06.371525+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-09T20:18:03.607587+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: qygeghRLEemlGw841-hpMQ
+  links:
+    html: https://hypothes.is/a/qygeghRLEemlGw841-hpMQ
+    incontext: https://hyp.is/qygeghRLEemlGw841-hpMQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/qygeghRLEemlGw841-hpMQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - AssayResult
+  - QuantitativeResult
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0095
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/p[3]
+      endOffset: 1189
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/p[3]
+      startOffset: 1110
+      type: RangeSelector
+    - end: 24195
+      start: 24116
+      type: TextPositionSelector
+    - exact: scores for 7,244 mutations (86% of intended) were classified as high
+        confidence
+      prefix: 'error or replicate concordance, '
+      suffix: ' (Material and Methods, Tables 1'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: Trustworthy results
+  updated: '2019-01-14T15:07:57.613077+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-09T20:33:03.303526+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: w4fwNhRNEemlHjNKQMzygA
+  links:
+    html: https://hypothes.is/a/w4fwNhRNEemlHjNKQMzygA
+    incontext: https://hyp.is/w4fwNhRNEemlHjNKQMzygA/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/w4fwNhRNEemlHjNKQMzygA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - Replication
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: __p5
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[2]/p[4]
+      endOffset: 258
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[2]/p[4]
+      startOffset: 172
+      type: RangeSelector
+    - end: 22001
+      start: 21915
+      type: TextPositionSelector
+    - exact: We performed two biological replicates, each consisting of three technical
+        replicates.
+      prefix: 'ed selection in liquid culture. '
+      suffix: (C) We collected input and selec
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-09T20:33:03.303526+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T13:52:49.524822+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: rjxgIhgDEemQU68YhJQH2w
+  links:
+    html: https://hypothes.is/a/rjxgIhgDEemQU68YhJQH2w
+    incontext: https://hyp.is/rjxgIhgDEemQU68YhJQH2w/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/rjxgIhgDEemQU68YhJQH2w
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags: []
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: ui-ncbiinpagenav-1
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/h1[1]
+      endOffset: 119
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/h1[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 5389
+      start: 5270
+      type: TextPositionSelector
+    - exact: A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase
+        Activity and Genotype-Phenotype Relationships
+      prefix: '8PMCID: PMC5986715PMID: 29706350'
+      suffix: Taylor L. Mighell,1,2 Sara Evans
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: 'PMID: 29706350'
+  updated: '2019-01-14T13:52:49.524822+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:00:42.935901+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: yFxr9BgEEemW9w-HWGlLHg
+  links:
+    html: https://hypothes.is/a/yFxr9BgEEemW9w-HWGlLHg
+    incontext: https://hyp.is/yFxr9BgEEemW9w-HWGlLHg/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/yFxr9BgEEemW9w-HWGlLHg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - ECO:0005529_RandomMutagenesisEvidence
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0020
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[3]
+      endOffset: 69
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[3]
+      startOffset: 47
+      type: RangeSelector
+    - end: 10533
+      start: 10511
+      type: TextPositionSelector
+    - exact: saturation mutagenesis
+      prefix: 'es in mind, we have developed a '
+      suffix: ' approach to comprehensively ass'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: 'Random mutagenesis technique in which a single or set of codons are randomized
+    to produce all possible amino acids at that position. '
+  updated: '2019-01-14T14:00:42.935901+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:06:19.814811+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: kSifWBgFEemaE6urN6mgrA
+  links:
+    html: https://hypothes.is/a/kSifWBgFEemaE6urN6mgrA
+    incontext: https://hyp.is/kSifWBgFEemaE6urN6mgrA/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/kSifWBgFEemaE6urN6mgrA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags: []
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0030
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      endOffset: 684
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      startOffset: 672
+      type: RangeSelector
+    - end: 12825
+      start: 12813
+      type: TextPositionSelector
+    - exact: 'hypomorphic '
+      prefix: 'ious PHTS features tend to have '
+      suffix: lipid phosphatase activity, whil
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: =reduced
+  updated: '2019-01-14T14:06:19.814811+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:06:58.111466+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: p_r6oBgFEem2fAMECHL0EQ
+  links:
+    html: https://hypothes.is/a/p_r6oBgFEem2fAMECHL0EQ
+    incontext: https://hyp.is/p_r6oBgFEem2fAMECHL0EQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/p_r6oBgFEem2fAMECHL0EQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - AimofStudy
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0030
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      endOffset: 1300
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      startOffset: 1064
+      type: RangeSelector
+    - end: 13441
+      start: 13205
+      type: TextPositionSelector
+    - exact: These findings, as well as the established genotype-phenotype relationships
+        for PTEN in cancer, led us to hypothesize that, at the population level, ASD-associated
+        PTEN variants are hypomorphic compared to PHTS-associated PTEN variants.
+      prefix: 'n ASD compared with PHTS.26, 28 '
+      suffix: To systematically test this hypo
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: Article hypothesis
+  updated: '2019-01-14T14:06:58.111466+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:07:35.103585+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: vkVZ1hgFEemxTMduCjJJgg
+  links:
+    html: https://hypothes.is/a/vkVZ1hgFEemxTMduCjJJgg
+    incontext: https://hyp.is/vkVZ1hgFEemxTMduCjJJgg/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/vkVZ1hgFEemxTMduCjJJgg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - TypeOfAssay
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0035
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[6]/em[3]
+      endOffset: 7
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[6]
+      startOffset: 182
+      type: RangeSelector
+    - end: 13731
+      start: 13623
+      type: TextPositionSelector
+    - exact: "massively parallel functional testing of the effects of PTEN mutations\
+        \ on lipid phosphatase activity in\_vivo"
+      prefix: 'dated humanized yeast model for '
+      suffix: '.25, 29 Given that yeast do not '
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-02-20T20:48:51.727226+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:09:49.736514+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: DnbeFhgGEemxTn_JsgTgQg
+  links:
+    html: https://hypothes.is/a/DnbeFhgGEemxTn_JsgTgQg
+    incontext: https://hyp.is/DnbeFhgGEemxTn_JsgTgQg/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/DnbeFhgGEemxTn_JsgTgQg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - Advantage
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0035
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[6]
+      endOffset: 926
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[6]
+      startOffset: 298
+      type: RangeSelector
+    - end: 14367
+      start: 13739
+      type: TextPositionSelector
+    - exact: "Given that yeast do not signal through PIP3-dependent pathways,30 this\
+        \ model system challenges PTEN protein variants to act on their preferred\
+        \ substrate in a cellular environment, but removes the confounding signaling\
+        \ and regulatory milieu present in mammalian cells. Accordingly, the model\
+        \ is more sensitive than in\_vitro assays in which PTEN dephosphorylates a\
+        \ water-soluble substrate.31 The utility of the yeast model for measuring\
+        \ lipid phosphatase activity has been demonstrated through validation of mutation\
+        \ effects on downstream Akt1 activation in mammalian cells, exhibiting complete\
+        \ concordance for the variants tested"
+      prefix: "phatase activity in\_vivo.25, 29 "
+      suffix: .31With this system, we analyzed
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: Advantage of using a yeast model. Assay has been validated for use with this
+    system.
+  updated: '2019-01-14T14:09:49.736514+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:13:13.039271+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: h2xP4BgGEemxT1_XlDZcIg
+  links:
+    html: https://hypothes.is/a/h2xP4BgGEemxT1_XlDZcIg
+    incontext: https://hyp.is/h2xP4BgGEemxT1_XlDZcIg/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/h2xP4BgGEemxT1_XlDZcIg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags: []
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0040
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[7]
+      endOffset: 105
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[7]
+      startOffset: 17
+      type: RangeSelector
+    - end: 14475
+      start: 14387
+      type: TextPositionSelector
+    - exact: ' we analyzed the functional effect of 86% of all possible single amino
+        acid alterations.'
+      prefix: iants tested.31With this system,
+      suffix: ' Overlaying these data onto PTEN'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: 'Able to effectively look at 86% of possible PTEN variants with high confidence
+    data to analyze function. '
+  updated: '2019-01-14T14:13:13.039271+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:14:29.833109+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: tYQfAhgGEem2R5eodEaazg
+  links:
+    html: https://hypothes.is/a/tYQfAhgGEem2R5eodEaazg
+    incontext: https://hyp.is/tYQfAhgGEem2R5eodEaazg/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/tYQfAhgGEem2R5eodEaazg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - NCBITaxon:562_E.coli
+  - MaterialUsed
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0045
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[6]/div[2]/p[1]
+      endOffset: 1696
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[6]/div[2]/p[1]
+      startOffset: 1659
+      type: RangeSelector
+    - end: 16994
+      start: 16957
+      type: TextPositionSelector
+    - exact: "NEB 10-beta electrocompetent E.\_coli."
+      prefix: " used to electroporate 50\_\u03BCL of "
+      suffix: ' Transformation reactions were p'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-02-21T14:55:38.254786+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:15:20.304621+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 00yJmBgGEemXXltqSJjfNw
+  links:
+    html: https://hypothes.is/a/00yJmBgGEemXXltqSJjfNw
+    incontext: https://hyp.is/00yJmBgGEemXXltqSJjfNw/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/00yJmBgGEemXXltqSJjfNw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - StatisticalTest
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0065
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[6]/div[5]/p[1]
+      endOffset: 944
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[6]/div[5]/p[1]
+      startOffset: 577
+      type: RangeSelector
+    - end: 20889
+      start: 20522
+      type: TextPositionSelector
+    - exact: "If the 95% confidence interval (based on the standard error) of the\
+        \ fitness score was \u22641, the variant was considered high-confidence. If\
+        \ the 95% confidence interval was >1 but the measurements from each biological\
+        \ replicate were concordant (both lower or both higher than the 95% bound\
+        \ of the synonymous distribution), the variant was also considered high-confidence."
+      prefix: 'andard errors for each variant. '
+      suffix: 'Mutation CollationWe considered '
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-14T14:15:20.304621+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:16:19.347331+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 9ojO-BgGEemW_dcdHi5kuw
+  links:
+    html: https://hypothes.is/a/9ojO-BgGEemW_dcdHi5kuw
+    incontext: https://hyp.is/9ojO-BgGEemW_dcdHi5kuw/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/9ojO-BgGEemW_dcdHi5kuw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - StatisticalTest
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0070
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[6]/div[6]/p[1]
+      endOffset: 1013
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[6]/div[6]/p[1]
+      startOffset: 968
+      type: RangeSelector
+    - end: 21920
+      start: 21875
+      type: TextPositionSelector
+    - exact: Mann-Whitney U test to compare fitness scores
+      prefix: ' we considered it PHTS. We used '
+      suffix: ' (including high and low confide'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-14T14:16:19.347331+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:18:33.195629+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: Rk67MhgHEemudkNsCbLuYw
+  links:
+    html: https://hypothes.is/a/Rk67MhgHEemudkNsCbLuYw
+    incontext: https://hyp.is/Rk67MhgHEemudkNsCbLuYw/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/Rk67MhgHEemudkNsCbLuYw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - GeneticManipulation
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0090
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/p[2]
+      endOffset: 572
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/p[2]
+      startOffset: 508
+      type: RangeSelector
+    - end: 26259
+      start: 26195
+      type: TextPositionSelector
+    - exact: " utilizing a\_homologous recombination-based mutagenesis approach"
+      prefix: ion at all PTEN codons en masse,
+      suffix: ' (Material and Methods, Figures '
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-14T14:18:33.195629+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:30:56.827147+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: AXtDthgJEemQVhN5mjXRdQ
+  links:
+    html: https://hypothes.is/a/AXtDthgJEemQVhN5mjXRdQ
+    incontext: https://hyp.is/AXtDthgJEemQVhN5mjXRdQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/AXtDthgJEemQVhN5mjXRdQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - TypeofAssay
+  - BAO:0002045_PrimaryStructureAnalysisMethod
+  - QualitativeResult
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0100
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/p[1]
+      endOffset: 132
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/p[1]
+      startOffset: 50
+      type: RangeSelector
+    - end: 30241
+      start: 30159
+      type: TextPositionSelector
+    - exact: structure-function relationships, including known or predicted functional
+        domains.
+      prefix: 'fidence data, we first analyzed '
+      suffix: ' Our complete sequence function '
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-14T15:10:46.904459+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:33:01.920772+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: TBmVbBgJEemJJvMv5sY16w
+  links:
+    html: https://hypothes.is/a/TBmVbBgJEemJJvMv5sY16w
+    incontext: https://hyp.is/TBmVbBgJEemJJvMv5sY16w/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/TBmVbBgJEemJJvMv5sY16w
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags: []
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0100
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/p[1]
+      endOffset: 367
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/p[1]
+      startOffset: 237
+      type: RangeSelector
+    - end: 30476
+      start: 30346
+      type: TextPositionSelector
+    - exact: 'early truncating mutations are uniformly damaging through the phosphatase
+        and C2 domain, but are tolerated in the regulatory tail '
+      prefix: 'PTEN biochemistry. For example, '
+      suffix: "(Figure\_2A).31 Overlaying the me"
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: Some mutations tolerated, some are not
+  updated: '2019-01-14T14:33:01.920772+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:33:44.623858+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: ZYmuJBgJEembQN-47e4gJg
+  links:
+    html: https://hypothes.is/a/ZYmuJBgJEembQN-47e4gJg
+    incontext: https://hyp.is/ZYmuJBgJEembQN-47e4gJg/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/ZYmuJBgJEembQN-47e4gJg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags: []
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0100
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/p[1]
+      endOffset: 637
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/p[1]
+      startOffset: 525
+      type: RangeSelector
+    - end: 30746
+      start: 30634
+      type: TextPositionSelector
+    - exact: 'strong intolerance of positions in the phosphatase domain, especially
+        those positions near the catalytic pocket '
+      prefix: "dues 7\u2013285 and 310\u2013353) reveals "
+      suffix: "(Figure\_2B). The median fitness "
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: Phosphatase domain, especially near the catalytic pocket, and C2 domain do
+    not tolerate mutations.
+  updated: '2019-01-14T14:33:44.623858+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:34:28.352135+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: f5syphgJEemrwQe_kes41g
+  links:
+    html: https://hypothes.is/a/f5syphgJEemrwQe_kes41g
+    incontext: https://hyp.is/f5syphgJEemrwQe_kes41g/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/f5syphgJEemrwQe_kes41g
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags: []
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0100
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/p[1]
+      endOffset: 875
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/p[1]
+      startOffset: 761
+      type: RangeSelector
+    - end: 30984
+      start: 30870
+      type: TextPositionSelector
+    - exact: When compared to positions in alpha helices and beta strands, unstructured
+        positions are very tolerant to mutation
+      prefix: "pearman, \u03C1 = 0.58, Figure\_S3E). "
+      suffix: " (Figure\_S3F).Open in a separate"
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: Regulatory tail and unstructured positions tolerate mutations.
+  updated: '2019-01-14T14:34:28.352135+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:40:04.731862+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: SEgT1hgKEemXVdvRSjlVMA
+  links:
+    html: https://hypothes.is/a/SEgT1hgKEemXVdvRSjlVMA
+    incontext: https://hyp.is/SEgT1hgKEemXVdvRSjlVMA/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/SEgT1hgKEemXVdvRSjlVMA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags: []
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0105
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/p[2]
+      endOffset: 429
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/p[2]
+      startOffset: 225
+      type: RangeSelector
+    - end: 32821
+      start: 32617
+      type: TextPositionSelector
+    - exact: Arg130 is a hot spot for somatic cancer-associated mutations with multiple
+        different missense and truncations frequently reported.44 We observed that
+        this critical position was intolerant to all mutations
+      prefix: 'f (123-HisCysXXGlyXXArg-130).43 '
+      suffix: " (Figure\_2E). Compared to other "
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: This position will not tolerate mutations.
+  updated: '2019-01-14T14:40:04.731862+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:40:34.418164+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: Wcpj_BgKEemyPdPjXqUfJQ
+  links:
+    html: https://hypothes.is/a/Wcpj_BgKEemyPdPjXqUfJQ
+    incontext: https://hyp.is/Wcpj_BgKEemyPdPjXqUfJQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/Wcpj_BgKEemyPdPjXqUfJQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - AssayConclusion
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0105
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/p[2]
+      endOffset: 1607
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/p[2]
+      startOffset: 1310
+      type: RangeSelector
+    - end: 33999
+      start: 33702
+      type: TextPositionSelector
+    - exact: "Unexpectedly, despite their presence in the catalytic pocket, several\
+        \ residues in the WPD and TI loops are highly tolerant to mutations (Figures\
+        \ 2D\u20132F), highlighting the power of functional data to delineate truly\
+        \ functional from non-functional alterations within highly conserved protein\
+        \ domains."
+      prefix: "allest amino acids (Figure\_2E). "
+      suffix: 'PTEN associates with the plasma '
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-14T14:40:34.418164+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:41:28.257594+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: efHUdhgKEemrwt984uWS8w
+  links:
+    html: https://hypothes.is/a/efHUdhgKEemrwt984uWS8w
+    incontext: https://hyp.is/efHUdhgKEemrwt984uWS8w/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/efHUdhgKEemrwt984uWS8w
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - AssayResult
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0115
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/p[1]
+      endOffset: 432
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/p[1]
+      startOffset: 279
+      type: RangeSelector
+    - end: 35284
+      start: 35131
+      type: TextPositionSelector
+    - exact: We found that positions clustered into two major clades, corresponding
+        to positions broadly tolerant/intolerant to proline or highly sensitive positions.
+      prefix: "onfidence, n = 326, Figure\_3A). "
+      suffix: ' We identified solvent exposure '
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-14T14:41:28.257594+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:42:28.277589+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: naDC4hgKEemXAJMbJYG2fA
+  links:
+    html: https://hypothes.is/a/naDC4hgKEemXAJMbJYG2fA
+    incontext: https://hyp.is/naDC4hgKEemXAJMbJYG2fA/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/naDC4hgKEemXAJMbJYG2fA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - ValidationofAssay
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0120
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/p[2]
+      endOffset: 869
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/p[2]
+      startOffset: 742
+      type: RangeSelector
+    - end: 38293
+      start: 38166
+      type: TextPositionSelector
+    - exact: "We used 10-fold cross validation to confirm that this approach can predict\
+        \ unseen data with high confidence (Pearson\u2019s r = 0.80"
+      prefix: "gures S5B and S5C, Table\_S6).52 "
+      suffix: ", Figure\_S5E). We further perfor"
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-14T14:42:28.277589+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:44:24.802724+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 43Ot8hgKEemfPKPl9-KL2Q
+  links:
+    html: https://hypothes.is/a/43Ot8hgKEemfPKPl9-KL2Q
+    incontext: https://hyp.is/43Ot8hgKEemfPKPl9-KL2Q/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/43Ot8hgKEemfPKPl9-KL2Q
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - ValidationofAssay
+  - PathogenicControl
+  - BenignControl
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0125
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[5]/p[1]
+      endOffset: 480
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[5]/p[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 39236
+      start: 38756
+      type: TextPositionSelector
+    - exact: "To determine whether our empirically determined fitness\_scores were\
+        \ informative for discriminating between germline likely pathogenic and benign\
+        \ alleles, we collected germline missense mutations reported as pathogenic\
+        \ or likely pathogenic from ClinVar54 and rare variants from gnomAD,1 excluding\
+        \ p.Arg173His and p.Lys289Glu that are reported pathogenic in ClinVar (Material\
+        \ and Methods, Tables S3 and S4). Fitness scores alone discriminated pathogenic\
+        \ from benign germline alleles"
+      prefix: ly Pathogenic and Benign Alleles
+      suffix: " (Figure\_4A). We found that the "
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: Used variant controls to validate assay and determine if benign or pathogenic.
+  updated: '2019-01-14T14:44:24.802724+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:45:05.268066+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: -1bk3hgKEemXVmPoBoNb2Q
+  links:
+    html: https://hypothes.is/a/-1bk3hgKEemXVmPoBoNb2Q
+    incontext: https://hyp.is/-1bk3hgKEemXVmPoBoNb2Q/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/-1bk3hgKEemXVmPoBoNb2Q
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags: []
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0125
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[5]/p[1]
+      endOffset: 1308
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[5]/p[1]
+      startOffset: 1085
+      type: RangeSelector
+    - end: 40064
+      start: 39841
+      type: TextPositionSelector
+    - exact: We found that 21/127 (17%) VUS with high-confidence data met the strict
+        truncation-based cutoff and 41/127 (32%) met the synonymous cutoff, suggesting
+        that fitness scores could be used to reclassify a major fraction of VUS.
+      prefix: "inVar missense VUS (Figure\_4B). "
+      suffix: "Open in a separate windowFigure\_"
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: Can be used to reclassify VUS in ClinVar.
+  updated: '2019-01-14T14:45:05.268066+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:45:55.117314+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: GPDtKBgLEemt5uerWcThGw
+  links:
+    html: https://hypothes.is/a/GPDtKBgLEemt5uerWcThGw
+    incontext: https://hyp.is/GPDtKBgLEemt5uerWcThGw/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/GPDtKBgLEemt5uerWcThGw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - AssayConclusion
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0135
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[5]/p[3]
+      endOffset: 990
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[5]/p[3]
+      startOffset: 844
+      type: RangeSelector
+    - end: 44105
+      start: 43959
+      type: TextPositionSelector
+    - exact: Overall, these data provide strong support for the hypothesis that ASD/DD-associated
+        mutations often retain hypomorphic PTEN phosphatase activity.
+      prefix: 'c activity range, respectively. '
+      suffix: Go to:DiscussionMassively multip
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-14T14:45:55.117314+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:46:50.102328+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: OcPdOhgLEem7kgsEnucFyQ
+  links:
+    html: https://hypothes.is/a/OcPdOhgLEem7kgsEnucFyQ
+    incontext: https://hyp.is/OcPdOhgLEem7kgsEnucFyQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/OcPdOhgLEem7kgsEnucFyQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags: []
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0140
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[8]/p[1]
+      endOffset: 846
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[8]/p[1]
+      startOffset: 733
+      type: RangeSelector
+    - end: 44967
+      start: 44854
+      type: TextPositionSelector
+    - exact: "Similar approaches could be used with this model to\_the study of various\
+        \ aspects of the PI3K/Akt pathway at scale"
+      prefix: 'ed.7, 8, 52, 56, 57, 58, 59, 60 '
+      suffix: ', including mutations in PIK3CA/'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: Can be used for other genes
+  updated: '2019-01-14T14:46:50.102328+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:49:30.675809+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: mXy7IBgLEemt56_gQjiTvA
+  links:
+    html: https://hypothes.is/a/mXy7IBgLEemt56_gQjiTvA
+    incontext: https://hyp.is/mXy7IBgLEemt56_gQjiTvA/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/mXy7IBgLEemt56_gQjiTvA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags: []
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0145
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[8]/p[2]
+      endOffset: 1001
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[8]/p[2]
+      startOffset: 115
+      type: RangeSelector
+    - end: 46145
+      start: 45259
+      type: TextPositionSelector
+    - exact: We observed high correlation between biological replicates and recapitulated
+        known features of PTEN function. For example, there were no pathogenic mutations
+        within our curated clinical dataset in the C-terminal tail. The set of early
+        terminating mutations confirm that the minimal catalytic unit includes the
+        phosphatase and C2 domains, but not the C-terminal tail.31 Likewise, we found
+        that position Cys124, which takes part directly in phosphatase catalysis,
+        and position Arg130, which is a hotspot for cancer mutations, are completely
+        mutation intolerant. Additionally, we found that mutations are not well tolerated
+        within the loops forming the catalytic pocket or residues mediating interactions
+        with PIP2. Finally, we found that proline was the most damaging substitution,
+        consistent with a recent meta-analysis of massively multiplexed experiments53
+        and decades of biochemistry.
+      prefix: 'heir relevance to human health. '
+      suffix: 64While the humanized yeast syst
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: Results back up known information about PTEN variants--> good assay
+  updated: '2019-01-14T14:49:30.675809+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:49:54.692790+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: qAQzEhgLEemaGu9bEwFO0Q
+  links:
+    html: https://hypothes.is/a/qAQzEhgLEemaGu9bEwFO0Q
+    incontext: https://hyp.is/qAQzEhgLEemaGu9bEwFO0Q/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/qAQzEhgLEemaGu9bEwFO0Q
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - Disadvantage
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0150
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[8]/p[3]
+      endOffset: 311
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[8]/p[3]
+      startOffset: 0
+      type: RangeSelector
+    - end: 46458
+      start: 46147
+      type: TextPositionSelector
+    - exact: While the humanized yeast system faithfully reports on intrinsic lipid
+        phosphatase activity, mutations that functionally disrupt protein-protein
+        interactions, subcellular localization, post-translational modifications,
+        or function through a dominant-negative mechanism65 in mammalian cells will
+        not be captured.
+      prefix: 3 and decades of biochemistry.64
+      suffix: ' We observed 99 variants with gr'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-14T14:49:54.692790+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:50:34.798132+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: v6eJOBgLEemyQPvNhsiRxA
+  links:
+    html: https://hypothes.is/a/v6eJOBgLEemyQPvNhsiRxA
+    incontext: https://hyp.is/v6eJOBgLEemyQPvNhsiRxA/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/v6eJOBgLEemyQPvNhsiRxA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - AssayConclusion
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0155
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[8]/p[4]
+      endOffset: 172
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[8]/p[4]
+      startOffset: 0
+      type: RangeSelector
+    - end: 47736
+      start: 47564
+      type: TextPositionSelector
+    - exact: We discovered that approximately half of all positions in PTEN were broadly
+        tolerant to substitutions, suggesting that they are not required for lipid
+        phosphatase activity.
+      prefix: ary insights into PTEN function.
+      suffix: ' While there is a degree of corr'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-14T14:50:34.798132+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T14:51:10.986418+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 1UUVMBgLEem3pFsPctuT6g
+  links:
+    html: https://hypothes.is/a/1UUVMBgLEem3pFsPctuT6g
+    incontext: https://hyp.is/1UUVMBgLEem3pFsPctuT6g/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/1UUVMBgLEem3pFsPctuT6g
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - AssayConclusion
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: p0165
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[8]/p[6]
+      endOffset: 414
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[8]/p[6]
+      startOffset: 137
+      type: RangeSelector
+    - end: 50361
+      start: 50084
+      type: TextPositionSelector
+    - exact: We found that PTEN positions fall into a few stereotyped patterns of
+        mutational tolerance and that a critical determinant of mutational tolerance
+        is the relative solvent exposure of the position. These findings are consistent
+        with a recent meta-analysis of similar experiments.
+      prefix: 's and amino acid substitutions. '
+      suffix: '73 We leveraged the correlation '
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-14T14:51:10.986418+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-01-14T15:03:51.549332+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: moz9NBgNEemN-mtCRP8gDQ
+  links:
+    html: https://hypothes.is/a/moz9NBgNEemN-mtCRP8gDQ
+    incontext: https://hyp.is/moz9NBgNEemN-mtCRP8gDQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/moz9NBgNEemN-mtCRP8gDQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - ResearchEntity
+  target:
+  - selector:
+    - conformsTo: https://tools.ietf.org/html/rfc3236
+      type: FragmentSelector
+      value: idm140596385153904_ai
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+      endOffset: 104
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+      startOffset: 1
+      type: RangeSelector
+    - end: 2837
+      start: 2643
+      type: TextPositionSelector
+    - exact: Neuroscience Graduate Program, Oregon Health & Science University, Portland,
+        OR 97239, USA2Department of Molecular & Medical Genetics, Oregon Health &
+        Science University, Portland, OR 97239, USA
+      prefix: ' License information Disclaimer1'
+      suffix: "Brian J. O\u2019Roak: ude.usho@kaoro "
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: ''
+  updated: '2019-01-14T15:03:51.549332+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-25T15:17:22.243881+00:00'
+  document:
+    title:
+    - A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase Activity
+      and Genotype-Phenotype Relationships
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: ugDlBG6rEeqEcgNuj1TUwQ
+  links:
+    html: https://hypothes.is/a/ugDlBG6rEeqEcgNuj1TUwQ
+    incontext: https://hyp.is/ugDlBG6rEeqEcgNuj1TUwQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+    json: https://hypothes.is/api/annotations/ugDlBG6rEeqEcgNuj1TUwQ
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - Gene:PTEN
+  - MONDO:0017623
+  - CGType:General
+  - HGNC:9588
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/h1[1]
+      endOffset: 119
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/h1[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 2120
+      start: 2001
+      type: TextPositionSelector
+    - exact: A Saturation Mutagenesis Approach to Understanding PTEN Lipid Phosphatase
+        Activity and Genotype-Phenotype Relationships
+      prefix: '8PMCID: PMC5986715PMID: 29706350'
+      suffix: Taylor L. Mighell,1,2 Sara Evans
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  text: '**PMID**: 29706350
+
+
+    **Gene**: *PTEN*
+
+
+    **Disease**: PTEN hamartoma tumor syndrome
+
+
+    **MONDO ID**: MONDO:0017623'
+  updated: '2020-03-25T15:20:21.529405+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986715/
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+total: 41

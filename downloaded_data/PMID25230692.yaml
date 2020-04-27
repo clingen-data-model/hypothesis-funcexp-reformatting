@@ -1,0 +1,2504 @@
+rows:
+- created: '2019-12-09T19:57:06.942637+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: FCRJjBq-EeqNiQPrRoeN4A
+  links:
+    html: https://hypothes.is/a/FCRJjBq-EeqNiQPrRoeN4A
+    incontext: https://hyp.is/FCRJjBq-EeqNiQPrRoeN4A/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/FCRJjBq-EeqNiQPrRoeN4A
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - BAO:0002424
+  - FuncExp2
+  - CLO:0003684
+  - CGType:ExperimentDescription
+  - Result:Qualitative
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[2]/p[1]
+      endOffset: 793
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[2]/p[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 20853
+      start: 20060
+      type: TextPositionSelector
+    - exact: "Western blot analysis of cell lysates and culture media of HeLa cells\
+        \ transiently\ntransfected with HA-tagged COCH under reducing gel electrophoresis\n\
+        conditions. Intracellularly, all cochlins (both wild-type and all mutants)\
+        \ were produced,\nbut different band intensities of cochlins with various\
+        \ mutations were detected, in\nrelation to \u03B2-actin internal control.\
+        \ This indicates successful transfection and\nexpression of all cochlins,\
+        \ but different levels of intracellular cochlins. However, in\nculture media\
+        \ of transfected cells, cochlin bands were detected only for wild-type and\n\
+        three mutants, but not the other five mutants, indicating lack of secretion\
+        \ of these\ncochlins. Untransfected HeLa cells and HeLa cells transfected\
+        \ with the pcDNA3 empty vector\n(mock) were used as negative controls."
+      prefix: pen in a separate windowFigure 3
+      suffix: Protein misfolding and aggregati
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: "**Experiment 2 Description**\n\n**GeneralClass**: BAO:0002424\n\n**AssayDescription**:\
+    \ secretion and accumulation of cochlins by western blot analysis under reducing\
+    \ conditions\n\n**MaterialUsed**: CLO:0003684 Hela cells \n\n**AssayReadOut**:\
+    \ qualitative results\n\n**AssayControlPositive**: WT\n\n**AssayControlNegative**:\
+    \ untransfected, mock, internal control-B-actin\n\n**ValidationControlPathogenic**:\
+    \ 0\n\n**ValidationControlBenign**: 0\n\n**Replication**: not indicated\n\n**StatisticalAnalysis**:\
+    \ not indicated"
+  updated: '2020-02-19T19:49:12.945140+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-12-09T20:46:14.701149+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 8R5vfhrEEeqt91eGATdaOg
+  links:
+    html: https://hypothes.is/a/8R5vfhrEEeqt91eGATdaOg
+    incontext: https://hyp.is/8R5vfhrEEeqt91eGATdaOg/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/8R5vfhrEEeqt91eGATdaOg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - BAO:0002424
+  - FuncExp3
+  - CLO:0003684
+  - CGType:ExperimentDescription
+  - Result:Qualitative
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[2]/p[1]
+      endOffset: 570
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[2]/p[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 22152
+      start: 21582
+      type: TextPositionSelector
+    - exact: 'Western blot analysis of cell lysates and culture media from HeLa cells
+        transiently
+
+        transfected with HA-tagged COCH under non-reducing gel electrophoresis
+
+        conditions. Additional dimeric cochlin bands were observed for p.V104del,
+        p.I109T, and
+
+        p.F121S. High-molecular-weight aggregates were detected for p.C162Y and p.A487P
+        mutant
+
+        cochlins. No aggregates were detected in culture media, and five out of eight
+        mutant
+
+        cochlins tested were not secreted. The five mutants that failed to be secreted
+        were the
+
+        same ones that showed dimer and aggregate formation in cell lysates.'
+      prefix: pen in a separate windowFigure 4
+      suffix: The p.V104del, p.I109T, and p.F1
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: "**Experiment 3 Description**\n\n**GeneralClass**: BAO:0002424\n\n**AssayDescription**:\
+    \ protein misfolding and aggregation formation by western blot analysis under\
+    \ non-reducing conditions\n\n**MaterialUsed**: CLO:0003684 Hela cells \n\n**AssayReadOut**:\
+    \ qualitative results\n\n**AssayControlPositive**: WT\n\n**AssayControlNegative**:\
+    \ untransfected, mock\n\n**ValidationControlPathogenic**: 0\n\n**ValidationControlBenign**:\
+    \ 0\n\n**Replication**: not indicated\n\n**StatisticalAnalysis**: not indicated"
+  updated: '2020-02-19T19:49:23.141910+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-12-09T20:53:14.100371+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 6xX8BBrFEeqet7saxkEeQA
+  links:
+    html: https://hypothes.is/a/6xX8BBrFEeqet7saxkEeQA
+    incontext: https://hyp.is/6xX8BBrFEeqet7saxkEeQA/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/6xX8BBrFEeqet7saxkEeQA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - BAO:0002424
+  - FuncExp4
+  - CLO:0003684
+  - CGType:ExperimentDescription
+  - Result:Qualitative
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[5]/div[1]/div[3]/div[2]/p[1]
+      endOffset: 381
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[5]/div[1]/div[3]/div[2]/p[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 24668
+      start: 24287
+      type: TextPositionSelector
+    - exact: "Western blot analysis of wild-type and p.I109T cell lysates under reducing\
+        \ gel\nelectrophoresis conditions, with and without PNGase F digestion (\u2013\
+        , PNGase F\nuntreated; +, PNGase F treated). The predicted additional N-linked\
+        \ glycosylation site in\nthe p.109T mutant cochlin was confirmed with the\
+        \ observation of a larger band shift of the\nmutant vs. wild-type cochlin\
+        \ after digestion."
+      prefix: pen in a separate windowFigure 5
+      suffix: Genotype-phenotype correlation i
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: "**Experiment 4 Description**\n\n**GeneralClass**: BAO:0002424 \n\n**AssayDescription**:\
+    \ N-linked glycosylation detection by western blot analysis under reducing conditions\
+    \ with and without PNGase F digestion\n\n**MaterialUsed**: CLO:0003684 Hela cells\
+    \ \n\n**AssayReadOut**: qualitative results\n\n**AssayControlPositive**: WT\n\n\
+    **AssayControlNegative**: not indicated\n\n**ValidationControlPathogenic**: 0\n\
+    \n**ValidationControlBenign**: 0\n\n**Replication**: not indicated\n\n**StatisticalAnalysis**:\
+    \ not indicated"
+  updated: '2020-02-19T19:49:44.591737+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-12-11T15:38:38.288914+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: TSCjEBwsEeqhJyOMJhPLPg
+  links:
+    html: https://hypothes.is/a/TSCjEBwsEeqhJyOMJhPLPg
+    incontext: https://hyp.is/TSCjEBwsEeqhJyOMJhPLPg/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/TSCjEBwsEeqhJyOMJhPLPg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - Gene:COCH
+  - HGNC:2180
+  - MONDO:0011058
+  - CGType:General
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/h1[1]
+      endOffset: 199
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/h1[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 2080
+      start: 1881
+      type: TextPositionSelector
+    - exact: 'Identification of pathogenic mechanisms of COCH mutations,
+
+        abolished cochlin secretion and intracellular aggregate formation: genotype-phenotype
+
+        correlations in DFNA9 deafness and vestibular disorder'
+      prefix: 'HMSID: NIHMS665698PMID: 25230692'
+      suffix: Seung-Hyun Bae,#1,2 Nahid G. Rob
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: "**PMID**: 25230692\n\n**Gene**: COCH\n\n**Disease**: autosomal dominant nonsyndromic\
+    \ deafness 9\n\n**MONDO ID**: MONDO:0011058 \n\n"
+  updated: '2020-01-23T18:35:14.241705+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-12-11T18:25:12.732252+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: khvIKhxDEeqvVMN0CRxTkA
+  links:
+    html: https://hypothes.is/a/khvIKhxDEeqvVMN0CRxTkA
+    incontext: https://hyp.is/8R5vfhrEEeqt91eGATdaOg/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/khvIKhxDEeqvVMN0CRxTkA
+  permissions:
+    admin:
+    - acct:cthaxton@hypothes.is
+    delete:
+    - acct:cthaxton@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:cthaxton@hypothes.is
+  references:
+  - 8R5vfhrEEeqt91eGATdaOg
+  tags: []
+  target:
+  - source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: "It might be nice to associate each variant in the annotation with an ID.\n\
+    \nExample: \nVariant 1: G87W (full HGVS nomenclature)\nVariant 1 ClinVarID (or\
+    \ CAiD): XXXXX or CAXXX \n\nconsider using camel case in the inner annotation,\
+    \ as it helps the structure and specify the search.\n\nNice job on the tags, and\
+    \ applying the NotIndicated, also consider adding the unknown, or NotAsserted\
+    \ in your protocol."
+  updated: '2019-12-11T18:25:12.732252+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:cthaxton@hypothes.is
+  user_info:
+    display_name: null
+- created: '2019-12-11T18:54:53.436774+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: t4U1ohxHEeqUticZGgwHhA
+  links:
+    html: https://hypothes.is/a/t4U1ohxHEeqUticZGgwHhA
+    incontext: https://hyp.is/TSCjEBwsEeqhJyOMJhPLPg/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/t4U1ohxHEeqUticZGgwHhA
+  permissions:
+    admin:
+    - acct:cthaxton@hypothes.is
+    delete:
+    - acct:cthaxton@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:cthaxton@hypothes.is
+  references:
+  - TSCjEBwsEeqhJyOMJhPLPg
+  tags: []
+  target:
+  - source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: 'For functional pathway, consider grouping all the ontology IDs in one line
+    item, then the human readable forms in a second line. Note in protocol to annotate
+    in the same order, that way the user knows the first ID correlates with the first
+    nomenclature listed below.
+
+
+    Just an interesting note under molecular etiology. If a paper is insisting both
+    gain of function and loss of function, is this more indicative of not knowing
+    the appropriate assay involved in disease. YO=ou all may want to consider how
+    you want to give guidance to this. I would not normally expect to see both LOF
+    anf GOF of a protein for one disease, not to say it could not have these, but
+    it would be good to be clear for your report is it over the  individual variants
+    , or the experiment as a whole.
+
+
+    Again concerning the variants section, for the end user, it might be nice to separate
+    each variant by an individual line.  You may want to consider also segregating
+    based on those variants that are considered or asserted as pathogenic, benign,
+    or unknown.'
+  updated: '2019-12-11T18:57:08.832256+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:cthaxton@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T18:18:43.771161+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: n8Dqtj1DEeqaQMfr_Hf--w
+  links:
+    html: https://hypothes.is/a/n8Dqtj1DEeqaQMfr_Hf--w
+    incontext: https://hyp.is/n8Dqtj1DEeqaQMfr_Hf--w/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/n8Dqtj1DEeqaQMfr_Hf--w
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CAID:CA389344541
+  - Variant:1
+  - CGType:VariantID
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      endOffset: 117
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      startOffset: 99
+      type: RangeSelector
+    - end: 11508
+      start: 11490
+      type: TextPositionSelector
+    - exact: c.259G>T (p.G87W),
+      prefix: ' been previously
+
+        characterized: '
+      suffix: ' rs149903169:C>A (p.P89H), c.311'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: 'NM_004086.3 c.259G>T p.(G87W)
+
+    '
+  updated: '2020-02-17T19:40:09.192916+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T18:19:26.751249+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: uVZcmj1DEeqN9qOUrxchHg
+  links:
+    html: https://hypothes.is/a/uVZcmj1DEeqN9qOUrxchHg
+    incontext: https://hyp.is/uVZcmj1DEeqN9qOUrxchHg/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/uVZcmj1DEeqN9qOUrxchHg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CAID:CA7142986
+  - CGType:VariantID
+  - Variant:2
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      endOffset: 142
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      startOffset: 118
+      type: RangeSelector
+    - end: 11533
+      start: 11509
+      type: TextPositionSelector
+    - exact: rs149903169:C>A (p.P89H)
+      prefix: 'aracterized: c.259G>T (p.G87W), '
+      suffix: ', c.311_313del
+
+        (p.V104del), c.32'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: 'NM_004086.3 c.266C>A p.(P89H)
+
+    '
+  updated: '2020-02-17T19:41:52.727575+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T18:19:52.303958+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: yJ46sD1DEeqVkv_UyR3dAg
+  links:
+    html: https://hypothes.is/a/yJ46sD1DEeqVkv_UyR3dAg
+    incontext: https://hyp.is/yJ46sD1DEeqVkv_UyR3dAg/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/yJ46sD1DEeqVkv_UyR3dAg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CAID:CA913203441
+  - CGType:VariantID
+  - Variant:3
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      endOffset: 168
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      startOffset: 144
+      type: RangeSelector
+    - end: 11559
+      start: 11535
+      type: TextPositionSelector
+    - exact: 'c.311_313del
+
+        (p.V104del)'
+      prefix: '87W), rs149903169:C>A (p.P89H), '
+      suffix: ', c.326T>C (p.I109T), c.355G>A ('
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: 'NM_004086.3 c.311_313del p.(V104del)
+
+    '
+  updated: '2020-02-17T19:42:28.436634+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T18:20:14.841636+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 1fX1Sj1DEeqL6w9ZiAFpTw
+  links:
+    html: https://hypothes.is/a/1fX1Sj1DEeqL6w9ZiAFpTw
+    incontext: https://hyp.is/1fX1Sj1DEeqL6w9ZiAFpTw/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/1fX1Sj1DEeqL6w9ZiAFpTw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CAID:CA389344672
+  - CGType:VariantID
+  - Variant:4
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      endOffset: 188
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      startOffset: 170
+      type: RangeSelector
+    - end: 11579
+      start: 11561
+      type: TextPositionSelector
+    - exact: c.326T>C (p.I109T)
+      prefix: '89H), c.311_313del
+
+        (p.V104del), '
+      suffix: ', c.355G>A (p.A119T), c.362T>C
+
+        ('
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: 'NM_004086.3 c.326T>C p.(I109T)
+
+    '
+  updated: '2020-02-17T19:42:48.790785+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T18:20:44.668963+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 570f7D1DEeq67TuT_pwBPA
+  links:
+    html: https://hypothes.is/a/570f7D1DEeq67TuT_pwBPA
+    incontext: https://hyp.is/570f7D1DEeq67TuT_pwBPA/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/570f7D1DEeq67TuT_pwBPA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - ClinVarID:6613
+  - CGType:VariantID
+  - Variant:5
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      endOffset: 208
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      startOffset: 190
+      type: RangeSelector
+    - end: 11599
+      start: 11581
+      type: TextPositionSelector
+    - exact: c.355G>A (p.A119T)
+      prefix: 'p.V104del), c.326T>C (p.I109T), '
+      suffix: ', c.362T>C
+
+        (p.F121S), c.485G>A ('
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: 'NM_004086.3 c.355G>A p.(A119T)
+
+    '
+  updated: '2020-02-17T19:43:07.957786+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T18:21:16.011700+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: -pi5PD1DEeqBzVcj5l9kng
+  links:
+    html: https://hypothes.is/a/-pi5PD1DEeqBzVcj5l9kng
+    incontext: https://hyp.is/-pi5PD1DEeqBzVcj5l9kng/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/-pi5PD1DEeqBzVcj5l9kng
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CAID:CA389344751
+  - CGType:VariantID
+  - Variant:6
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      endOffset: 228
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      startOffset: 210
+      type: RangeSelector
+    - end: 11619
+      start: 11601
+      type: TextPositionSelector
+    - exact: 'c.362T>C
+
+        (p.F121S)'
+      prefix: ' (p.I109T), c.355G>A (p.A119T), '
+      suffix: ', c.485G>A (p.C162Y), and c.1459'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: 'NM_004086.3 c.362T>C p.(F121S)
+
+    '
+  updated: '2020-02-17T19:43:27.592834+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T18:21:38.754673+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: CCR6FD1EEeq1rYOdeDqOmA
+  links:
+    html: https://hypothes.is/a/CCR6FD1EEeq1rYOdeDqOmA
+    incontext: https://hyp.is/CCR6FD1EEeq1rYOdeDqOmA/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/CCR6FD1EEeq1rYOdeDqOmA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CAID:CA389345630
+  - CGType:VariantID
+  - Variant:7
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      endOffset: 248
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      startOffset: 230
+      type: RangeSelector
+    - end: 11639
+      start: 11621
+      type: TextPositionSelector
+    - exact: c.485G>A (p.C162Y)
+      prefix: ' (p.A119T), c.362T>C
+
+        (p.F121S), '
+      suffix: ', and c.1459G>C (p.A487P) (six i'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: 'NM_004086.3 c.485G>A p.(C162Y)
+
+    '
+  updated: '2020-02-17T19:43:49.607714+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T18:22:02.948363+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: Fn76-D1EEeqgyVcxf9g0aw
+  links:
+    html: https://hypothes.is/a/Fn76-D1EEeqgyVcxf9g0aw
+    incontext: https://hyp.is/Fn76-D1EEeqgyVcxf9g0aw/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/Fn76-D1EEeqgyVcxf9g0aw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CAID:CA389349258
+  - CGType:VariantID
+  - Variant:8
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      endOffset: 273
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[5]/p[5]
+      startOffset: 254
+      type: RangeSelector
+    - end: 11664
+      start: 11645
+      type: TextPositionSelector
+    - exact: c.1459G>C (p.A487P)
+      prefix: 'F121S), c.485G>A (p.C162Y), and '
+      suffix: ' (six in the LCCL and
+
+        two in vWF'
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: 'NM_004086.3 c.1459G>C p.(A487P)
+
+    '
+  updated: '2020-02-17T19:44:17.682717+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T18:35:22.671001+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 8yOKSj1FEeqj2t-fAyQ-rA
+  links:
+    html: https://hypothes.is/a/8yOKSj1FEeqj2t-fAyQ-rA
+    incontext: https://hyp.is/8yOKSj1FEeqj2t-fAyQ-rA/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/8yOKSj1FEeqj2t-fAyQ-rA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp1
+  - BAO:0000416
+  - CLO:0003684
+  - CGType:ExperimentDescription
+  - Result:Qualitative
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/h3[1]
+      endOffset: 59
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/h3[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 17166
+      start: 17107
+      type: TextPositionSelector
+    - exact: Intracellular localization of wild-type and mutant cochlins
+      prefix: rrelation analysis.Go to:Results
+      suffix: 'To determine if mutant cochlins '
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: "**Experiment 1 Description**\n\n**GeneralClass**: BAO:0000416 \n\n**AssayDescription**:\
+    \ intracellular localization of cochlins by immunostaining HeLa cells\n\n**MaterialUsed**:\
+    \ CLO:0003684 Hela cells \n\n**AssayReadOut**: qualitative results\n\n**AssayControlPositive**:\
+    \ WT\n\n**AssayControlNegative**: not indicated\n\n**ValidationControlPathogenic**:\
+    \ 0\n\n**ValidationControlBenign**: 0\n\n**Replication**: not indicated\n\n**StatisticalAnalysis**:\
+    \ not indicated"
+  updated: '2020-02-21T18:07:14.127727+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T18:36:58.751093+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: LFrBoj1GEeqwkteE-YYHMA
+  links:
+    html: https://hypothes.is/a/LFrBoj1GEeqwkteE-YYHMA
+    incontext: https://hyp.is/LFrBoj1GEeqwkteE-YYHMA/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/LFrBoj1GEeqwkteE-YYHMA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp1Results
+  - CAID:CA389344541
+  - Variant:1
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 18191
+      start: 18183
+      type: TextPositionSelector
+    - exact: Figure 2
+      prefix: omplex.Open in a separate window
+      suffix: Immunocytochemical analysis of H
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 1 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 1 (G87W)
+
+
+    Result: localizes in the ER and Golgi complex (similar to wild type)
+
+
+    Normal result'
+  updated: '2020-02-27T18:51:55.064205+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T18:50:33.637331+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: EhdkOD1IEeq-hc9egKIgzQ
+  links:
+    html: https://hypothes.is/a/EhdkOD1IEeq-hc9egKIgzQ
+    incontext: https://hyp.is/EhdkOD1IEeq-hc9egKIgzQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/EhdkOD1IEeq-hc9egKIgzQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp1Results
+  - CAID:CA7142986
+  - Variant:2
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 18191
+      start: 18183
+      type: TextPositionSelector
+    - exact: Figure 2
+      prefix: omplex.Open in a separate window
+      suffix: Immunocytochemical analysis of H
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 1 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 2 (P89H)
+
+
+    Result: localizes in the ER and Golgi complex (similar to wild type)
+
+    '
+  updated: '2020-02-18T18:35:48.045747+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T18:51:48.998372+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: PvzVlj1IEeqj2Fu58VkAQQ
+  links:
+    html: https://hypothes.is/a/PvzVlj1IEeqj2Fu58VkAQQ
+    incontext: https://hyp.is/PvzVlj1IEeqj2Fu58VkAQQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/PvzVlj1IEeqj2Fu58VkAQQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp1Results
+  - CAID:CA913203441
+  - Variant:3
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 18191
+      start: 18183
+      type: TextPositionSelector
+    - exact: Figure 2
+      prefix: omplex.Open in a separate window
+      suffix: Immunocytochemical analysis of H
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 1 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 3 (V104del)
+
+
+    Result: localizes in the ER and Golgi complex (similar to wild type)
+
+    '
+  updated: '2020-02-18T18:35:42.280405+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T18:53:04.648960+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: bBb68j1IEeqwlRM9qPfv0g
+  links:
+    html: https://hypothes.is/a/bBb68j1IEeqwlRM9qPfv0g
+    incontext: https://hyp.is/bBb68j1IEeqwlRM9qPfv0g/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/bBb68j1IEeqwlRM9qPfv0g
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp1Results
+  - CAID:CA389344672
+  - Variant:4
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 18191
+      start: 18183
+      type: TextPositionSelector
+    - exact: Figure 2
+      prefix: omplex.Open in a separate window
+      suffix: Immunocytochemical analysis of H
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 1 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 4 (I109T)
+
+
+    Result: localizes in the ER and Golgi complex (similar to wild type)'
+  updated: '2020-02-18T18:35:34.394271+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T18:54:31.143098+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: n64VgD1IEeqYLQvdcwGDyA
+  links:
+    html: https://hypothes.is/a/n64VgD1IEeqYLQvdcwGDyA
+    incontext: https://hyp.is/n64VgD1IEeqYLQvdcwGDyA/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/n64VgD1IEeqYLQvdcwGDyA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp1Results
+  - ClinVarID:6613
+  - Variant:5
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 18191
+      start: 18183
+      type: TextPositionSelector
+    - exact: Figure 2
+      prefix: omplex.Open in a separate window
+      suffix: Immunocytochemical analysis of H
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 1 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 5 (A119T)
+
+
+    Result: localizes in the ER and Golgi complex (similar to wild type)'
+  updated: '2020-02-18T18:35:28.116053+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T19:02:24.001660+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: uYjx6j1JEeqJezNV-A8JPA
+  links:
+    html: https://hypothes.is/a/uYjx6j1JEeqJezNV-A8JPA
+    incontext: https://hyp.is/uYjx6j1JEeqJezNV-A8JPA/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/uYjx6j1JEeqJezNV-A8JPA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp1Results
+  - CAID:CA389344751
+  - Variant:6
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 18191
+      start: 18183
+      type: TextPositionSelector
+    - exact: Figure 2
+      prefix: omplex.Open in a separate window
+      suffix: Immunocytochemical analysis of H
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 1 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 6 (F121S)
+
+
+    Result: localizes in the ER and Golgi complex (similar to wild type)'
+  updated: '2020-02-18T18:35:21.422653+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T19:03:37.346775+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 5UgDDD1JEeqSfZdTayDppA
+  links:
+    html: https://hypothes.is/a/5UgDDD1JEeqSfZdTayDppA
+    incontext: https://hyp.is/5UgDDD1JEeqSfZdTayDppA/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/5UgDDD1JEeqSfZdTayDppA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp1Results
+  - CAID:CA389345630
+  - Variant:7
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 18191
+      start: 18183
+      type: TextPositionSelector
+    - exact: Figure 2
+      prefix: omplex.Open in a separate window
+      suffix: Immunocytochemical analysis of H
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 1 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 7 (C162Y)
+
+
+    Result: localized in the ER but not Golgi complex (disruption in cellular trafficking)'
+  updated: '2020-02-18T18:35:14.749670+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-01-22T19:05:17.616133+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: IP-yMj1KEeqfXCdKHE-WRw
+  links:
+    html: https://hypothes.is/a/IP-yMj1KEeqfXCdKHE-WRw
+    incontext: https://hyp.is/IP-yMj1KEeqfXCdKHE-WRw/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/IP-yMj1KEeqfXCdKHE-WRw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp1Results
+  - CAID:CA389349258
+  - Variant:8
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[2]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 18191
+      start: 18183
+      type: TextPositionSelector
+    - exact: Figure 2
+      prefix: omplex.Open in a separate window
+      suffix: Immunocytochemical analysis of H
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: "**Experiment 1 Results**\n\n**AssayReadOutDescription**\n\nVariant 8 (A487P)\
+    \ \n\nResult: localized in the ER but not Golgi complex (disruption in cellular\
+    \ trafficking)"
+  updated: '2020-02-18T18:35:07.633825+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-18T18:18:15.282840+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: CAFSIlJ7EeqtT_8skYygSw
+  links:
+    html: https://hypothes.is/a/CAFSIlJ7EeqtT_8skYygSw
+    incontext: https://hyp.is/CAFSIlJ7EeqtT_8skYygSw/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/CAFSIlJ7EeqtT_8skYygSw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp2Results
+  - CAID:CA389349258
+  - Variant:8
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 23453
+      start: 23445
+      type: TextPositionSelector
+    - exact: Figure 3
+      prefix: e cell.Open in a separate window
+      suffix: Western blot analysis of cell ly
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 2 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 8 (A487P)
+
+
+    Result: higher level of cochlin than wild type in cell lysates and absent in media
+    (demonstrating impaired secretion of protein from cells)
+
+    '
+  updated: '2020-02-18T18:32:54.943524+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-18T18:22:01.036144+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: jnfpBlJ7Eequ8H-_BybDzQ
+  links:
+    html: https://hypothes.is/a/jnfpBlJ7Eequ8H-_BybDzQ
+    incontext: https://hyp.is/jnfpBlJ7Eequ8H-_BybDzQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/jnfpBlJ7Eequ8H-_BybDzQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp2Results
+  - CAID:CA389345630
+  - Variant:7
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 23453
+      start: 23445
+      type: TextPositionSelector
+    - exact: Figure 3
+      prefix: e cell.Open in a separate window
+      suffix: Western blot analysis of cell ly
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 2 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 7 (C162Y)
+
+
+    Result: higher level of cochlin than wild type in cell lysates and absent in media
+    (demonstrating impaired secretion of protein from cells)'
+  updated: '2020-02-18T18:33:15.217932+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-18T18:25:36.772572+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: DxhE8lJ8EeqBvAPF9klpNg
+  links:
+    html: https://hypothes.is/a/DxhE8lJ8EeqBvAPF9klpNg
+    incontext: https://hyp.is/DxhE8lJ8EeqBvAPF9klpNg/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/DxhE8lJ8EeqBvAPF9klpNg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp2Results
+  - CAID:CA389344751
+  - Variant:6
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 23453
+      start: 23445
+      type: TextPositionSelector
+    - exact: Figure 3
+      prefix: e cell.Open in a separate window
+      suffix: Western blot analysis of cell ly
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 2 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 6 (F121S)
+
+
+    Result: higher level of cochlin than wild type in cell lysates and absent in media
+    (demonstrating impaired secretion of protein from cells)'
+  updated: '2020-02-18T18:33:27.838469+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-18T18:27:05.108547+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: Q6eTYlJ8EeqB1cPFbOJIDQ
+  links:
+    html: https://hypothes.is/a/Q6eTYlJ8EeqB1cPFbOJIDQ
+    incontext: https://hyp.is/Q6eTYlJ8EeqB1cPFbOJIDQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/Q6eTYlJ8EeqB1cPFbOJIDQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp2Results
+  - ClinVarID:6613
+  - Variant:5
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 23453
+      start: 23445
+      type: TextPositionSelector
+    - exact: Figure 3
+      prefix: e cell.Open in a separate window
+      suffix: Western blot analysis of cell ly
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 2 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 5 (A119T)
+
+
+    Result: detection comparable to wild type in cell lysates and media'
+  updated: '2020-02-18T18:33:38.298454+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-18T18:28:35.404460+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: ec878lJ8Eeq9okfRTK9zGg
+  links:
+    html: https://hypothes.is/a/ec878lJ8Eeq9okfRTK9zGg
+    incontext: https://hyp.is/ec878lJ8Eeq9okfRTK9zGg/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/ec878lJ8Eeq9okfRTK9zGg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp2Results
+  - CAID:CA389344672
+  - Variant:4
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 23453
+      start: 23445
+      type: TextPositionSelector
+    - exact: Figure 3
+      prefix: e cell.Open in a separate window
+      suffix: Western blot analysis of cell ly
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 2 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 4 (I109T)
+
+
+    Result: higher level of cochlin than wild type in cell lysates and absent in media
+    (demonstrating impaired secretion of protein from cells)'
+  updated: '2020-02-18T18:33:50.428642+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-18T18:29:36.013513+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: nbDWUlJ8EeqCbeubVp8VZQ
+  links:
+    html: https://hypothes.is/a/nbDWUlJ8EeqCbeubVp8VZQ
+    incontext: https://hyp.is/nbDWUlJ8EeqCbeubVp8VZQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/nbDWUlJ8EeqCbeubVp8VZQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp2Results
+  - CAID:CA913203441
+  - Variant:3
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 23453
+      start: 23445
+      type: TextPositionSelector
+    - exact: Figure 3
+      prefix: e cell.Open in a separate window
+      suffix: Western blot analysis of cell ly
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 2 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 3 (V104del)
+
+
+    Result: higher level of cochlin than wild type in cell lysates and absent in media
+    (demonstrating impaired secretion of protein from cells)'
+  updated: '2020-02-18T18:34:05.296592+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-18T18:30:55.455927+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: zPcjilJ8Eeqh4w_Aj0AKZA
+  links:
+    html: https://hypothes.is/a/zPcjilJ8Eeqh4w_Aj0AKZA
+    incontext: https://hyp.is/zPcjilJ8Eeqh4w_Aj0AKZA/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/zPcjilJ8Eeqh4w_Aj0AKZA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp2Results
+  - CAID:CA7142986
+  - Variant:2
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 23453
+      start: 23445
+      type: TextPositionSelector
+    - exact: Figure 3
+      prefix: e cell.Open in a separate window
+      suffix: Western blot analysis of cell ly
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 2 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 2 (P89H)
+
+
+    Result: detection comparable to wild type in cell lysates and media'
+  updated: '2020-02-18T18:34:19.829308+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-18T18:31:50.768551+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 7f98dlJ8EeqDvv9mvAYw0g
+  links:
+    html: https://hypothes.is/a/7f98dlJ8EeqDvv9mvAYw0g
+    incontext: https://hyp.is/7f98dlJ8EeqDvv9mvAYw0g/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/7f98dlJ8EeqDvv9mvAYw0g
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp2Results
+  - CAID:CA389344541
+  - Variant:1
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 23453
+      start: 23445
+      type: TextPositionSelector
+    - exact: Figure 3
+      prefix: e cell.Open in a separate window
+      suffix: Western blot analysis of cell ly
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 2 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 1 (G87W)
+
+
+    Result: detection comparable to wild type in cell lysates and media'
+  updated: '2020-02-18T18:34:30.645559+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-19T19:12:55.135440+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 1TdZWlNLEeqaJ4eniQpGRQ
+  links:
+    html: https://hypothes.is/a/1TdZWlNLEeqaJ4eniQpGRQ
+    incontext: https://hyp.is/1TdZWlNLEeqaJ4eniQpGRQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/1TdZWlNLEeqaJ4eniQpGRQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp3Results
+  - CAID:CA389349258
+  - Variant:8
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 24975
+      start: 24967
+      type: TextPositionSelector
+    - exact: Figure 4
+      prefix: d-type.Open in a separate window
+      suffix: Western blot analysis of cell ly
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 3 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 8 (A487P)
+
+
+    Result: variant affects folding and structure, formed multimeric aggregates in
+    cell lysates, not present in media'
+  updated: '2020-02-19T19:12:55.135440+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-19T19:15:52.356798+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: PuVZ9lNMEeqDcy_2wUN6Fw
+  links:
+    html: https://hypothes.is/a/PuVZ9lNMEeqDcy_2wUN6Fw
+    incontext: https://hyp.is/PuVZ9lNMEeqDcy_2wUN6Fw/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/PuVZ9lNMEeqDcy_2wUN6Fw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp3Results
+  - CAID:CA389345630
+  - Variant:7
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 24975
+      start: 24967
+      type: TextPositionSelector
+    - exact: Figure 4
+      prefix: d-type.Open in a separate window
+      suffix: Western blot analysis of cell ly
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 3 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 7 (C162Y)
+
+
+    Result: slower migration than wild type, likely due to the loss of cysteine residue
+    leading to disruption of disulfide bond, formed multimeric aggregates in cell
+    lysates, not present in media'
+  updated: '2020-02-19T19:15:52.356798+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-19T19:17:19.055156+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: co34MFNMEeq_vFPH1SHpPQ
+  links:
+    html: https://hypothes.is/a/co34MFNMEeq_vFPH1SHpPQ
+    incontext: https://hyp.is/co34MFNMEeq_vFPH1SHpPQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/co34MFNMEeq_vFPH1SHpPQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp3Results
+  - CAID:CA389344751
+  - Variant:6
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 24975
+      start: 24967
+      type: TextPositionSelector
+    - exact: Figure 4
+      prefix: d-type.Open in a separate window
+      suffix: Western blot analysis of cell ly
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 3 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 6 (F121S)
+
+
+    Result: formed dimeric proteins in cell lysates, not present in media'
+  updated: '2020-02-19T19:17:19.055156+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-19T19:18:37.929218+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: oZerYlNMEeqK_3MMp1mFEw
+  links:
+    html: https://hypothes.is/a/oZerYlNMEeqK_3MMp1mFEw
+    incontext: https://hyp.is/oZerYlNMEeqK_3MMp1mFEw/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/oZerYlNMEeqK_3MMp1mFEw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp3Results
+  - ClinVarID:6613
+  - Variant:5
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 24975
+      start: 24967
+      type: TextPositionSelector
+    - exact: Figure 4
+      prefix: d-type.Open in a separate window
+      suffix: Western blot analysis of cell ly
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 3 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 5 (A119T)
+
+
+    Result: normal folding, secreted in media'
+  updated: '2020-02-19T19:18:37.929218+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-19T19:19:42.791172+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: yEvagFNMEeqldJ98SJzSZw
+  links:
+    html: https://hypothes.is/a/yEvagFNMEeqldJ98SJzSZw
+    incontext: https://hyp.is/yEvagFNMEeqldJ98SJzSZw/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/yEvagFNMEeqldJ98SJzSZw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp3Results
+  - CAID:CA389344672
+  - Variant:4
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 24975
+      start: 24967
+      type: TextPositionSelector
+    - exact: Figure 4
+      prefix: d-type.Open in a separate window
+      suffix: Western blot analysis of cell ly
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 3 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 4 (I109T)
+
+
+    Result: formed dimeric proteins in cell lysates, not present in media'
+  updated: '2020-02-19T19:19:42.791172+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-19T19:20:31.905071+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 5YKouFNMEeqFlLMl89nZXA
+  links:
+    html: https://hypothes.is/a/5YKouFNMEeqFlLMl89nZXA
+    incontext: https://hyp.is/5YKouFNMEeqFlLMl89nZXA/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/5YKouFNMEeqFlLMl89nZXA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp3Results
+  - CAID:CA913203441
+  - Variant:3
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 24975
+      start: 24967
+      type: TextPositionSelector
+    - exact: Figure 4
+      prefix: d-type.Open in a separate window
+      suffix: Western blot analysis of cell ly
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 3 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 3 (V104del)
+
+
+    Result: formed dimeric proteins in cell lysates, not present in media'
+  updated: '2020-02-19T19:20:31.905071+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-19T19:21:23.202087+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: BChZrFNNEeqUSkPvLkbYxQ
+  links:
+    html: https://hypothes.is/a/BChZrFNNEeqUSkPvLkbYxQ
+    incontext: https://hyp.is/BChZrFNNEeqUSkPvLkbYxQ/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/BChZrFNNEeqUSkPvLkbYxQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp3Results
+  - CAID:CA7142986
+  - Variant:2
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 24975
+      start: 24967
+      type: TextPositionSelector
+    - exact: Figure 4
+      prefix: d-type.Open in a separate window
+      suffix: Western blot analysis of cell ly
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 3 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 2 (P89H)
+
+
+    Result: normal folding, secreted in media'
+  updated: '2020-02-19T19:21:23.202087+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-19T19:22:09.514183+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: H7PoxlNNEeqvqxtjKTaUxA
+  links:
+    html: https://hypothes.is/a/H7PoxlNNEeqvqxtjKTaUxA
+    incontext: https://hyp.is/H7PoxlNNEeqvqxtjKTaUxA/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/H7PoxlNNEeqvqxtjKTaUxA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp3Results
+  - CAID:CA389344541
+  - Variant:1
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[4]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 24975
+      start: 24967
+      type: TextPositionSelector
+    - exact: Figure 4
+      prefix: d-type.Open in a separate window
+      suffix: Western blot analysis of cell ly
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 3 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 1 (G87W)
+
+
+    Result: normal folding, secreted in media'
+  updated: '2020-02-19T19:22:09.514183+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-19T19:28:39.789073+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: CFyQHlNOEeqDaPOodQRIFg
+  links:
+    html: https://hypothes.is/a/CFyQHlNOEeqDaPOodQRIFg
+    incontext: https://hyp.is/CFyQHlNOEeqDaPOodQRIFg/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/CFyQHlNOEeqDaPOodQRIFg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp4Results
+  - CAID:CA389344672
+  - Variant:4
+  - CGType:ExperimentResults
+  target:
+  - selector:
+    - endContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[5]/div[1]/div[3]/div[1]/a[1]
+      endOffset: 8
+      startContainer: /div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[7]/div[5]/div[1]/div[3]/div[1]/a[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 27680
+      start: 27672
+      type: TextPositionSelector
+    - exact: Figure 5
+      prefix: n site.Open in a separate window
+      suffix: Western blot analysis of wild-ty
+      type: TextQuoteSelector
+    source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: '**Experiment 4 Results**
+
+
+    **AssayReadOutDescription**
+
+
+    Variant 4 (I109T)
+
+
+    Result: acquired an additional N-linked glycosylation site, reason for being larger
+    than other proteins under reducing conditions.'
+  updated: '2020-02-19T19:28:39.789073+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-19T19:47:33.601473+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: rALYmFNQEeqb4bOQnCKdvA
+  links:
+    html: https://hypothes.is/a/rALYmFNQEeqb4bOQnCKdvA
+    incontext: https://hyp.is/8yOKSj1FEeqj2t-fAyQ-rA/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/rALYmFNQEeqb4bOQnCKdvA
+  permissions:
+    admin:
+    - acct:cthaxton@hypothes.is
+    delete:
+    - acct:cthaxton@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:cthaxton@hypothes.is
+  references:
+  - 8yOKSj1FEeqj2t-fAyQ-rA
+  tags: []
+  target:
+  - source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: 'Would you want to consider having the tag "QualitativeResult" be "Result:Qualitative"
+
+
+    this would make it a searchable tag. Otherwise if it would confuse the user, you
+    can keep it the way it is'
+  updated: '2020-02-19T19:47:33.601473+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:cthaxton@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-19T19:49:33.517175+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 84FUnFNQEeqaDtfglTWTqQ
+  links:
+    html: https://hypothes.is/a/84FUnFNQEeqaDtfglTWTqQ
+    incontext: https://hyp.is/LFrBoj1GEeqwkteE-YYHMA/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/84FUnFNQEeqaDtfglTWTqQ
+  permissions:
+    admin:
+    - acct:cthaxton@hypothes.is
+    delete:
+    - acct:cthaxton@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:cthaxton@hypothes.is
+  references:
+  - LFrBoj1GEeqwkteE-YYHMA
+  tags: []
+  target:
+  - source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: "I might suggest highlighting the variant name in the figure legend just so\
+    \ that it highlights the assertion. It also brings the eye of the reader to the\
+    \ short result suggested by the author. \n\nFor instances in which the variant\
+    \ is not named for a result, you could direct the user to highlight the figure\
+    \ number, legend title, or text title for the result."
+  updated: '2020-02-19T19:49:33.517175+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:cthaxton@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-19T20:15:00.971917+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: geqyelNUEeqXfGcH0Nq8Qg
+  links:
+    html: https://hypothes.is/a/geqyelNUEeqXfGcH0Nq8Qg
+    incontext: https://hyp.is/DxhE8lJ8EeqBvAPF9klpNg/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/geqyelNUEeqXfGcH0Nq8Qg
+  permissions:
+    admin:
+    - acct:cthaxton@hypothes.is
+    delete:
+    - acct:cthaxton@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:cthaxton@hypothes.is
+  references:
+  - DxhE8lJ8EeqBvAPF9klpNg
+  tags: []
+  target:
+  - source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: "So I am realizing something form the variant results annotations. \n\nWe\
+    \ may want to talk and reconsider the \"Variant;\" tag, and if it is really helping\
+    \ us serve a purpose beyond the CAID or variant ID. In this case the example is\
+    \ Variant:6. I can see how this could get time intensive and mistakes may get\
+    \ made. \n\nIn the future if we have a structured app that can keep track of this\
+    \ data that would be good. If currently we ask people to keep track of this it\
+    \ certainly may seem onerous if there is not a really good reason for keeping\
+    \ it."
+  updated: '2020-02-19T20:15:00.971917+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:cthaxton@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-02-21T17:59:06.707464+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 2mtDMFTTEeqLFHd7JLktAQ
+  links:
+    html: https://hypothes.is/a/2mtDMFTTEeqLFHd7JLktAQ
+    incontext: https://hyp.is/8yOKSj1FEeqj2t-fAyQ-rA/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/2mtDMFTTEeqLFHd7JLktAQ
+  permissions:
+    admin:
+    - acct:bpow@hypothes.is
+    delete:
+    - acct:bpow@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:bpow@hypothes.is
+  references:
+  - 8yOKSj1FEeqj2t-fAyQ-rA
+  - rALYmFNQEeqb4bOQnCKdvA
+  tags: []
+  target:
+  - source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: I've been thinking of possible result types as the "Range" of the assay--
+    this could be numeric (and associated with units) or categorical (which would
+    include qualitative results)
+  updated: '2020-02-21T17:59:06.707464+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:bpow@hypothes.is
+  user_info:
+    display_name: Bradford Powell
+- created: '2020-02-21T18:03:31.768866+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: eHFpYFTUEeqlepdeRgS_HQ
+  links:
+    html: https://hypothes.is/a/eHFpYFTUEeqlepdeRgS_HQ
+    incontext: https://hyp.is/LFrBoj1GEeqwkteE-YYHMA/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/eHFpYFTUEeqlepdeRgS_HQ
+  permissions:
+    admin:
+    - acct:bpow@hypothes.is
+    delete:
+    - acct:bpow@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:bpow@hypothes.is
+  references:
+  - LFrBoj1GEeqwkteE-YYHMA
+  tags: []
+  target:
+  - source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: What would an appropriate "coded" result be here? How about coding the AssayResult
+    as "cellular localization", with qualitative values as "normal" and "abnormal"
+    (with this one being "normal", as measured by the assay)?
+  updated: '2020-02-21T18:03:31.768866+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:bpow@hypothes.is
+  user_info:
+    display_name: Bradford Powell
+- created: '2020-03-30T17:26:18.672313+00:00'
+  document:
+    title:
+    - "Identification of Pathogenic Mechanisms of COCH Mutations, Abolished Cochlin\
+      \ Secretion, and Intracellular Aggregate Formation: Genotype\u2013Phenotype\
+      \ Correlations in DFNA9 Deafness and Vestibular Disorder"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: kRTZ-HKrEeqb6cd9f5HA3w
+  links:
+    html: https://hypothes.is/a/kRTZ-HKrEeqb6cd9f5HA3w
+    incontext: https://hyp.is/FCRJjBq-EeqNiQPrRoeN4A/www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+    json: https://hypothes.is/api/annotations/kRTZ-HKrEeqb6cd9f5HA3w
+  permissions:
+    admin:
+    - acct:bpow@hypothes.is
+    delete:
+    - acct:bpow@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:bpow@hypothes.is
+  references:
+  - FCRJjBq-EeqNiQPrRoeN4A
+  tags: []
+  target:
+  - source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  text: Tag should be `FuncExp:2` (colon is missing)
+  updated: '2020-03-30T17:26:18.672313+00:00'
+  uri: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4373469/
+  user: acct:bpow@hypothes.is
+  user_info:
+    display_name: Bradford Powell
+total: 46

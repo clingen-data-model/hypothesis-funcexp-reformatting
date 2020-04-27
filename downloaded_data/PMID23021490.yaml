@@ -1,0 +1,1609 @@
+rows:
+- created: '2020-03-11T18:45:11.458775+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: cFFBbGPIEeqkv8_7Agefxg
+  links:
+    html: https://hypothes.is/a/cFFBbGPIEeqkv8_7Agefxg
+    incontext: https://hyp.is/cFFBbGPIEeqkv8_7Agefxg/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/cFFBbGPIEeqkv8_7Agefxg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - MONDO:0005439
+  - Gene:LDLR
+  - HGNC:6547
+  - CGType:General
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/h1[1]/span[1]
+      endOffset: 75
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/h1[1]/span[1]/em[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 959
+      start: 884
+      type: TextPositionSelector
+    - exact: "In\_vitro functional characterization of missense mutations in the LDLR\
+        \ gene"
+      prefix: ' 1, November 2012, Pages 128-134'
+      suffix: Author links open overlay panelS
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**PMID**: 23021490
+
+
+    **Gene**: LDLR
+
+
+    **Disease**: familial hypercholesterolaemia
+
+
+    **MONDO_ID**: MONDO:0005439'
+  updated: '2020-04-02T19:05:13.820491+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-11T18:51:01.074791+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: QKuRRmPJEeqwpn8BNAZmcw
+  links:
+    html: https://hypothes.is/a/QKuRRmPJEeqwpn8BNAZmcw
+    incontext: https://hyp.is/QKuRRmPJEeqwpn8BNAZmcw/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/QKuRRmPJEeqwpn8BNAZmcw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CAID:CA10576303
+  - Variant:1
+  - CGType:VariantID
+  - ClinVarID:226353
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[1]/p[2]
+      endOffset: 1404
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[1]/p[2]
+      startOffset: 1397
+      type: RangeSelector
+    - end: 5351
+      start: 5344
+      type: TextPositionSelector
+    - exact: p.V429L
+      prefix: 'amino acid changes in the LDLR: '
+      suffix: ' (previously known as V408L), p.'
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: 'NM_000527.4:c.1285G>C (p.Val429Leu)
+
+
+    Previously V408L'
+  updated: '2020-04-03T18:44:31.666220+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-11T18:56:21.187679+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: _3a5FmPJEeqdo6P90nH4jQ
+  links:
+    html: https://hypothes.is/a/_3a5FmPJEeqdo6P90nH4jQ
+    incontext: https://hyp.is/_3a5FmPJEeqdo6P90nH4jQ/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/_3a5FmPJEeqdo6P90nH4jQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CGType:VariantID
+  - Variant:2
+  - ClinVarID:180402
+  - CAID:CA023507
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[1]/p[2]
+      endOffset: 1460
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[1]/p[2]
+      startOffset: 1434
+      type: RangeSelector
+    - end: 5407
+      start: 5381
+      type: TextPositionSelector
+    - exact: p.W490R (previously W469R)
+      prefix: '9L (previously known as V408L), '
+      suffix: ', p.S648P (previously S627P), p.'
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: 'NM_000527.4:c.1468T>C (p.Trp490Arg)
+
+
+    Previously W469R'
+  updated: '2020-04-03T18:44:49.334554+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-11T18:58:27.712233+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: StwsnGPKEeqQOA_jy14Dew
+  links:
+    html: https://hypothes.is/a/StwsnGPKEeqQOA_jy14Dew
+    incontext: https://hyp.is/StwsnGPKEeqQOA_jy14Dew/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/StwsnGPKEeqQOA_jy14Dew
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - ClinVarID:252120
+  - Variant:3
+  - CGType:VariantID
+  - CAID:CA10585687
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[1]/p[2]
+      endOffset: 1488
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[1]/p[2]
+      startOffset: 1462
+      type: RangeSelector
+    - end: 5435
+      start: 5409
+      type: TextPositionSelector
+    - exact: p.S648P (previously S627P)
+      prefix: 'L), p.W490R (previously W469R), '
+      suffix: ', p.P685S (previously P664S) and'
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: 'NM_000527.4:c.1942T>C (p.Ser648Pro)
+
+
+    PreviouslyS627P'
+  updated: '2020-04-03T18:45:13.377281+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-11T19:39:04.613491+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 91mTxGPPEeqNoA93TbT0vw
+  links:
+    html: https://hypothes.is/a/91mTxGPPEeqNoA93TbT0vw
+    incontext: https://hyp.is/91mTxGPPEeqNoA93TbT0vw/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/91mTxGPPEeqNoA93TbT0vw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CAID:CA10585748
+  - ClinVarID:252194
+  - Variant:4
+  - CGType:VariantID
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[1]/p[2]
+      endOffset: 1516
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[1]/p[2]
+      startOffset: 1490
+      type: RangeSelector
+    - end: 5463
+      start: 5437
+      type: TextPositionSelector
+    - exact: p.P685S (previously P664S)
+      prefix: 'R), p.S648P (previously S627P), '
+      suffix: ' and p.V859M (previously V838M).'
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: 'NM_000527.4:c.2053C>T (p.Pro685Ser)
+
+
+    Previously P664S'
+  updated: '2020-04-03T18:45:30.440157+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-11T19:40:31.344320+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: KxXqPGPQEeqeVV9xUqFkyw
+  links:
+    html: https://hypothes.is/a/KxXqPGPQEeqeVV9xUqFkyw
+    incontext: https://hyp.is/KxXqPGPQEeqeVV9xUqFkyw/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/KxXqPGPQEeqeVV9xUqFkyw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CAID:CA041346
+  - ClinVarID:252360
+  - Variant:5
+  - CGType:VariantID
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[1]/p[2]
+      endOffset: 1547
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[1]/p[2]
+      startOffset: 1521
+      type: RangeSelector
+    - end: 5494
+      start: 5468
+      type: TextPositionSelector
+    - exact: p.V859M (previously V838M)
+      prefix: ' p.P685S (previously P664S) and '
+      suffix: . The effects of the different s
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: 'NM_000527.4:c.2575G>A (p.Val859Met)
+
+
+    Previously V838M'
+  updated: '2020-04-03T18:45:54.475973+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T13:28:40.485587+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: Yyg6_GRlEeqTBJerysUmpQ
+  links:
+    html: https://hypothes.is/a/Yyg6_GRlEeqTBJerysUmpQ
+    incontext: https://hyp.is/Yyg6_GRlEeqTBJerysUmpQ/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/Yyg6_GRlEeqTBJerysUmpQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - BAO:0002424
+  - CLO:0002421
+  - FuncExp:1
+  - CGType:ExperimentDescription
+  - MONDO:0005439
+  - AssayReadOutType:Qualitative
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/h3[1]/em[1]
+      endOffset: 8
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/h3[1]
+      startOffset: 5
+      type: RangeSelector
+    - end: 12652
+      start: 12616
+      type: TextPositionSelector
+    - exact: "Expression of LDLR variants in\_vitro"
+      prefix: 'nProbably damagingTolerated3.2. '
+      suffix: 'The five different LDL receptor '
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: "**Experiment 1 Description**\n\n**GeneralClass**: BAO:0002424\n\n**MaterialUsed**:\
+    \ CLO:0002421\n\n**AssayDescription**: wild type and variants were transfected\
+    \ into CHO-*ldlA7* cells and expression of mature and precursor LDLR protein were\
+    \ determined by western blot.\n\n**AssayReadOutDescription**: western blot was\
+    \ visualized for presence of band at 130 kDa and 90 kDa; relative band intensity\
+    \ for the 130 kDa band was calculated as a ratio between the 130 kDa band and\
+    \ the *y*-tubulin band, reported as relative mature LDLR level.\n\n**AssayReadOutValues**:\
+    \ presence or absence of band, relative level of 0-100 \n\n**AssayReadOutNormal**:\
+    \ only mature form is present (130 kDa band) and similar level as wild type\n\n\
+    **AssayReadOutAbormal**: precursor form is present and/or a lower amount of mature\
+    \ form present compared to wild type\n\n**AssayReadOutIndeterminate**: unclear\
+    \ results\n\n**AssayControlNormalControl**: WT\n\n**AssayControlAbnormalControl**:\
+    \ untransfected cells\n\n**ValidationControlPathogenic**: 0\n\n**ValidationControlBenign**:\
+    \ 0\n\n**Replication**: at least three independent experiments\n\n**StatisticalAnalysisDescription**:\
+    \ mean value \xB1 SD"
+  updated: '2020-04-02T19:06:52.281072+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T14:21:51.562338+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 0Tt6ymRsEeqwCqfIQ8odGg
+  links:
+    html: https://hypothes.is/a/0Tt6ymRsEeqwCqfIQ8odGg
+    incontext: https://hyp.is/0Tt6ymRsEeqwCqfIQ8odGg/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/0Tt6ymRsEeqwCqfIQ8odGg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - Variant:1
+  - CGType:ExperimentResult
+  - ClinVarID:226353
+  - FuncExp:1
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/p[1]
+      endOffset: 598
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/p[1]
+      startOffset: 591
+      type: RangeSelector
+    - end: 13250
+      start: 13243
+      type: TextPositionSelector
+    - exact: p.V429L
+      prefix: ' of a wt receptor. For variants '
+      suffix: ' and p.W490R two bands were dete'
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Variant 1 Experiment 1 Result**
+
+
+    V429L
+
+
+    **AssayResult**: precursor and mature band detected, low amount of mature form
+    compared to WT (see fig 1.B for value)
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-20T18:05:24.152535+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T14:24:20.257859+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: KdxQUGRtEeqfVLc_RsJUVg
+  links:
+    html: https://hypothes.is/a/KdxQUGRtEeqfVLc_RsJUVg
+    incontext: https://hyp.is/KdxQUGRtEeqfVLc_RsJUVg/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/KdxQUGRtEeqfVLc_RsJUVg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - Variant:2
+  - CGType:ExperimentResult
+  - ClinVarID:180402
+  - FuncExp:1
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/p[1]
+      endOffset: 610
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/p[1]
+      startOffset: 603
+      type: RangeSelector
+    - end: 13262
+      start: 13255
+      type: TextPositionSelector
+    - exact: p.W490R
+      prefix: 'eptor. For variants p.V429L and '
+      suffix: ' two bands were detected, though'
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Variant 2 Experiment 1 Result**
+
+
+    W490R
+
+
+    **AssayResult**: precursor and mature band detected, almost no mature form compared
+    to WT (see fig 1.B for value)
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-20T18:05:38.848402+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T14:28:04.121259+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: r1JhSGRtEeqIXasGQ5Zw6Q
+  links:
+    html: https://hypothes.is/a/r1JhSGRtEeqIXasGQ5Zw6Q
+    incontext: https://hyp.is/r1JhSGRtEeqIXasGQ5Zw6Q/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/r1JhSGRtEeqIXasGQ5Zw6Q
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - Variant:3
+  - CGType:ExperimentResult
+  - ClinVarID:252120
+  - FuncExp:1
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/p[1]
+      endOffset: 926
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/p[1]
+      startOffset: 919
+      type: RangeSelector
+    - end: 13578
+      start: 13571
+      type: TextPositionSelector
+    - exact: p.S648P
+      prefix: 'e protein detected for variants '
+      suffix: ' and p.P685S was lower compared '
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Variant 3 Experiment 1 Result**
+
+
+    S648P
+
+
+    **AssayResult**: small amount of precursor band detected, lower amount of mature
+    form compared to WT (see fig 1.B for value)
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-20T18:05:46.895819+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T14:29:34.938735+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 5W2OOGRtEeq3oMMHmvSixQ
+  links:
+    html: https://hypothes.is/a/5W2OOGRtEeq3oMMHmvSixQ
+    incontext: https://hyp.is/5W2OOGRtEeq3oMMHmvSixQ/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/5W2OOGRtEeq3oMMHmvSixQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - Variant:4
+  - CGType:ExperimentResult
+  - ClinVarID:252194
+  - FuncExp:1
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/p[1]
+      endOffset: 938
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/p[1]
+      startOffset: 931
+      type: RangeSelector
+    - end: 13590
+      start: 13583
+      type: TextPositionSelector
+    - exact: p.P685S
+      prefix: 'tected for variants p.S648P and '
+      suffix: ' was lower compared to the wild-'
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Variant 4 Experiment 1 Result**
+
+
+    P685S
+
+
+    **AssayResult**: small amount of precursor band detected, lower amount of mature
+    form compared to WT (see fig 1.B for value)
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-20T18:05:55.373227+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T14:31:11.171681+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: HsqkmmRuEeqE_l8U2050gA
+  links:
+    html: https://hypothes.is/a/HsqkmmRuEeqE_l8U2050gA
+    incontext: https://hyp.is/HsqkmmRuEeqE_l8U2050gA/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/HsqkmmRuEeqE_l8U2050gA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - Variant:5
+  - CGType:ExperimentResult
+  - ClinVarID:252360
+  - FuncExp:1
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/p[1]
+      endOffset: 1086
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/p[1]
+      startOffset: 1079
+      type: RangeSelector
+    - end: 13738
+      start: 13731
+      type: TextPositionSelector
+    - exact: p.V859M
+      prefix: "\_1, lanes 4 and 5). For variant "
+      suffix: ' the band signal was similar to '
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Variant 5 Experiment 1 Result**
+
+
+    V859M
+
+
+    **AssayResult**: band signal similar to wild type, slightly lower amount of mature
+    form compared to WT (see fig 1.B for value)
+
+
+    **ExperimentResultAssertion**: normal'
+  updated: '2020-04-20T18:06:03.420975+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T15:08:27.683332+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: U9nhPGRzEeqy__NXfU3JvQ
+  links:
+    html: https://hypothes.is/a/U9nhPGRzEeqy__NXfU3JvQ
+    incontext: https://hyp.is/U9nhPGRzEeqy__NXfU3JvQ/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/U9nhPGRzEeqy__NXfU3JvQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp:2A
+  - BAO:0002989
+  - CLO:0002421
+  - CGType:ExperimentDescription
+  - MONDO:0005439
+  - AssayReadOutType:Quantitative
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/h3[1]
+      endOffset: 11
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/h3[1]
+      startOffset: 5
+      type: RangeSelector
+    - end: 14619
+      start: 14613
+      type: TextPositionSelector
+    - exact: Uptake
+      prefix: 'e independent experiments).3.3. '
+      suffix: ' and degradation of 125I-LDL in '
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Experiment 2.A Description**
+
+
+    **GeneralClass**: BAO:0002989
+
+
+    **MaterialUsed**: CLO:0002421
+
+
+    **AssayDescription**: wild type and variants were transfected into CHO-*ldlA7*
+    cells and assayed for the uptake (binding + internalization) of LDL.
+
+
+    **AssayReadOutDescription**: cell-associated radioactivity (uptake) was measured
+    as % of max obtained for wt LDLR over 4 hours
+
+
+    **AssayReadOutValues**: 0-100%
+
+
+    **AssayReadOutNormal**: similar to wild type
+
+
+    **AssayReadOutAbormal**: different from wild type
+
+
+    **AssayReadOutIndeterminate**: unclear results
+
+
+    **AssayControlNormalControl**: WT
+
+
+    **AssayControlAbnormalControl**: untransfected cells
+
+
+    **ValidationControlPathogenic**: 0
+
+
+    **ValidationControlBenign**: 0
+
+
+    **Replication**: experiments were repeated at least twice with triplicate samples
+    for each cell line
+
+
+    **StatisticalAnalysisDescription**: ND'
+  updated: '2020-03-12T15:08:27.683332+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T15:19:40.857522+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 5RXSLGR0Eeqo5jebu01Slw
+  links:
+    html: https://hypothes.is/a/5RXSLGR0Eeqo5jebu01Slw
+    incontext: https://hyp.is/5RXSLGR0Eeqo5jebu01Slw/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/5RXSLGR0Eeqo5jebu01Slw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - BAO:0003010
+  - CLO:0002421
+  - FuncExp:2B
+  - CGType:ExperimentDescription
+  - MONDO:0005439
+  - AssayReadOutType:Quantitative
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/h3[1]
+      endOffset: 54
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/h3[1]
+      startOffset: 16
+      type: RangeSelector
+    - end: 14662
+      start: 14624
+      type: TextPositionSelector
+    - exact: degradation of 125I-LDL in CHOA7 cells
+      prefix: 'nt experiments).3.3. Uptake and '
+      suffix: 'Cell lines expressing wild-type '
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Experiment 2.B Description**
+
+
+    **GeneralClass**: BAO:0003010
+
+
+    **MaterialUsed**: CLO:0002421
+
+
+    **AssayDescription**: wild type and variants were transfected into CHO-*ldlA7*
+    cells and assayed for the degradation of LDL.
+
+
+    **AssayReadOutDescription**: acid-soluble non-iodine radioactivity in the medium
+    (degradation) was measured as % of max obtained for wt LDLR over 4 hours
+
+
+    **AssayReadOutValues**: 0-100%
+
+
+    **AssayReadOutNormal**: similar to wild type
+
+
+    **AssayReadOutAbormal**: different from wild type
+
+
+    **AssayReadOutIndeterminate**: unclear results
+
+
+    **AssayControlNormalControl**: WT
+
+
+    **AssayControlAbnormalControl**: untransfected cells
+
+
+    **ValidationControlPathogenic**: 0
+
+
+    **ValidationControlBenign**: 0
+
+
+    **Replication**: experiments were repeated at least twice with triplicate samples
+    for each cell line
+
+
+    **StatisticalAnalysisDescription**: ND'
+  updated: '2020-03-12T15:19:40.857522+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T17:21:04.573312+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 2nWWDGSFEeqnfHMjugXPhA
+  links:
+    html: https://hypothes.is/a/2nWWDGSFEeqnfHMjugXPhA
+    incontext: https://hyp.is/2nWWDGSFEeqnfHMjugXPhA/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/2nWWDGSFEeqnfHMjugXPhA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CGType:ExperimentResult
+  - Variant:1
+  - ClinVarID:226353
+  - FuncExp:2A
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      endOffset: 201
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      startOffset: 194
+      type: RangeSelector
+    - end: 14863
+      start: 14856
+      type: TextPositionSelector
+    - exact: p.V429L
+      prefix: '-LDL. Cells expressing variants '
+      suffix: ' and p.W490R showed virtually no'
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Variant 1 Experiment 2A Result**
+
+
+    V429L
+
+
+    **AssayResult**: ~0%
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-20T18:06:28.329693+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T17:22:41.452014+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: FEpsImSGEeqEircxNw5TSA
+  links:
+    html: https://hypothes.is/a/FEpsImSGEeqEircxNw5TSA
+    incontext: https://hyp.is/FEpsImSGEeqEircxNw5TSA/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/FEpsImSGEeqEircxNw5TSA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CGType:ExperimentResult
+  - Variant:1
+  - ClinVarID:226353
+  - FuncExp:2B
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      endOffset: 201
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      startOffset: 194
+      type: RangeSelector
+    - end: 14863
+      start: 14856
+      type: TextPositionSelector
+    - exact: p.V429L
+      prefix: '-LDL. Cells expressing variants '
+      suffix: ' and p.W490R showed virtually no'
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Variant 1 Experiment 2B Result**
+
+
+    V429L
+
+
+    **AssayResult**: ~0%
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-20T18:07:18.271429+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T17:24:35.027738+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: V_i3TmSGEeqDFsOPRmj5cA
+  links:
+    html: https://hypothes.is/a/V_i3TmSGEeqDFsOPRmj5cA
+    incontext: https://hyp.is/V_i3TmSGEeqDFsOPRmj5cA/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/V_i3TmSGEeqDFsOPRmj5cA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CGType:ExperimentResult
+  - Variant:2
+  - ClinVarID:180402
+  - FuncExp:2A
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      endOffset: 213
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      startOffset: 206
+      type: RangeSelector
+    - end: 14875
+      start: 14868
+      type: TextPositionSelector
+    - exact: p.W490R
+      prefix: 'expressing variants p.V429L and '
+      suffix: ' showed virtually no LDL uptake '
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Variant 2 Experiment 2A Result**
+
+
+    W490R
+
+
+    **AssayResult**: ~0%
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-20T18:06:38.915285+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T17:25:47.482805+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: gygGBGSGEeqfcNPDELhS8w
+  links:
+    html: https://hypothes.is/a/gygGBGSGEeqfcNPDELhS8w
+    incontext: https://hyp.is/gygGBGSGEeqfcNPDELhS8w/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/gygGBGSGEeqfcNPDELhS8w
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CGType:ExperimentResult
+  - Variant:2
+  - ClinVarID:180402
+  - FuncExp:2B
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      endOffset: 213
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      startOffset: 206
+      type: RangeSelector
+    - end: 14875
+      start: 14868
+      type: TextPositionSelector
+    - exact: p.W490R
+      prefix: 'expressing variants p.V429L and '
+      suffix: ' showed virtually no LDL uptake '
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Variant 2 Experiment 2B Result**
+
+
+    W490R
+
+
+    **AssayResult**: ~0%
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-20T18:07:26.548576+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T17:28:12.911267+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 2eKqTmSGEeqEjEtevUhtpQ
+  links:
+    html: https://hypothes.is/a/2eKqTmSGEeqEjEtevUhtpQ
+    incontext: https://hyp.is/2eKqTmSGEeqEjEtevUhtpQ/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/2eKqTmSGEeqEjEtevUhtpQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CGType:ExperimentResult
+  - Variant:3
+  - ClinVarID:252120
+  - FuncExp:2A
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      endOffset: 294
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      startOffset: 287
+      type: RangeSelector
+    - end: 14956
+      start: 14949
+      type: TextPositionSelector
+    - exact: p.S648P
+      prefix: 'tion. Cells expressing variants '
+      suffix: ' and p.P685S were impaired in bo'
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Variant 3 Experiment 2A Result**
+
+
+    S648P
+
+
+    **AssayResult**: 32.4%
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-20T18:06:46.650665+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T17:38:07.145232+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: PAKdbmSIEeqFqyeFvd4XLg
+  links:
+    html: https://hypothes.is/a/PAKdbmSIEeqFqyeFvd4XLg
+    incontext: https://hyp.is/PAKdbmSIEeqFqyeFvd4XLg/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/PAKdbmSIEeqFqyeFvd4XLg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CGType:ExperimentResult
+  - Variant:3
+  - ClinVarID:252120
+  - FuncExp:2B
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      endOffset: 294
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      startOffset: 287
+      type: RangeSelector
+    - end: 14956
+      start: 14949
+      type: TextPositionSelector
+    - exact: p.S648P
+      prefix: 'tion. Cells expressing variants '
+      suffix: ' and p.P685S were impaired in bo'
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Variant 3 Experiment 2B Result**
+
+
+    S648P
+
+
+    **AssayResult**: near 32.4%, see figure 2B for value
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-20T18:07:37.010002+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T17:39:52.633639+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: euPi_mSIEeqDGg9PjEebgQ
+  links:
+    html: https://hypothes.is/a/euPi_mSIEeqDGg9PjEebgQ
+    incontext: https://hyp.is/euPi_mSIEeqDGg9PjEebgQ/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/euPi_mSIEeqDGg9PjEebgQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CGType:ExperimentResult
+  - Variant:4
+  - ClinVarID:252194
+  - FuncExp:2A
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      endOffset: 306
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      startOffset: 299
+      type: RangeSelector
+    - end: 14968
+      start: 14961
+      type: TextPositionSelector
+    - exact: p.P685S
+      prefix: 'expressing variants p.S648P and '
+      suffix: ' were impaired in both uptake an'
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Variant 4 Experiment 2A Result**
+
+
+    P685S
+
+
+    **AssayResult**: 57.7%
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-20T18:06:54.690464+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T17:41:05.608632+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: pnG2nmSIEeqzHSfMNj52Gg
+  links:
+    html: https://hypothes.is/a/pnG2nmSIEeqzHSfMNj52Gg
+    incontext: https://hyp.is/pnG2nmSIEeqzHSfMNj52Gg/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/pnG2nmSIEeqzHSfMNj52Gg
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CGType:ExperimentResult
+  - Variant:4
+  - ClinVarID:252194
+  - FuncExp:2B
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      endOffset: 306
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      startOffset: 299
+      type: RangeSelector
+    - end: 14968
+      start: 14961
+      type: TextPositionSelector
+    - exact: p.P685S
+      prefix: 'expressing variants p.S648P and '
+      suffix: ' were impaired in both uptake an'
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Variant 4 Experiment 2B Result**
+
+
+    P685S
+
+
+    **AssayResult**: near 57.7%, see figure 2B for value
+
+
+    **ExperimentResultAssertion**: abnormal'
+  updated: '2020-04-20T18:07:44.669519+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T17:44:11.394163+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: FSIlumSJEeqE-yvtwtAOiA
+  links:
+    html: https://hypothes.is/a/FSIlumSJEeqE-yvtwtAOiA
+    incontext: https://hyp.is/FSIlumSJEeqE-yvtwtAOiA/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/FSIlumSJEeqE-yvtwtAOiA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CGType:ExperimentResult
+  - Variant:5
+  - ClinVarID:252360
+  - FuncExp:2B
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      endOffset: 473
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      startOffset: 466
+      type: RangeSelector
+    - end: 15135
+      start: 15128
+      type: TextPositionSelector
+    - exact: p.V859M
+      prefix: 'expressing normal LDLR. Variant '
+      suffix: ' had an activity essentially com'
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Variant 5 Experiment 2B Result**
+
+
+    V859M
+
+
+    **AssayResult**: ~100%
+
+
+    **ExperimentResultAssertion**: normal'
+  updated: '2020-04-20T18:07:53.286194+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T17:44:42.979886+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: J-4y9mSJEeqigiPqK952WA
+  links:
+    html: https://hypothes.is/a/J-4y9mSJEeqigiPqK952WA
+    incontext: https://hyp.is/J-4y9mSJEeqigiPqK952WA/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/J-4y9mSJEeqigiPqK952WA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CGType:ExperimentResult
+  - Variant:5
+  - ClinVarID:252360
+  - FuncExp:2A
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      endOffset: 473
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/div[1]/p[1]
+      startOffset: 466
+      type: RangeSelector
+    - end: 15135
+      start: 15128
+      type: TextPositionSelector
+    - exact: p.V859M
+      prefix: 'expressing normal LDLR. Variant '
+      suffix: ' had an activity essentially com'
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: '**Variant 5 Experiment 2A Result**
+
+
+    V859M
+
+
+    **AssayResult**: ~100%
+
+
+    **ExperimentResultAssertion**: normal'
+  updated: '2020-04-20T18:07:03.737316+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T18:17:14.639662+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: s0Q6QGSNEeqj3psQlJS3SA
+  links:
+    html: https://hypothes.is/a/s0Q6QGSNEeqj3psQlJS3SA
+    incontext: https://hyp.is/s0Q6QGSNEeqj3psQlJS3SA/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/s0Q6QGSNEeqj3psQlJS3SA
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - FuncExp:3
+  - BAO:0000453
+  - CLO:0002421
+  - CGType:ExperimentDescription
+  - MONDO:0005439
+  - AssayReadOutType:Quantitative
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/h3[1]
+      endOffset: 64
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/h3[1]
+      startOffset: 5
+      type: RangeSelector
+    - end: 15947
+      start: 15888
+      type: TextPositionSelector
+    - exact: Surface LDLR analysis by confocal laser scanning microscopy
+      prefix: "f unlabelled LDL (1\_mg/mL).3.4. "
+      suffix: Cells expressing 3 of the varian
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: "**Experiment 3 Description**\n\n**GeneralClass**: BAO:0000453\n\n**MaterialUsed**:\
+    \ CLO:0002421\n\n**AssayDescription**: confocal laser scanning microscopy was\
+    \ used to visualize and quantify the fluorescently labelled LDLR protein present\
+    \ at the cell surface\n\n**AssayReadOutDescription**: relative amount of LDL receptor\
+    \ at cell surface compared to wild type expressed as % of maximum by wild type\
+    \ LDLR\n\n**AssayReadOutValues**: relative amount 0-100%\n\n**AssayReadOutNormal**:\
+    \ similar to wild type\n\n**AssayReadOutAbormal**: different from wild type\n\n\
+    **AssayReadOutIndeterminate**: unclear results\n\n**AssayControlNormalControl**:\
+    \ WT\n\n**AssayControlAbnormalControl**: ND\n\n**ValidationControlPathogenic**:\
+    \ 0\n\n**ValidationControlBenign**: 0\n\n**Replication**: relative fluorescence\
+    \ values correspond to mean values obtained for n \u2265 10 cells in two independent\
+    \ experiments\n\n**StatisticalAnalysisDescription**: mean value \xB1 SD"
+  updated: '2020-04-02T19:21:30.751015+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T18:20:53.643035+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: Nep8mGSOEeqKrlMHqSG6UQ
+  links:
+    html: https://hypothes.is/a/Nep8mGSOEeqKrlMHqSG6UQ
+    incontext: https://hyp.is/Nep8mGSOEeqKrlMHqSG6UQ/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/Nep8mGSOEeqKrlMHqSG6UQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CGType:ExperimentResult
+  - Variant:3
+  - ClinVarID:252120
+  - FuncExp:3
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/p[1]
+      endOffset: 781
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/p[1]
+      startOffset: 774
+      type: RangeSelector
+    - end: 16728
+      start: 16721
+      type: TextPositionSelector
+    - exact: p.S648P
+      prefix: 'otein. Cells expressing variant '
+      suffix: " (25.3%\_\xB1\_8.6) and p.V429L (17.5"
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: "**Variant 3 Experiment 3 Result**\n\nS648P\n\n**AssayResult**: 25.3% \xB1\
+    \ 8.6\n\n**ExperimentResultAssertion**: abnormal"
+  updated: '2020-04-20T18:08:06.064440+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T18:22:22.992148+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: awpw6mSOEeqT-rcD1MuduQ
+  links:
+    html: https://hypothes.is/a/awpw6mSOEeqT-rcD1MuduQ
+    incontext: https://hyp.is/awpw6mSOEeqT-rcD1MuduQ/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/awpw6mSOEeqT-rcD1MuduQ
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CGType:ExperimentResult
+  - Variant:1
+  - ClinVarID:226353
+  - FuncExp:3
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/p[1]
+      endOffset: 807
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/p[1]
+      startOffset: 800
+      type: RangeSelector
+    - end: 16754
+      start: 16747
+      type: TextPositionSelector
+    - exact: p.V429L
+      prefix: "riant p.S648P (25.3%\_\xB1\_8.6) and "
+      suffix: " (17.5%\_\xB1\_2.3) showed a signific"
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: "**Variant 1 Experiment 3 Result**\n\nV429L\n\n**AssayResult**: 17.5% \xB1\
+    \ 2.3\n\n**ExperimentResultAssertion**: abnormal"
+  updated: '2020-04-20T18:08:12.277547+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-03-12T18:24:08.589444+00:00'
+  document:
+    title:
+    - "In\_vitro functional characterization of missense mutations in the LDLR gene"
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: qhGRumSOEeqSAivtVuXxfw
+  links:
+    html: https://hypothes.is/a/qhGRumSOEeqSAivtVuXxfw
+    incontext: https://hyp.is/qhGRumSOEeqSAivtVuXxfw/www.sciencedirect.com/science/article/pii/S0021915012005667
+    json: https://hypothes.is/api/annotations/qhGRumSOEeqSAivtVuXxfw
+  permissions:
+    admin:
+    - acct:dkanavy@hypothes.is
+    delete:
+    - acct:dkanavy@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:dkanavy@hypothes.is
+  tags:
+  - CGType:ExperimentResult
+  - Variant:5
+  - ClinVarID:252360
+  - FuncExp:3
+  target:
+  - selector:
+    - endContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/p[1]
+      endOffset: 917
+      startContainer: /div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/p[1]
+      startOffset: 910
+      type: RangeSelector
+    - end: 16864
+      start: 16857
+      type: TextPositionSelector
+    - exact: p.V859M
+      prefix: 'rface. Cells expressing variant '
+      suffix: ' showed only a slight decrease i'
+      type: TextQuoteSelector
+    source: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  text: "**Variant 5 Experiment 3 Result**\n\nV859M\n\n**AssayResult**: 85.5% \xB1\
+    \ 0.5\n\n**ExperimentResultAssertion**: normal"
+  updated: '2020-04-20T18:08:20.074525+00:00'
+  uri: https://www.sciencedirect.com/science/article/pii/S0021915012005667
+  user: acct:dkanavy@hypothes.is
+  user_info:
+    display_name: null
+total: 28
