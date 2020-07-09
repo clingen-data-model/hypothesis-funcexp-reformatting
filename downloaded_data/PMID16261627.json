@@ -1,1963 +1,1959 @@
-{
-  "total": 28,
-  "rows": [
-    {
-      "id": "lqMr-imBEemhVF9AGmAi5w",
-      "created": "2019-02-05T20:06:56.233069+00:00",
-      "updated": "2020-07-06T01:47:46.681167+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary.wiley.com/doi/full/10.1002/ajmg.a.30980",
-      "text": "",
-      "tags": [
-        "PMID:16261627",
-        "CGType:Manuscript"
+[
+  {
+    "id": "lqMr-imBEemhVF9AGmAi5w",
+    "created": "2019-02-05T20:06:56.233069+00:00",
+    "updated": "2020-07-06T01:47:46.681167+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary.wiley.com/doi/full/10.1002/ajmg.a.30980",
+    "text": "",
+    "tags": [
+      "PMID:16261627",
+      "CGType:Manuscript"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
       ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary.wiley.com/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "FragmentSelector",
-              "value": "pb-page-content",
-              "conformsTo": "https://tools.ietf.org/html/rfc3236"
-            },
-            {
-              "type": "RangeSelector",
-              "endOffset": 1,
-              "startOffset": 0,
-              "endContainer": "/div[1]/div[1]/div[2]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/a[1]/sup[1]",
-              "startContainer": "/div[1]/div[1]/div[2]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/div[1]/h2[1]"
-            },
-            {
-              "end": 2903,
-              "type": "TextPositionSelector",
-              "start": 2674
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction\u2020",
-              "prefix": "Article\n         Full Access\n   ",
-              "suffix": "\n   \n      Valerie A. Street\n   "
-            }
-          ]
-        }
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
       ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/lqMr-imBEemhVF9AGmAi5w",
-        "incontext": "https://hyp.is/lqMr-imBEemhVF9AGmAi5w/onlinelibrary.wiley.com/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/lqMr-imBEemhVF9AGmAi5w"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
     },
-    {
-      "id": "dXU-Cr8rEeqFJ0-rW6pJRw",
-      "created": "2020-07-06T01:53:16.101460+00:00",
-      "updated": "2020-07-07T20:39:17.147645+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**Gene**: COCH\n\n**Disease**: Autosomal dominant nonsyndromic deafness\n\n**MONDO**: 0019587\n\n",
-      "tags": [
-        "CGType:GeneticCondition",
-        "Gene:COCH",
-        "HGNC:2180",
-        "MONDO:0019587",
-        "InheritancePattern:HP:0000006",
-        "InheritancePattern:AutosomalDominant"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
+    "target": [
+      {
+        "source": "https://onlinelibrary.wiley.com/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "FragmentSelector",
+            "value": "pb-page-content",
+            "conformsTo": "https://tools.ietf.org/html/rfc3236"
+          },
+          {
+            "type": "RangeSelector",
+            "endOffset": 1,
+            "startOffset": 0,
+            "endContainer": "/div[1]/div[1]/div[2]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/a[1]/sup[1]",
+            "startContainer": "/div[1]/div[1]/div[2]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/div[1]/h2[1]"
+          },
+          {
+            "end": 2903,
+            "type": "TextPositionSelector",
+            "start": 2674
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction\u2020",
+            "prefix": "Article\n         Full Access\n   ",
+            "suffix": "\n   \n      Valerie A. Street\n   "
+          }
         ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 358,
-              "startOffset": 0,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/div[1]/section[1]/div[1]/p[1]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/div[1]/section[1]/div[1]/p[1]"
-            },
-            {
-              "end": 7473,
-              "type": "TextPositionSelector",
-              "start": 7115
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "Mutations within the COCH  gene (encoding the cochlin protein) lead to auditory and vestibular impairment in the DFNA9  disorder. In this study, we describe the genetic mapping of progressive autosomal dominant sensorineural hearing loss first affecting high\u2010frequency auditory thresholds within a human pedigree to the long arm of chromosome 14 in band q12.",
-              "prefix": "      \n            \n            ",
-              "suffix": " A maximal pairwise LOD score of"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/dXU-Cr8rEeqFJ0-rW6pJRw",
-        "incontext": "https://hyp.is/dXU-Cr8rEeqFJ0-rW6pJRw/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/dXU-Cr8rEeqFJ0-rW6pJRw"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
       }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
     },
-    {
-      "id": "Js-m1r8sEeqOQMtFDiGX3g",
-      "created": "2020-07-06T01:58:13.675728+00:00",
-      "updated": "2020-07-07T20:40:13.115472+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**HGVS**: NM_004086.3:c.1625G>T (p.Cys542Phe)",
-      "tags": [
-        "Variant:1",
-        "CAID:CA253895",
-        "CGType:Variant",
-        "ClinVarID:6614"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 459,
-              "startOffset": 448,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/div[1]/section[1]/div[1]/p[1]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/div[1]/section[1]/div[1]/p[1]"
-            },
-            {
-              "end": 7574,
-              "type": "TextPositionSelector",
-              "start": 7563
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "c.1625G\u2009>\u2009T",
-              "prefix": "rker D14S1021 . We identified a ",
-              "suffix": " mutation in exon 12 of COCH  th"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/Js-m1r8sEeqOQMtFDiGX3g",
-        "incontext": "https://hyp.is/Js-m1r8sEeqOQMtFDiGX3g/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/Js-m1r8sEeqOQMtFDiGX3g"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
+    "links": {
+      "html": "https://hypothes.is/a/lqMr-imBEemhVF9AGmAi5w",
+      "incontext": "https://hyp.is/lqMr-imBEemhVF9AGmAi5w/onlinelibrary.wiley.com/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/lqMr-imBEemhVF9AGmAi5w"
     },
-    {
-      "id": "cP7wLL8sEeqRiNPPSHUiMg",
-      "created": "2020-07-06T02:00:18.088542+00:00",
-      "updated": "2020-07-07T20:42:27.443945+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**HGVS**: NM_004086.3:c.151C>T (p.Pro51Ser)",
-      "tags": [
-        "Variant:2",
-        "CAID:CA253889",
-        "CGType:Variant",
-        "ClinVarID:6611"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 392,
-              "startOffset": 386,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[6]/p[1]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[6]/p[1]"
-            },
-            {
-              "end": 20515,
-              "type": "TextPositionSelector",
-              "start": 20509
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "p.P51S",
-              "prefix": "ly characterized COCH  mutants (",
-              "suffix": ", p.G88E) were also transfected "
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/cP7wLL8sEeqRiNPPSHUiMg",
-        "incontext": "https://hyp.is/cP7wLL8sEeqRiNPPSHUiMg/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/cP7wLL8sEeqRiNPPSHUiMg"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "ozgJDL8sEeqsx-cELLtnVg",
-      "created": "2020-07-06T02:01:42.389366+00:00",
-      "updated": "2020-07-07T20:42:39.905189+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**HGVS**: NM_004086.3:c.263G>A (p.Gly88Glu)",
-      "tags": [
-        "Variant:3",
-        "CAID:CA253885",
-        "CGType:Variant",
-        "ClinVarID:6609"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 400,
-              "startOffset": 394,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[6]/p[1]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[6]/p[1]"
-            },
-            {
-              "end": 20523,
-              "type": "TextPositionSelector",
-              "start": 20517
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "p.G88E",
-              "prefix": "cterized COCH  mutants (p.P51S, ",
-              "suffix": ") were also transfected into hum"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/ozgJDL8sEeqsx-cELLtnVg",
-        "incontext": "https://hyp.is/ozgJDL8sEeqsx-cELLtnVg/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/ozgJDL8sEeqsx-cELLtnVg"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "_v9fCL8vEeqtDkdAmXmyBw",
-      "created": "2020-07-06T02:25:44.662151+00:00",
-      "updated": "2020-07-06T14:18:17.818558+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayGeneralClass**: BAO:0002424 western blot\n\n**AssayMaterialUsed**: CLO:0001230 HEK293 cells\n\n**AssayDescription**: Whole cell lysates from HEK293 cells transiently transfected with HA-tagged human COCH constructs were analyzed by western blot following non-reducing gel electrophoresis to assess steady-state levels of the protein and disulfide bond formation. \n\n**AssayReadOutDescription**: Protein band size and intensity\n\n**AssayRange**: Presence, absence, increased abundance, or decreased abundance of full length cochlin at ~60 kDa\n\n**AssayNormalRange**: Presence of full-length cochlin (~60 kDa) \n\n**AssayAbnormalRange**: Absence or decreased abundance of full-length cochlin/altered migration pattern\n\n**AssayIndeterminateRange**: Not reported\n\n**ValidationControlPathogenic**: 2\n\n**ValidationControlBenign**: 0\n\n**Replication**: Not reported\n\n**StatisticalAnalysisDescription**: Not reported\n\n**PValueThreshold**: Not reported",
-      "tags": [
-        "CGType:FunctionalAssay",
-        "FuncAssay:1",
-        "BAO:0002424",
-        "CLO:0001230",
-        "AssayRangeType:Qualitative"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 823,
-              "startOffset": 1,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[7]/p[1]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[6]/h3[1]"
-            },
-            {
-              "end": 21608,
-              "type": "TextPositionSelector",
-              "start": 20048
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "Expression Constructs and Transient Transfections\n            \n            Human wild\u2010type COCH  cDNA was cloned previously [Robertson et al., 2003] into a modified form of pcDNA3 that permits expression of polypeptides with three C\u2010terminal hemagglutinin (HA) tags. The c.1625G\u2009>\u2009T point mutation was introduced using QuikChange (Stratagene, La Jolla, CA). In addition to the wild\u2010type and p.C542F COCH  constructs, two previously characterized COCH  mutants (p.P51S, p.G88E) were also transfected into human embryonic kidney 293T cells as described before [Robertson et al., 2003].\n            \n            \n         \n         \n         \n            \n             Immunoprecipitation and Western Blot Analysis\n            \n            Conditioned media (300 \u00b5l) from transfected cells were incubated with anti\u2010HA (clone HA.11) bound to beads (Covance, Richmond, CA) for 2\u20134 hr at 4\u00b0C. Beads were washed 3\u20135\u00d7 in PBS, centrifuged and lysed by heating at 95\u2013100\u00b0C for 5 min in SDS\u2013PAGE buffer without \u03b2\u2010ME (for non\u2010reducing conditions). For reducing conditions, \u03b2\u2010ME was subsequently added to aliquots of both the cell lysates and immunoprecipitated proteins from the media. Proteins were separated by SDS gel electrophoresis using 10% and 4%\u201312% polyacrylamide gradient gels and transferred to Immobilon\u2010P (Millipore, Bedford, MA) membranes using a wet transfer apparatus (Invitrogen, Carlsbad, CA). Membranes were incubated with mouse anti\u2010HA monoclonal antibody (clone HA.11) and autoluminograms were prepared as reported previously [Robertson et al., 2003].",
-              "prefix": "     \n            \n             ",
-              "suffix": "\n            \n            \n     "
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/_v9fCL8vEeqtDkdAmXmyBw",
-        "incontext": "https://hyp.is/_v9fCL8vEeqtDkdAmXmyBw/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/_v9fCL8vEeqtDkdAmXmyBw"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "ScRedr8wEeqqcivKnEhdnw",
-      "created": "2020-07-06T02:27:50.366511+00:00",
-      "updated": "2020-07-06T02:47:08.481585+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayGeneralClass**: BAO:0002424 western blot\n\n**AssayMaterialUsed**: CLO:0001230 HEK293 cells\n\n**AssayDescription**: Whole cell lysates from HEK293 cells transiently transfected with HA-tagged human COCH constructs were analyzed by western blot following reducing gel electrophoresis to assess steady-state levels of the protein and disulfide bond formation.\n\n**AssayReadOutDescription**: Protein band size and intensity\n\n**AssayRange**: Presence, absence, increased abundance, or decreased abundance of full length cochlin at ~60 kDa\n\n**AssayNormalRange**: Presence of full-length cochlin (~60 kDa)\n\n**AssayAbnormalRange**: Absence or decreased abundance of full-length cochlin/altered migration pattern\n\n**AssayIndeterminateRange**: Not reported\n\n**ValidationControlPathogenic**: 2\n\n**ValidationControlBenign**: 0\n\n**Replication**: Not reported\n\n**StatisticalAnalysisDescription**: Not reported\n\n**PValueThreshold**: Not reported",
-      "tags": [
-        "CGType:FunctionalAssay",
-        "FuncAssay:3",
-        "BAO:0002424",
-        "CLO:0001230",
-        "AssayRangeType:Qualitative"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 823,
-              "startOffset": 1,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[7]/p[1]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[6]/h3[1]"
-            },
-            {
-              "end": 21608,
-              "type": "TextPositionSelector",
-              "start": 20048
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "Expression Constructs and Transient Transfections\n            \n            Human wild\u2010type COCH  cDNA was cloned previously [Robertson et al., 2003] into a modified form of pcDNA3 that permits expression of polypeptides with three C\u2010terminal hemagglutinin (HA) tags. The c.1625G\u2009>\u2009T point mutation was introduced using QuikChange (Stratagene, La Jolla, CA). In addition to the wild\u2010type and p.C542F COCH  constructs, two previously characterized COCH  mutants (p.P51S, p.G88E) were also transfected into human embryonic kidney 293T cells as described before [Robertson et al., 2003].\n            \n            \n         \n         \n         \n            \n             Immunoprecipitation and Western Blot Analysis\n            \n            Conditioned media (300 \u00b5l) from transfected cells were incubated with anti\u2010HA (clone HA.11) bound to beads (Covance, Richmond, CA) for 2\u20134 hr at 4\u00b0C. Beads were washed 3\u20135\u00d7 in PBS, centrifuged and lysed by heating at 95\u2013100\u00b0C for 5 min in SDS\u2013PAGE buffer without \u03b2\u2010ME (for non\u2010reducing conditions). For reducing conditions, \u03b2\u2010ME was subsequently added to aliquots of both the cell lysates and immunoprecipitated proteins from the media. Proteins were separated by SDS gel electrophoresis using 10% and 4%\u201312% polyacrylamide gradient gels and transferred to Immobilon\u2010P (Millipore, Bedford, MA) membranes using a wet transfer apparatus (Invitrogen, Carlsbad, CA). Membranes were incubated with mouse anti\u2010HA monoclonal antibody (clone HA.11) and autoluminograms were prepared as reported previously [Robertson et al., 2003].",
-              "prefix": "     \n            \n             ",
-              "suffix": "\n            \n            \n     "
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/ScRedr8wEeqqcivKnEhdnw",
-        "incontext": "https://hyp.is/ScRedr8wEeqqcivKnEhdnw/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/ScRedr8wEeqqcivKnEhdnw"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "WzOFgr8xEeqTodsIpSUUww",
-      "created": "2020-07-06T02:35:29.039197+00:00",
-      "updated": "2020-07-06T02:48:04.227856+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayGeneralClass**: BAO:0002424 western blot\n\n**AssayMaterialUsed**: CLO:0001230 HEK293 cells\n\n**AssayDescription**: Media from cultured HEK293 cells transiently transfected with HA-tagged human COCH constructs were analyzed by western blot following non-reducing gel electrophoresis to assess steady-state levels of the protein and efficiency of post-translational proteolytic processing.\n\n**AssayReadOutDescription**: Protein band size and intensity\n\n**AssayRange**: Presence, absence, increased abundance, or decreased abundance of full length cochlin at ~60 kDa and presence/absence of smaller sized cochlin doublet representing small processed, secreted isoforms (~45 kDa and ~50 kDa)\n\n**AssayNormalRange**: Presence of full-length cochlin (~60 kDa) and smaller isoforms (~45 kDa and ~50 kDa)\n\n**AssayAbnormalRange**: Absence or decreased abundance of full-length cochlin or smaller isoforms\n\n**AssayIndeterminateRange**: Not reported\n\n**ValidationControlPathogenic**: 2\n\n**ValidationControlBenign**: 0\n\n**Replication**: Not reported\n\n**StatisticalAnalysisDescription**: Not reported\n\n**PValueThreshold**: Not reported",
-      "tags": [
-        "CGType:FunctionalAssay",
-        "FuncAssay:2",
-        "BAO:0002424",
-        "CLO:0001230",
-        "AssayRangeType:Qualitative"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 823,
-              "startOffset": 1,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[7]/p[1]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[6]/h3[1]"
-            },
-            {
-              "end": 21608,
-              "type": "TextPositionSelector",
-              "start": 20048
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "Expression Constructs and Transient Transfections\n            \n            Human wild\u2010type COCH  cDNA was cloned previously [Robertson et al., 2003] into a modified form of pcDNA3 that permits expression of polypeptides with three C\u2010terminal hemagglutinin (HA) tags. The c.1625G\u2009>\u2009T point mutation was introduced using QuikChange (Stratagene, La Jolla, CA). In addition to the wild\u2010type and p.C542F COCH  constructs, two previously characterized COCH  mutants (p.P51S, p.G88E) were also transfected into human embryonic kidney 293T cells as described before [Robertson et al., 2003].\n            \n            \n         \n         \n         \n            \n             Immunoprecipitation and Western Blot Analysis\n            \n            Conditioned media (300 \u00b5l) from transfected cells were incubated with anti\u2010HA (clone HA.11) bound to beads (Covance, Richmond, CA) for 2\u20134 hr at 4\u00b0C. Beads were washed 3\u20135\u00d7 in PBS, centrifuged and lysed by heating at 95\u2013100\u00b0C for 5 min in SDS\u2013PAGE buffer without \u03b2\u2010ME (for non\u2010reducing conditions). For reducing conditions, \u03b2\u2010ME was subsequently added to aliquots of both the cell lysates and immunoprecipitated proteins from the media. Proteins were separated by SDS gel electrophoresis using 10% and 4%\u201312% polyacrylamide gradient gels and transferred to Immobilon\u2010P (Millipore, Bedford, MA) membranes using a wet transfer apparatus (Invitrogen, Carlsbad, CA). Membranes were incubated with mouse anti\u2010HA monoclonal antibody (clone HA.11) and autoluminograms were prepared as reported previously [Robertson et al., 2003].",
-              "prefix": "     \n            \n             ",
-              "suffix": "\n            \n            \n     "
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/WzOFgr8xEeqTodsIpSUUww",
-        "incontext": "https://hyp.is/WzOFgr8xEeqTodsIpSUUww/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/WzOFgr8xEeqTodsIpSUUww"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "z3Je3L8xEeqifu9LwYmY8Q",
-      "created": "2020-07-06T02:38:44.120251+00:00",
-      "updated": "2020-07-06T02:47:37.940898+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayGeneralClass**: BAO:0002424 western blot\n\n**AssayMaterialUsed**: CLO:0001230 HEK293 cells\n\n**AssayDescription**: Media from cultured HEK293 cells transiently transfected with HA-tagged human COCH constructs were analyzed by western blot following reducing gel electrophoresis to assess steady-state levels of the protein and disulfide bond formation.\n\n**AssayReadOutDescription**: Protein band size and intensity\n\n**AssayRange**: Presence, absence, increased abundance, or decreased abundance of full length cochlin at ~60 kDa and presence/absence of smaller sized cochlin doublet representing small processed, secreted isoforms (~45 kDa and ~50 kDa)\n\n**AssayNormalRange**: Presence of full-length cochlin (~60 kDa) and smaller isoforms (~45 kDa and ~50 kDa)\n\n**AssayAbnormalRange**: Absence or decreased abundance of full-length cochlin or smaller isoforms\n\n**AssayIndeterminateRange**: Not reported\n\n**ValidationControlPathogenic**: 2\n\n**ValidationControlBenign**: 0\n\n**Replication**: Not reported\n\n**StatisticalAnalysisDescription**: Not reported\n\n**PValueThreshold**: Not reported",
-      "tags": [
-        "CGType:FunctionalAssay",
-        "FuncAssay:4",
-        "BAO:0002424",
-        "CLO:0001230",
-        "AssayRangeType:Qualitative"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 823,
-              "startOffset": 1,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[7]/p[1]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[6]/h3[1]"
-            },
-            {
-              "end": 21608,
-              "type": "TextPositionSelector",
-              "start": 20048
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "Expression Constructs and Transient Transfections\n            \n            Human wild\u2010type COCH  cDNA was cloned previously [Robertson et al., 2003] into a modified form of pcDNA3 that permits expression of polypeptides with three C\u2010terminal hemagglutinin (HA) tags. The c.1625G\u2009>\u2009T point mutation was introduced using QuikChange (Stratagene, La Jolla, CA). In addition to the wild\u2010type and p.C542F COCH  constructs, two previously characterized COCH  mutants (p.P51S, p.G88E) were also transfected into human embryonic kidney 293T cells as described before [Robertson et al., 2003].\n            \n            \n         \n         \n         \n            \n             Immunoprecipitation and Western Blot Analysis\n            \n            Conditioned media (300 \u00b5l) from transfected cells were incubated with anti\u2010HA (clone HA.11) bound to beads (Covance, Richmond, CA) for 2\u20134 hr at 4\u00b0C. Beads were washed 3\u20135\u00d7 in PBS, centrifuged and lysed by heating at 95\u2013100\u00b0C for 5 min in SDS\u2013PAGE buffer without \u03b2\u2010ME (for non\u2010reducing conditions). For reducing conditions, \u03b2\u2010ME was subsequently added to aliquots of both the cell lysates and immunoprecipitated proteins from the media. Proteins were separated by SDS gel electrophoresis using 10% and 4%\u201312% polyacrylamide gradient gels and transferred to Immobilon\u2010P (Millipore, Bedford, MA) membranes using a wet transfer apparatus (Invitrogen, Carlsbad, CA). Membranes were incubated with mouse anti\u2010HA monoclonal antibody (clone HA.11) and autoluminograms were prepared as reported previously [Robertson et al., 2003].",
-              "prefix": "     \n            \n             ",
-              "suffix": "\n            \n            \n     "
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/z3Je3L8xEeqifu9LwYmY8Q",
-        "incontext": "https://hyp.is/z3Je3L8xEeqifu9LwYmY8Q/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/z3Je3L8xEeqifu9LwYmY8Q"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "WRCAcL-GEeq17vtfg9DWHg",
-      "created": "2020-07-06T12:43:52.574255+00:00",
-      "updated": "2020-07-07T20:47:33.628119+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Absence of ~60 kDa band\n\n**AssayResultAssertion**: Abnormal\n\n**ControlType**: Untagged wild type COCH (control for non-specificity in immunoprecipitation)",
-      "tags": [
-        "FuncAssay:1",
-        "AssayControl:Abnormal",
-        "CGType:FunctionalAssayResult"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 925,
-              "startOffset": 917,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]"
-            },
-            {
-              "end": 30797,
-              "type": "TextPositionSelector",
-              "start": 30789
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "untagged",
-              "prefix": "resent in the negative control (",
-              "suffix": " immunoprecipitated media) and v"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/WRCAcL-GEeq17vtfg9DWHg",
-        "incontext": "https://hyp.is/WRCAcL-GEeq17vtfg9DWHg/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/WRCAcL-GEeq17vtfg9DWHg"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "DmoVir-HEeqMviPMrvzuOw",
-      "created": "2020-07-06T12:48:56.838314+00:00",
-      "updated": "2020-07-07T20:47:38.370202+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Absence of ~60 kDa band, ~45 kDa band, and ~50 kDa band\n\n**AssayResultAssertion**: Abnormal\n\n**ControlType**: Untagged wild type COCH (control for non-specificity in immunoprecipitation)",
-      "tags": [
-        "FuncAssay:2",
-        "AssayControl:Abnormal",
-        "CGType:FunctionalAssayResult"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 925,
-              "startOffset": 917,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]"
-            },
-            {
-              "end": 30797,
-              "type": "TextPositionSelector",
-              "start": 30789
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "untagged",
-              "prefix": "resent in the negative control (",
-              "suffix": " immunoprecipitated media) and v"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/DmoVir-HEeqMviPMrvzuOw",
-        "incontext": "https://hyp.is/DmoVir-HEeqMviPMrvzuOw/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/DmoVir-HEeqMviPMrvzuOw"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "otapfL-HEeq-GAdmx27CEQ",
-      "created": "2020-07-06T12:53:05.671205+00:00",
-      "updated": "2020-07-07T20:47:45.081282+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Absence of ~60 kDa band, ~45 kDa band, and ~50 kDa band\n\n**AssayResultAssertion**: Abnormal\n\n**ControlType**: Untagged wild type COCH (control for non-specificity in immunoprecipitation)",
-      "tags": [
-        "FuncAssay:4",
-        "AssayControl:Abnormal",
-        "CGType:FunctionalAssayResult"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 925,
-              "startOffset": 917,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]"
-            },
-            {
-              "end": 30797,
-              "type": "TextPositionSelector",
-              "start": 30789
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "untagged",
-              "prefix": "resent in the negative control (",
-              "suffix": " immunoprecipitated media) and v"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/otapfL-HEeq-GAdmx27CEQ",
-        "incontext": "https://hyp.is/otapfL-HEeq-GAdmx27CEQ/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/otapfL-HEeq-GAdmx27CEQ"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "z9QpLL-HEeqfEedChwl9rA",
-      "created": "2020-07-06T12:54:21.417624+00:00",
-      "updated": "2020-07-07T21:11:47.461495+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Presence of ~60 kDa band\n\n**AssayResultAssertion**: Normal\n\n**ControlType**: Normal HA-tagged wild type COCH",
-      "tags": [
-        "FuncAssay:1",
-        "AssayControl:Normal",
-        "CGType:FunctionalAssayResult",
-        "ValidationControl:WildType"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 165,
-              "startOffset": 0,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]"
-            },
-            {
-              "end": 30037,
-              "type": "TextPositionSelector",
-              "start": 29872
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "In both cellular lysates and media from cells transfected with wild\u2010type and mutant COCH  constructs, a band representing full\u2010length cochlin (\u223c60 kDa) was detected ",
-              "prefix": " Cells\n            \n            ",
-              "suffix": "(Fig. 2D). These results suggest"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/z9QpLL-HEeqfEedChwl9rA",
-        "incontext": "https://hyp.is/z9QpLL-HEeqfEedChwl9rA/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/z9QpLL-HEeqfEedChwl9rA"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "JK-U_r-IEeqd-yeOCtID6Q",
-      "created": "2020-07-06T12:56:43.325042+00:00",
-      "updated": "2020-07-07T21:11:53.975626+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Presence of ~60 kDa band\n\n**AssayResultAssertion**: Normal\n\n**ControlType**: Normal HA-tagged wild type COCH",
-      "tags": [
-        "FuncAssay:3",
-        "AssayControl:Normal",
-        "CGType:FunctionalAssayResult",
-        "ValidationControl:WildType"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 165,
-              "startOffset": 0,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]"
-            },
-            {
-              "end": 30037,
-              "type": "TextPositionSelector",
-              "start": 29872
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "In both cellular lysates and media from cells transfected with wild\u2010type and mutant COCH  constructs, a band representing full\u2010length cochlin (\u223c60 kDa) was detected ",
-              "prefix": " Cells\n            \n            ",
-              "suffix": "(Fig. 2D). These results suggest"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/JK-U_r-IEeqd-yeOCtID6Q",
-        "incontext": "https://hyp.is/JK-U_r-IEeqd-yeOCtID6Q/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/JK-U_r-IEeqd-yeOCtID6Q"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "fKaTdL-IEeqQAMM1spBo-g",
-      "created": "2020-07-06T12:59:11.361608+00:00",
-      "updated": "2020-07-07T21:12:58.086579+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Presence of ~60 kDa band, ~45 kDa band, and ~50 kDa band\n\n**AssayResultAssertion**: Normal\n\n**ControlType**: Normal HA-tagged wild type COCH",
-      "tags": [
-        "FuncAssay:2",
-        "AssayControl:Normal",
-        "CGType:FunctionalAssayResult",
-        "ValidationControl:WildType"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 150,
-              "startOffset": 0,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]"
-            },
-            {
-              "end": 31086,
-              "type": "TextPositionSelector",
-              "start": 30936
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "In the media, a smaller sized cochlin doublet (\u223c45 and \u223c50 kDa) representing post\u2010translational proteolytic processing is apparent as noted previously",
-              "prefix": "      \n            \n            ",
-              "suffix": " [Robertson et al., 2003]. Inter"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/fKaTdL-IEeqQAMM1spBo-g",
-        "incontext": "https://hyp.is/fKaTdL-IEeqQAMM1spBo-g/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/fKaTdL-IEeqQAMM1spBo-g"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "j_xY8L-IEeq565vBQvkRsw",
-      "created": "2020-07-06T12:59:43.894882+00:00",
-      "updated": "2020-07-07T21:13:05.141257+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Presence of ~60 kDa band, ~45 kDa band, and ~50 kDa band\n\n**AssayResultAssertion**: Normal\n\n**ControlType**: Normal HA-tagged wild type COCH",
-      "tags": [
-        "FuncAssay:4",
-        "AssayControl:Normal",
-        "CGType:FunctionalAssayResult",
-        "ValidationControl:WildType"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 150,
-              "startOffset": 0,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]"
-            },
-            {
-              "end": 31086,
-              "type": "TextPositionSelector",
-              "start": 30936
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "In the media, a smaller sized cochlin doublet (\u223c45 and \u223c50 kDa) representing post\u2010translational proteolytic processing is apparent as noted previously",
-              "prefix": "      \n            \n            ",
-              "suffix": " [Robertson et al., 2003]. Inter"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/j_xY8L-IEeq565vBQvkRsw",
-        "incontext": "https://hyp.is/j_xY8L-IEeq565vBQvkRsw/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/j_xY8L-IEeq565vBQvkRsw"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "woPhjL-LEeqKqXcKbJMxWA",
-      "created": "2020-07-06T13:22:37.113971+00:00",
-      "updated": "2020-07-07T20:49:31.560758+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Expected ~60 kDa band appears larger in size (possibly due to altered migration pattern)\n\n**AssayResultAssertion**: Abnormal",
-      "tags": [
-        "FuncAssay:1",
-        "Variant:1",
-        "CAID:CA253895",
-        "CGType:FunctionalAssayResult",
-        "ClinVarID:6614"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 327,
-              "startOffset": 194,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]"
-            },
-            {
-              "end": 31884,
-              "type": "TextPositionSelector",
-              "start": 31751
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "Under non\u2010reducing conditions, the p.C542F mutant cochlin migrates more slowly than the wild\u2010type, p.P51S, and p.G88E cochlin mutants",
-              "prefix": "ducing and reducing conditions. ",
-              "suffix": " (Fig. 2D). In reducing conditio"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/woPhjL-LEeqKqXcKbJMxWA",
-        "incontext": "https://hyp.is/woPhjL-LEeqKqXcKbJMxWA/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/woPhjL-LEeqKqXcKbJMxWA"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "R-AMXL-MEeqTkgMhv8Ismw",
-      "created": "2020-07-06T13:26:20.729913+00:00",
-      "updated": "2020-07-07T20:50:10.394853+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Expected ~60 kDa band present with similar intensity as wild type COCH\n\n**AssayResultAssertion**: Normal",
-      "tags": [
-        "FuncAssay:3",
-        "Variant:1",
-        "CAID:CA253895",
-        "ClinVarID:6614",
-        "CGType:FunctionalAssayResult"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 460,
-              "startOffset": 339,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]"
-            },
-            {
-              "end": 32017,
-              "type": "TextPositionSelector",
-              "start": 31896
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "In reducing conditions, the p.C542F mutant cochlin migrates at the same size as the wild\u2010type, p.P51S, and p.G88E mutants",
-              "prefix": "G88E cochlin mutants (Fig. 2D). ",
-              "suffix": " (Fig. 2D). These results indica"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/R-AMXL-MEeqTkgMhv8Ismw",
-        "incontext": "https://hyp.is/R-AMXL-MEeqTkgMhv8Ismw/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/R-AMXL-MEeqTkgMhv8Ismw"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "DHGspr-NEeqnuw929aDQtQ",
-      "created": "2020-07-06T13:31:50.531057+00:00",
-      "updated": "2020-07-07T20:49:44.632853+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Expected ~60 kDa band and expected ~50 kDa band both appear larger in size (possibly due to altered migration pattern), while ~45 kDa band is not visible. ~50 kDa band also appears decreased in abundance compared to wild type COCH.\n\n**AssayResultAssertion**: Abnormal",
-      "tags": [
-        "FuncAssay:2",
-        "Variant:1",
-        "CAID:CA253895",
-        "ClinVarID:6614",
-        "CGType:FunctionalAssayResult"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 327,
-              "startOffset": 194,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]"
-            },
-            {
-              "end": 31884,
-              "type": "TextPositionSelector",
-              "start": 31751
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "Under non\u2010reducing conditions, the p.C542F mutant cochlin migrates more slowly than the wild\u2010type, p.P51S, and p.G88E cochlin mutants",
-              "prefix": "ducing and reducing conditions. ",
-              "suffix": " (Fig. 2D). In reducing conditio"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/DHGspr-NEeqnuw929aDQtQ",
-        "incontext": "https://hyp.is/DHGspr-NEeqnuw929aDQtQ/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/DHGspr-NEeqnuw929aDQtQ"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "7JclQL-NEeqrZbdxBWxBsQ",
-      "created": "2020-07-06T13:38:06.629877+00:00",
-      "updated": "2020-07-07T20:49:13.557555+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Expected ~60 kDa band, ~50 kDa band, and ~45 kDa band are all present, however the ~50 kDa band and ~45 kDa band both appear decreased in abundance compared to wild type COCH.\n\n**AssayResultAssertion**: Abnormal",
-      "tags": [
-        "FuncAssay:4",
-        "Variant:1",
-        "CAID:CA253895",
-        "ClinVarID:6614",
-        "CGType:FunctionalAssayResult"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 352,
-              "startOffset": 177,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]"
-            },
-            {
-              "end": 31288,
-              "type": "TextPositionSelector",
-              "start": 31113
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "Interestingly, there appears to be a relatively lower amount of the smaller secreted cochlin isoforms in the p.C542F mutant than in the wild\u2010type and p.P51S and p.G88E mutants",
-              "prefix": "ously [Robertson et al., 2003]. ",
-              "suffix": ". It is possible that these isof"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/7JclQL-NEeqrZbdxBWxBsQ",
-        "incontext": "https://hyp.is/7JclQL-NEeqrZbdxBWxBsQ/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/7JclQL-NEeqrZbdxBWxBsQ"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "IQCMnL-REeqRNSPgRPA2Fw",
-      "created": "2020-07-06T14:01:02.471093+00:00",
-      "updated": "2020-07-07T20:46:19.790618+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Presence of ~60 kDa band\n\n**AssayResultAssertion**: Normal",
-      "tags": [
-        "FuncAssay:1",
-        "Variant:2",
-        "CAID:CA253889",
-        "ValidationControl:Pathogenic",
-        "CGType:FunctionalAssayResult",
-        "ClinVarID:6611"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 165,
-              "startOffset": 0,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]"
-            },
-            {
-              "end": 30037,
-              "type": "TextPositionSelector",
-              "start": 29872
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "In both cellular lysates and media from cells transfected with wild\u2010type and mutant COCH  constructs, a band representing full\u2010length cochlin (\u223c60 kDa) was detected ",
-              "prefix": " Cells\n            \n            ",
-              "suffix": "(Fig. 2D). These results suggest"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/IQCMnL-REeqRNSPgRPA2Fw",
-        "incontext": "https://hyp.is/IQCMnL-REeqRNSPgRPA2Fw/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/IQCMnL-REeqRNSPgRPA2Fw"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "U2JmVr-REeqyYluTQUAY6w",
-      "created": "2020-07-06T14:02:27.393638+00:00",
-      "updated": "2020-07-07T20:47:22.078403+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Presence of ~60 kDa band\n\n**AssayResultAssertion**: Normal",
-      "tags": [
-        "FuncAssay:1",
-        "Variant:3",
-        "CAID:CA253885",
-        "ValidationControl:Pathogenic",
-        "CGType:FunctionalAssayResult",
-        "ClinVarID:6609"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 165,
-              "startOffset": 0,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]"
-            },
-            {
-              "end": 30037,
-              "type": "TextPositionSelector",
-              "start": 29872
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "In both cellular lysates and media from cells transfected with wild\u2010type and mutant COCH  constructs, a band representing full\u2010length cochlin (\u223c60 kDa) was detected ",
-              "prefix": " Cells\n            \n            ",
-              "suffix": "(Fig. 2D). These results suggest"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/U2JmVr-REeqyYluTQUAY6w",
-        "incontext": "https://hyp.is/U2JmVr-REeqyYluTQUAY6w/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/U2JmVr-REeqyYluTQUAY6w"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "mMIVAr-REeqneo_5lG_eFg",
-      "created": "2020-07-06T14:04:23.996080+00:00",
-      "updated": "2020-07-07T20:48:14.705567+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Presence of ~60 kDa band, ~45 kDa band, and ~50 kDa band\n\n**AssayResultAssertion**: Normal",
-      "tags": [
-        "FuncAssay:2",
-        "Variant:2",
-        "CAID:CA253889",
-        "ValidationControl:Pathogenic",
-        "CGType:FunctionalAssayResult",
-        "ClinVarID:6611"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 150,
-              "startOffset": 0,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]"
-            },
-            {
-              "end": 31086,
-              "type": "TextPositionSelector",
-              "start": 30936
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "In the media, a smaller sized cochlin doublet (\u223c45 and \u223c50 kDa) representing post\u2010translational proteolytic processing is apparent as noted previously",
-              "prefix": "      \n            \n            ",
-              "suffix": " [Robertson et al., 2003]. Inter"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/mMIVAr-REeqneo_5lG_eFg",
-        "incontext": "https://hyp.is/mMIVAr-REeqneo_5lG_eFg/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/mMIVAr-REeqneo_5lG_eFg"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "2g1hdL-REeqGLQs5cg7q9Q",
-      "created": "2020-07-06T14:06:13.346516+00:00",
-      "updated": "2020-07-07T20:48:30.356141+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Presence of ~60 kDa band, ~45 kDa band, and ~50 kDa band\n\n**AssayResultAssertion**: Normal",
-      "tags": [
-        "FuncAssay:2",
-        "Variant:3",
-        "CAID:CA253885",
-        "ValidationControl:Pathogenic",
-        "CGType:FunctionalAssayResult",
-        "ClinVarID:6609"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 150,
-              "startOffset": 0,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]"
-            },
-            {
-              "end": 31086,
-              "type": "TextPositionSelector",
-              "start": 30936
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "In the media, a smaller sized cochlin doublet (\u223c45 and \u223c50 kDa) representing post\u2010translational proteolytic processing is apparent as noted previously",
-              "prefix": "      \n            \n            ",
-              "suffix": " [Robertson et al., 2003]. Inter"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/2g1hdL-REeqGLQs5cg7q9Q",
-        "incontext": "https://hyp.is/2g1hdL-REeqGLQs5cg7q9Q/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/2g1hdL-REeqGLQs5cg7q9Q"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "Hr040L-SEeqgNj9YHJR1tA",
-      "created": "2020-07-06T14:08:08.459745+00:00",
-      "updated": "2020-07-07T20:49:55.916305+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Expected ~60 kDa band present with similar intensity as wild type COCH\n\n**AssayResultAssertion**: Normal",
-      "tags": [
-        "FuncAssay:3",
-        "Variant:2",
-        "CAID:CA253889",
-        "ValidationControl:Pathogenic",
-        "ClinVarID:6611",
-        "CGType:FunctionalAssayResult"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 460,
-              "startOffset": 338,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]"
-            },
-            {
-              "end": 32017,
-              "type": "TextPositionSelector",
-              "start": 31895
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": " In reducing conditions, the p.C542F mutant cochlin migrates at the same size as the wild\u2010type, p.P51S, and p.G88E mutants",
-              "prefix": ".G88E cochlin mutants (Fig. 2D).",
-              "suffix": " (Fig. 2D). These results indica"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/Hr040L-SEeqgNj9YHJR1tA",
-        "incontext": "https://hyp.is/Hr040L-SEeqgNj9YHJR1tA/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/Hr040L-SEeqgNj9YHJR1tA"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "NVmcPL-SEeqq8XvWWfwlXA",
-      "created": "2020-07-06T14:08:46.774801+00:00",
-      "updated": "2020-07-07T20:50:25.479043+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Expected ~60 kDa band present with similar intensity as wild type COCH\n\n**AssayResultAssertion**: Normal",
-      "tags": [
-        "FuncAssay:3",
-        "Variant:3",
-        "CAID:CA253885",
-        "ValidationControl:Pathogenic",
-        "ClinVarID:6609",
-        "CGType:FunctionalAssayResult"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 460,
-              "startOffset": 339,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]"
-            },
-            {
-              "end": 32017,
-              "type": "TextPositionSelector",
-              "start": 31896
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "In reducing conditions, the p.C542F mutant cochlin migrates at the same size as the wild\u2010type, p.P51S, and p.G88E mutants",
-              "prefix": "G88E cochlin mutants (Fig. 2D). ",
-              "suffix": " (Fig. 2D). These results indica"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/NVmcPL-SEeqq8XvWWfwlXA",
-        "incontext": "https://hyp.is/NVmcPL-SEeqq8XvWWfwlXA/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/NVmcPL-SEeqq8XvWWfwlXA"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "gdJmIL-SEeqD-Wukfh72uw",
-      "created": "2020-07-06T14:10:54.959582+00:00",
-      "updated": "2020-07-07T20:48:42.994535+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Presence of ~60 kDa band, ~45 kDa band, and ~50 kDa band\n\n**AssayResultAssertion**: Normal",
-      "tags": [
-        "FuncAssay:4",
-        "Variant:2",
-        "CAID:CA253889",
-        "ValidationControl:Pathogenic",
-        "ClinVarID:6611",
-        "CGType:FunctionalAssayResult"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 150,
-              "startOffset": 0,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]"
-            },
-            {
-              "end": 31086,
-              "type": "TextPositionSelector",
-              "start": 30936
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "In the media, a smaller sized cochlin doublet (\u223c45 and \u223c50 kDa) representing post\u2010translational proteolytic processing is apparent as noted previously",
-              "prefix": "      \n            \n            ",
-              "suffix": " [Robertson et al., 2003]. Inter"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/gdJmIL-SEeqD-Wukfh72uw",
-        "incontext": "https://hyp.is/gdJmIL-SEeqD-Wukfh72uw/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/gdJmIL-SEeqD-Wukfh72uw"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
-    },
-    {
-      "id": "mY5wur-SEeqXP6-vPqYatA",
-      "created": "2020-07-06T14:11:34.827591+00:00",
-      "updated": "2020-07-07T20:48:57.381700+00:00",
-      "user": "acct:shannon_mcnulty@hypothes.is",
-      "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-      "text": "**AssayResult**: Presence of ~60 kDa band, ~45 kDa band, and ~50 kDa band\n\n**AssayResultAssertion**: Normal",
-      "tags": [
-        "FuncAssay:4",
-        "Variant:3",
-        "CAID:CA253885",
-        "ValidationControl:Pathogenic",
-        "ClinVarID:6609",
-        "CGType:FunctionalAssayResult"
-      ],
-      "group": "DRL6xW1v",
-      "permissions": {
-        "read": [
-          "group:DRL6xW1v"
-        ],
-        "admin": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "update": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ],
-        "delete": [
-          "acct:shannon_mcnulty@hypothes.is"
-        ]
-      },
-      "target": [
-        {
-          "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-          "selector": [
-            {
-              "type": "RangeSelector",
-              "endOffset": 150,
-              "startOffset": 0,
-              "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]",
-              "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]"
-            },
-            {
-              "end": 31086,
-              "type": "TextPositionSelector",
-              "start": 30936
-            },
-            {
-              "type": "TextQuoteSelector",
-              "exact": "In the media, a smaller sized cochlin doublet (\u223c45 and \u223c50 kDa) representing post\u2010translational proteolytic processing is apparent as noted previously",
-              "prefix": "      \n            \n            ",
-              "suffix": " [Robertson et al., 2003]. Inter"
-            }
-          ]
-        }
-      ],
-      "document": {
-        "title": [
-          "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
-        ]
-      },
-      "links": {
-        "html": "https://hypothes.is/a/mY5wur-SEeqXP6-vPqYatA",
-        "incontext": "https://hyp.is/mY5wur-SEeqXP6-vPqYatA/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
-        "json": "https://hypothes.is/api/annotations/mY5wur-SEeqXP6-vPqYatA"
-      },
-      "flagged": false,
-      "hidden": false,
-      "user_info": {
-        "display_name": null
-      }
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
     }
-  ]
-}
+  },
+  {
+    "id": "dXU-Cr8rEeqFJ0-rW6pJRw",
+    "created": "2020-07-06T01:53:16.101460+00:00",
+    "updated": "2020-07-08T17:34:26.174452+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**Gene**: COCH\n\n**Disease**: Autosomal dominant nonsyndromic deafness\n\n**MONDO**: 0019587\n\n**InheritancePattern**: HP:0000006 autosomal dominant\n",
+    "tags": [
+      "CGType:GeneticCondition",
+      "Gene:COCH",
+      "HGNC:2180",
+      "MONDO:0019587",
+      "HP:0000006"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 358,
+            "startOffset": 0,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/div[1]/section[1]/div[1]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/div[1]/section[1]/div[1]/p[1]"
+          },
+          {
+            "end": 7473,
+            "type": "TextPositionSelector",
+            "start": 7115
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Mutations within the COCH  gene (encoding the cochlin protein) lead to auditory and vestibular impairment in the DFNA9  disorder. In this study, we describe the genetic mapping of progressive autosomal dominant sensorineural hearing loss first affecting high\u2010frequency auditory thresholds within a human pedigree to the long arm of chromosome 14 in band q12.",
+            "prefix": "      \n            \n            ",
+            "suffix": " A maximal pairwise LOD score of"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/dXU-Cr8rEeqFJ0-rW6pJRw",
+      "incontext": "https://hyp.is/dXU-Cr8rEeqFJ0-rW6pJRw/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/dXU-Cr8rEeqFJ0-rW6pJRw"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "Js-m1r8sEeqOQMtFDiGX3g",
+    "created": "2020-07-06T01:58:13.675728+00:00",
+    "updated": "2020-07-08T17:34:40.113621+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**HGVS**: NM_004086.3:c.1625G>T p.(Cys542Phe)",
+    "tags": [
+      "Variant:1",
+      "CAID:CA253895",
+      "CGType:Variant",
+      "ClinVarID:6614"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 459,
+            "startOffset": 448,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/div[1]/section[1]/div[1]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/div[1]/section[1]/div[1]/p[1]"
+          },
+          {
+            "end": 7574,
+            "type": "TextPositionSelector",
+            "start": 7563
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "c.1625G\u2009>\u2009T",
+            "prefix": "rker D14S1021 . We identified a ",
+            "suffix": " mutation in exon 12 of COCH  th"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/Js-m1r8sEeqOQMtFDiGX3g",
+      "incontext": "https://hyp.is/Js-m1r8sEeqOQMtFDiGX3g/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/Js-m1r8sEeqOQMtFDiGX3g"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "cP7wLL8sEeqRiNPPSHUiMg",
+    "created": "2020-07-06T02:00:18.088542+00:00",
+    "updated": "2020-07-08T17:36:39.084587+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**HGVS**: NM_004086.3:c.151C>T p.(Pro51Ser)",
+    "tags": [
+      "Variant:2",
+      "CAID:CA253889",
+      "CGType:Variant",
+      "ClinVarID:6611"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 392,
+            "startOffset": 386,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[6]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[6]/p[1]"
+          },
+          {
+            "end": 20515,
+            "type": "TextPositionSelector",
+            "start": 20509
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "p.P51S",
+            "prefix": "ly characterized COCH  mutants (",
+            "suffix": ", p.G88E) were also transfected "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/cP7wLL8sEeqRiNPPSHUiMg",
+      "incontext": "https://hyp.is/cP7wLL8sEeqRiNPPSHUiMg/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/cP7wLL8sEeqRiNPPSHUiMg"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "ozgJDL8sEeqsx-cELLtnVg",
+    "created": "2020-07-06T02:01:42.389366+00:00",
+    "updated": "2020-07-08T17:36:49.116085+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**HGVS**: NM_004086.3:c.263G>A p.(Gly88Glu)",
+    "tags": [
+      "Variant:3",
+      "CAID:CA253885",
+      "CGType:Variant",
+      "ClinVarID:6609"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 400,
+            "startOffset": 394,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[6]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[6]/p[1]"
+          },
+          {
+            "end": 20523,
+            "type": "TextPositionSelector",
+            "start": 20517
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "p.G88E",
+            "prefix": "cterized COCH  mutants (p.P51S, ",
+            "suffix": ") were also transfected into hum"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/ozgJDL8sEeqsx-cELLtnVg",
+      "incontext": "https://hyp.is/ozgJDL8sEeqsx-cELLtnVg/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/ozgJDL8sEeqsx-cELLtnVg"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "_v9fCL8vEeqtDkdAmXmyBw",
+    "created": "2020-07-06T02:25:44.662151+00:00",
+    "updated": "2020-07-08T17:36:00.700794+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayGeneralClass**: BAO:0002424 western blot\n\n**AssayMaterialUsed**: CLO:0001230 HEK293 cells\n\n**AssayDescription**: Whole cell lysates from HEK293 cells transiently transfected with HA-tagged human COCH constructs were analyzed by western blot following non-reducing gel electrophoresis to assess steady-state levels of the protein and disulfide bond formation. \n\n**AssayReadOutDescription**: Protein band size and intensity\n\n**AssayRange**: Presence, absence, increased abundance, or decreased abundance of full length cochlin at ~60 kDa\n\n**AssayNormalRange**: Presence of full-length cochlin (~60 kDa) \n\n**AssayAbnormalRange**: Absence or decreased abundance of full-length cochlin/altered migration pattern\n\n**AssayIndeterminateRange**: Not reported\n\n**ValidationControlPathogenic**: 0\n\n**ValidationControlBenign**: 0\n\n**Replication**: Not reported\n\n**StatisticalAnalysisDescription**: Not reported\n\n**PValueThreshold**: Not reported",
+    "tags": [
+      "CGType:FunctionalAssay",
+      "FuncAssay:1",
+      "BAO:0002424",
+      "CLO:0001230",
+      "AssayRangeType:Qualitative"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 823,
+            "startOffset": 1,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[7]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[6]/h3[1]"
+          },
+          {
+            "end": 21608,
+            "type": "TextPositionSelector",
+            "start": 20048
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Expression Constructs and Transient Transfections\n            \n            Human wild\u2010type COCH  cDNA was cloned previously [Robertson et al., 2003] into a modified form of pcDNA3 that permits expression of polypeptides with three C\u2010terminal hemagglutinin (HA) tags. The c.1625G\u2009>\u2009T point mutation was introduced using QuikChange (Stratagene, La Jolla, CA). In addition to the wild\u2010type and p.C542F COCH  constructs, two previously characterized COCH  mutants (p.P51S, p.G88E) were also transfected into human embryonic kidney 293T cells as described before [Robertson et al., 2003].\n            \n            \n         \n         \n         \n            \n             Immunoprecipitation and Western Blot Analysis\n            \n            Conditioned media (300 \u00b5l) from transfected cells were incubated with anti\u2010HA (clone HA.11) bound to beads (Covance, Richmond, CA) for 2\u20134 hr at 4\u00b0C. Beads were washed 3\u20135\u00d7 in PBS, centrifuged and lysed by heating at 95\u2013100\u00b0C for 5 min in SDS\u2013PAGE buffer without \u03b2\u2010ME (for non\u2010reducing conditions). For reducing conditions, \u03b2\u2010ME was subsequently added to aliquots of both the cell lysates and immunoprecipitated proteins from the media. Proteins were separated by SDS gel electrophoresis using 10% and 4%\u201312% polyacrylamide gradient gels and transferred to Immobilon\u2010P (Millipore, Bedford, MA) membranes using a wet transfer apparatus (Invitrogen, Carlsbad, CA). Membranes were incubated with mouse anti\u2010HA monoclonal antibody (clone HA.11) and autoluminograms were prepared as reported previously [Robertson et al., 2003].",
+            "prefix": "     \n            \n             ",
+            "suffix": "\n            \n            \n     "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/_v9fCL8vEeqtDkdAmXmyBw",
+      "incontext": "https://hyp.is/_v9fCL8vEeqtDkdAmXmyBw/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/_v9fCL8vEeqtDkdAmXmyBw"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "ScRedr8wEeqqcivKnEhdnw",
+    "created": "2020-07-06T02:27:50.366511+00:00",
+    "updated": "2020-07-08T17:36:11.216137+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayGeneralClass**: BAO:0002424 western blot\n\n**AssayMaterialUsed**: CLO:0001230 HEK293 cells\n\n**AssayDescription**: Whole cell lysates from HEK293 cells transiently transfected with HA-tagged human COCH constructs were analyzed by western blot following reducing gel electrophoresis to assess steady-state levels of the protein and disulfide bond formation.\n\n**AssayReadOutDescription**: Protein band size and intensity\n\n**AssayRange**: Presence, absence, increased abundance, or decreased abundance of full length cochlin at ~60 kDa\n\n**AssayNormalRange**: Presence of full-length cochlin (~60 kDa)\n\n**AssayAbnormalRange**: Absence or decreased abundance of full-length cochlin/altered migration pattern\n\n**AssayIndeterminateRange**: Not reported\n\n**ValidationControlPathogenic**: 0\n\n**ValidationControlBenign**: 0\n\n**Replication**: Not reported\n\n**StatisticalAnalysisDescription**: Not reported\n\n**PValueThreshold**: Not reported",
+    "tags": [
+      "CGType:FunctionalAssay",
+      "FuncAssay:3",
+      "BAO:0002424",
+      "CLO:0001230",
+      "AssayRangeType:Qualitative"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 823,
+            "startOffset": 1,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[7]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[6]/h3[1]"
+          },
+          {
+            "end": 21608,
+            "type": "TextPositionSelector",
+            "start": 20048
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Expression Constructs and Transient Transfections\n            \n            Human wild\u2010type COCH  cDNA was cloned previously [Robertson et al., 2003] into a modified form of pcDNA3 that permits expression of polypeptides with three C\u2010terminal hemagglutinin (HA) tags. The c.1625G\u2009>\u2009T point mutation was introduced using QuikChange (Stratagene, La Jolla, CA). In addition to the wild\u2010type and p.C542F COCH  constructs, two previously characterized COCH  mutants (p.P51S, p.G88E) were also transfected into human embryonic kidney 293T cells as described before [Robertson et al., 2003].\n            \n            \n         \n         \n         \n            \n             Immunoprecipitation and Western Blot Analysis\n            \n            Conditioned media (300 \u00b5l) from transfected cells were incubated with anti\u2010HA (clone HA.11) bound to beads (Covance, Richmond, CA) for 2\u20134 hr at 4\u00b0C. Beads were washed 3\u20135\u00d7 in PBS, centrifuged and lysed by heating at 95\u2013100\u00b0C for 5 min in SDS\u2013PAGE buffer without \u03b2\u2010ME (for non\u2010reducing conditions). For reducing conditions, \u03b2\u2010ME was subsequently added to aliquots of both the cell lysates and immunoprecipitated proteins from the media. Proteins were separated by SDS gel electrophoresis using 10% and 4%\u201312% polyacrylamide gradient gels and transferred to Immobilon\u2010P (Millipore, Bedford, MA) membranes using a wet transfer apparatus (Invitrogen, Carlsbad, CA). Membranes were incubated with mouse anti\u2010HA monoclonal antibody (clone HA.11) and autoluminograms were prepared as reported previously [Robertson et al., 2003].",
+            "prefix": "     \n            \n             ",
+            "suffix": "\n            \n            \n     "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/ScRedr8wEeqqcivKnEhdnw",
+      "incontext": "https://hyp.is/ScRedr8wEeqqcivKnEhdnw/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/ScRedr8wEeqqcivKnEhdnw"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "WzOFgr8xEeqTodsIpSUUww",
+    "created": "2020-07-06T02:35:29.039197+00:00",
+    "updated": "2020-07-08T17:36:24.285238+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayGeneralClass**: BAO:0002424 western blot\n\n**AssayMaterialUsed**: CLO:0001230 HEK293 cells\n\n**AssayDescription**: Media from cultured HEK293 cells transiently transfected with HA-tagged human COCH constructs were analyzed by western blot following non-reducing gel electrophoresis to assess steady-state levels of the protein and efficiency of post-translational proteolytic processing.\n\n**AssayReadOutDescription**: Protein band size and intensity\n\n**AssayRange**: Presence, absence, increased abundance, or decreased abundance of full length cochlin at ~60 kDa and presence/absence of smaller sized cochlin doublet representing small processed, secreted isoforms (~45 kDa and ~50 kDa)\n\n**AssayNormalRange**: Presence of full-length cochlin (~60 kDa) and smaller isoforms (~45 kDa and ~50 kDa)\n\n**AssayAbnormalRange**: Absence or decreased abundance of full-length cochlin or smaller isoforms\n\n**AssayIndeterminateRange**: Not reported\n\n**ValidationControlPathogenic**: 0\n\n**ValidationControlBenign**: 0\n\n**Replication**: Not reported\n\n**StatisticalAnalysisDescription**: Not reported\n\n**PValueThreshold**: Not reported",
+    "tags": [
+      "CGType:FunctionalAssay",
+      "FuncAssay:2",
+      "BAO:0002424",
+      "CLO:0001230",
+      "AssayRangeType:Qualitative"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 823,
+            "startOffset": 1,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[7]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[6]/h3[1]"
+          },
+          {
+            "end": 21608,
+            "type": "TextPositionSelector",
+            "start": 20048
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Expression Constructs and Transient Transfections\n            \n            Human wild\u2010type COCH  cDNA was cloned previously [Robertson et al., 2003] into a modified form of pcDNA3 that permits expression of polypeptides with three C\u2010terminal hemagglutinin (HA) tags. The c.1625G\u2009>\u2009T point mutation was introduced using QuikChange (Stratagene, La Jolla, CA). In addition to the wild\u2010type and p.C542F COCH  constructs, two previously characterized COCH  mutants (p.P51S, p.G88E) were also transfected into human embryonic kidney 293T cells as described before [Robertson et al., 2003].\n            \n            \n         \n         \n         \n            \n             Immunoprecipitation and Western Blot Analysis\n            \n            Conditioned media (300 \u00b5l) from transfected cells were incubated with anti\u2010HA (clone HA.11) bound to beads (Covance, Richmond, CA) for 2\u20134 hr at 4\u00b0C. Beads were washed 3\u20135\u00d7 in PBS, centrifuged and lysed by heating at 95\u2013100\u00b0C for 5 min in SDS\u2013PAGE buffer without \u03b2\u2010ME (for non\u2010reducing conditions). For reducing conditions, \u03b2\u2010ME was subsequently added to aliquots of both the cell lysates and immunoprecipitated proteins from the media. Proteins were separated by SDS gel electrophoresis using 10% and 4%\u201312% polyacrylamide gradient gels and transferred to Immobilon\u2010P (Millipore, Bedford, MA) membranes using a wet transfer apparatus (Invitrogen, Carlsbad, CA). Membranes were incubated with mouse anti\u2010HA monoclonal antibody (clone HA.11) and autoluminograms were prepared as reported previously [Robertson et al., 2003].",
+            "prefix": "     \n            \n             ",
+            "suffix": "\n            \n            \n     "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/WzOFgr8xEeqTodsIpSUUww",
+      "incontext": "https://hyp.is/WzOFgr8xEeqTodsIpSUUww/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/WzOFgr8xEeqTodsIpSUUww"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "z3Je3L8xEeqifu9LwYmY8Q",
+    "created": "2020-07-06T02:38:44.120251+00:00",
+    "updated": "2020-07-08T17:36:31.260288+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayGeneralClass**: BAO:0002424 western blot\n\n**AssayMaterialUsed**: CLO:0001230 HEK293 cells\n\n**AssayDescription**: Media from cultured HEK293 cells transiently transfected with HA-tagged human COCH constructs were analyzed by western blot following reducing gel electrophoresis to assess steady-state levels of the protein and disulfide bond formation.\n\n**AssayReadOutDescription**: Protein band size and intensity\n\n**AssayRange**: Presence, absence, increased abundance, or decreased abundance of full length cochlin at ~60 kDa and presence/absence of smaller sized cochlin doublet representing small processed, secreted isoforms (~45 kDa and ~50 kDa)\n\n**AssayNormalRange**: Presence of full-length cochlin (~60 kDa) and smaller isoforms (~45 kDa and ~50 kDa)\n\n**AssayAbnormalRange**: Absence or decreased abundance of full-length cochlin or smaller isoforms\n\n**AssayIndeterminateRange**: Not reported\n\n**ValidationControlPathogenic**: 0\n\n**ValidationControlBenign**: 0\n\n**Replication**: Not reported\n\n**StatisticalAnalysisDescription**: Not reported\n\n**PValueThreshold**: Not reported",
+    "tags": [
+      "CGType:FunctionalAssay",
+      "FuncAssay:4",
+      "BAO:0002424",
+      "CLO:0001230",
+      "AssayRangeType:Qualitative"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 823,
+            "startOffset": 1,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[7]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[2]/section[6]/h3[1]"
+          },
+          {
+            "end": 21608,
+            "type": "TextPositionSelector",
+            "start": 20048
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Expression Constructs and Transient Transfections\n            \n            Human wild\u2010type COCH  cDNA was cloned previously [Robertson et al., 2003] into a modified form of pcDNA3 that permits expression of polypeptides with three C\u2010terminal hemagglutinin (HA) tags. The c.1625G\u2009>\u2009T point mutation was introduced using QuikChange (Stratagene, La Jolla, CA). In addition to the wild\u2010type and p.C542F COCH  constructs, two previously characterized COCH  mutants (p.P51S, p.G88E) were also transfected into human embryonic kidney 293T cells as described before [Robertson et al., 2003].\n            \n            \n         \n         \n         \n            \n             Immunoprecipitation and Western Blot Analysis\n            \n            Conditioned media (300 \u00b5l) from transfected cells were incubated with anti\u2010HA (clone HA.11) bound to beads (Covance, Richmond, CA) for 2\u20134 hr at 4\u00b0C. Beads were washed 3\u20135\u00d7 in PBS, centrifuged and lysed by heating at 95\u2013100\u00b0C for 5 min in SDS\u2013PAGE buffer without \u03b2\u2010ME (for non\u2010reducing conditions). For reducing conditions, \u03b2\u2010ME was subsequently added to aliquots of both the cell lysates and immunoprecipitated proteins from the media. Proteins were separated by SDS gel electrophoresis using 10% and 4%\u201312% polyacrylamide gradient gels and transferred to Immobilon\u2010P (Millipore, Bedford, MA) membranes using a wet transfer apparatus (Invitrogen, Carlsbad, CA). Membranes were incubated with mouse anti\u2010HA monoclonal antibody (clone HA.11) and autoluminograms were prepared as reported previously [Robertson et al., 2003].",
+            "prefix": "     \n            \n             ",
+            "suffix": "\n            \n            \n     "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/z3Je3L8xEeqifu9LwYmY8Q",
+      "incontext": "https://hyp.is/z3Je3L8xEeqifu9LwYmY8Q/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/z3Je3L8xEeqifu9LwYmY8Q"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "WRCAcL-GEeq17vtfg9DWHg",
+    "created": "2020-07-06T12:43:52.574255+00:00",
+    "updated": "2020-07-07T20:47:33.628119+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Absence of ~60 kDa band\n\n**AssayResultAssertion**: Abnormal\n\n**ControlType**: Untagged wild type COCH (control for non-specificity in immunoprecipitation)",
+    "tags": [
+      "FuncAssay:1",
+      "AssayControl:Abnormal",
+      "CGType:FunctionalAssayResult"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 925,
+            "startOffset": 917,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]"
+          },
+          {
+            "end": 30797,
+            "type": "TextPositionSelector",
+            "start": 30789
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "untagged",
+            "prefix": "resent in the negative control (",
+            "suffix": " immunoprecipitated media) and v"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/WRCAcL-GEeq17vtfg9DWHg",
+      "incontext": "https://hyp.is/WRCAcL-GEeq17vtfg9DWHg/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/WRCAcL-GEeq17vtfg9DWHg"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "DmoVir-HEeqMviPMrvzuOw",
+    "created": "2020-07-06T12:48:56.838314+00:00",
+    "updated": "2020-07-07T20:47:38.370202+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Absence of ~60 kDa band, ~45 kDa band, and ~50 kDa band\n\n**AssayResultAssertion**: Abnormal\n\n**ControlType**: Untagged wild type COCH (control for non-specificity in immunoprecipitation)",
+    "tags": [
+      "FuncAssay:2",
+      "AssayControl:Abnormal",
+      "CGType:FunctionalAssayResult"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 925,
+            "startOffset": 917,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]"
+          },
+          {
+            "end": 30797,
+            "type": "TextPositionSelector",
+            "start": 30789
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "untagged",
+            "prefix": "resent in the negative control (",
+            "suffix": " immunoprecipitated media) and v"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/DmoVir-HEeqMviPMrvzuOw",
+      "incontext": "https://hyp.is/DmoVir-HEeqMviPMrvzuOw/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/DmoVir-HEeqMviPMrvzuOw"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "otapfL-HEeq-GAdmx27CEQ",
+    "created": "2020-07-06T12:53:05.671205+00:00",
+    "updated": "2020-07-07T20:47:45.081282+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Absence of ~60 kDa band, ~45 kDa band, and ~50 kDa band\n\n**AssayResultAssertion**: Abnormal\n\n**ControlType**: Untagged wild type COCH (control for non-specificity in immunoprecipitation)",
+    "tags": [
+      "FuncAssay:4",
+      "AssayControl:Abnormal",
+      "CGType:FunctionalAssayResult"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 925,
+            "startOffset": 917,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]"
+          },
+          {
+            "end": 30797,
+            "type": "TextPositionSelector",
+            "start": 30789
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "untagged",
+            "prefix": "resent in the negative control (",
+            "suffix": " immunoprecipitated media) and v"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/otapfL-HEeq-GAdmx27CEQ",
+      "incontext": "https://hyp.is/otapfL-HEeq-GAdmx27CEQ/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/otapfL-HEeq-GAdmx27CEQ"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "z9QpLL-HEeqfEedChwl9rA",
+    "created": "2020-07-06T12:54:21.417624+00:00",
+    "updated": "2020-07-07T21:11:47.461495+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Presence of ~60 kDa band\n\n**AssayResultAssertion**: Normal\n\n**ControlType**: Normal HA-tagged wild type COCH",
+    "tags": [
+      "FuncAssay:1",
+      "AssayControl:Normal",
+      "CGType:FunctionalAssayResult",
+      "ValidationControl:WildType"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 165,
+            "startOffset": 0,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]"
+          },
+          {
+            "end": 30037,
+            "type": "TextPositionSelector",
+            "start": 29872
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "In both cellular lysates and media from cells transfected with wild\u2010type and mutant COCH  constructs, a band representing full\u2010length cochlin (\u223c60 kDa) was detected ",
+            "prefix": " Cells\n            \n            ",
+            "suffix": "(Fig. 2D). These results suggest"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/z9QpLL-HEeqfEedChwl9rA",
+      "incontext": "https://hyp.is/z9QpLL-HEeqfEedChwl9rA/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/z9QpLL-HEeqfEedChwl9rA"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "JK-U_r-IEeqd-yeOCtID6Q",
+    "created": "2020-07-06T12:56:43.325042+00:00",
+    "updated": "2020-07-07T21:11:53.975626+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Presence of ~60 kDa band\n\n**AssayResultAssertion**: Normal\n\n**ControlType**: Normal HA-tagged wild type COCH",
+    "tags": [
+      "FuncAssay:3",
+      "AssayControl:Normal",
+      "CGType:FunctionalAssayResult",
+      "ValidationControl:WildType"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 165,
+            "startOffset": 0,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]"
+          },
+          {
+            "end": 30037,
+            "type": "TextPositionSelector",
+            "start": 29872
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "In both cellular lysates and media from cells transfected with wild\u2010type and mutant COCH  constructs, a band representing full\u2010length cochlin (\u223c60 kDa) was detected ",
+            "prefix": " Cells\n            \n            ",
+            "suffix": "(Fig. 2D). These results suggest"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/JK-U_r-IEeqd-yeOCtID6Q",
+      "incontext": "https://hyp.is/JK-U_r-IEeqd-yeOCtID6Q/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/JK-U_r-IEeqd-yeOCtID6Q"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "fKaTdL-IEeqQAMM1spBo-g",
+    "created": "2020-07-06T12:59:11.361608+00:00",
+    "updated": "2020-07-07T21:12:58.086579+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Presence of ~60 kDa band, ~45 kDa band, and ~50 kDa band\n\n**AssayResultAssertion**: Normal\n\n**ControlType**: Normal HA-tagged wild type COCH",
+    "tags": [
+      "FuncAssay:2",
+      "AssayControl:Normal",
+      "CGType:FunctionalAssayResult",
+      "ValidationControl:WildType"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 150,
+            "startOffset": 0,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]"
+          },
+          {
+            "end": 31086,
+            "type": "TextPositionSelector",
+            "start": 30936
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "In the media, a smaller sized cochlin doublet (\u223c45 and \u223c50 kDa) representing post\u2010translational proteolytic processing is apparent as noted previously",
+            "prefix": "      \n            \n            ",
+            "suffix": " [Robertson et al., 2003]. Inter"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/fKaTdL-IEeqQAMM1spBo-g",
+      "incontext": "https://hyp.is/fKaTdL-IEeqQAMM1spBo-g/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/fKaTdL-IEeqQAMM1spBo-g"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "j_xY8L-IEeq565vBQvkRsw",
+    "created": "2020-07-06T12:59:43.894882+00:00",
+    "updated": "2020-07-07T21:13:05.141257+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Presence of ~60 kDa band, ~45 kDa band, and ~50 kDa band\n\n**AssayResultAssertion**: Normal\n\n**ControlType**: Normal HA-tagged wild type COCH",
+    "tags": [
+      "FuncAssay:4",
+      "AssayControl:Normal",
+      "CGType:FunctionalAssayResult",
+      "ValidationControl:WildType"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 150,
+            "startOffset": 0,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]"
+          },
+          {
+            "end": 31086,
+            "type": "TextPositionSelector",
+            "start": 30936
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "In the media, a smaller sized cochlin doublet (\u223c45 and \u223c50 kDa) representing post\u2010translational proteolytic processing is apparent as noted previously",
+            "prefix": "      \n            \n            ",
+            "suffix": " [Robertson et al., 2003]. Inter"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/j_xY8L-IEeq565vBQvkRsw",
+      "incontext": "https://hyp.is/j_xY8L-IEeq565vBQvkRsw/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/j_xY8L-IEeq565vBQvkRsw"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "woPhjL-LEeqKqXcKbJMxWA",
+    "created": "2020-07-06T13:22:37.113971+00:00",
+    "updated": "2020-07-07T20:49:31.560758+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Expected ~60 kDa band appears larger in size (possibly due to altered migration pattern)\n\n**AssayResultAssertion**: Abnormal",
+    "tags": [
+      "FuncAssay:1",
+      "Variant:1",
+      "CAID:CA253895",
+      "CGType:FunctionalAssayResult",
+      "ClinVarID:6614"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 327,
+            "startOffset": 194,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]"
+          },
+          {
+            "end": 31884,
+            "type": "TextPositionSelector",
+            "start": 31751
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Under non\u2010reducing conditions, the p.C542F mutant cochlin migrates more slowly than the wild\u2010type, p.P51S, and p.G88E cochlin mutants",
+            "prefix": "ducing and reducing conditions. ",
+            "suffix": " (Fig. 2D). In reducing conditio"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/woPhjL-LEeqKqXcKbJMxWA",
+      "incontext": "https://hyp.is/woPhjL-LEeqKqXcKbJMxWA/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/woPhjL-LEeqKqXcKbJMxWA"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "R-AMXL-MEeqTkgMhv8Ismw",
+    "created": "2020-07-06T13:26:20.729913+00:00",
+    "updated": "2020-07-07T20:50:10.394853+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Expected ~60 kDa band present with similar intensity as wild type COCH\n\n**AssayResultAssertion**: Normal",
+    "tags": [
+      "FuncAssay:3",
+      "Variant:1",
+      "CAID:CA253895",
+      "ClinVarID:6614",
+      "CGType:FunctionalAssayResult"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 460,
+            "startOffset": 339,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]"
+          },
+          {
+            "end": 32017,
+            "type": "TextPositionSelector",
+            "start": 31896
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "In reducing conditions, the p.C542F mutant cochlin migrates at the same size as the wild\u2010type, p.P51S, and p.G88E mutants",
+            "prefix": "G88E cochlin mutants (Fig. 2D). ",
+            "suffix": " (Fig. 2D). These results indica"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/R-AMXL-MEeqTkgMhv8Ismw",
+      "incontext": "https://hyp.is/R-AMXL-MEeqTkgMhv8Ismw/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/R-AMXL-MEeqTkgMhv8Ismw"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "DHGspr-NEeqnuw929aDQtQ",
+    "created": "2020-07-06T13:31:50.531057+00:00",
+    "updated": "2020-07-07T20:49:44.632853+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Expected ~60 kDa band and expected ~50 kDa band both appear larger in size (possibly due to altered migration pattern), while ~45 kDa band is not visible. ~50 kDa band also appears decreased in abundance compared to wild type COCH.\n\n**AssayResultAssertion**: Abnormal",
+    "tags": [
+      "FuncAssay:2",
+      "Variant:1",
+      "CAID:CA253895",
+      "ClinVarID:6614",
+      "CGType:FunctionalAssayResult"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 327,
+            "startOffset": 194,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]"
+          },
+          {
+            "end": 31884,
+            "type": "TextPositionSelector",
+            "start": 31751
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Under non\u2010reducing conditions, the p.C542F mutant cochlin migrates more slowly than the wild\u2010type, p.P51S, and p.G88E cochlin mutants",
+            "prefix": "ducing and reducing conditions. ",
+            "suffix": " (Fig. 2D). In reducing conditio"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/DHGspr-NEeqnuw929aDQtQ",
+      "incontext": "https://hyp.is/DHGspr-NEeqnuw929aDQtQ/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/DHGspr-NEeqnuw929aDQtQ"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "7JclQL-NEeqrZbdxBWxBsQ",
+    "created": "2020-07-06T13:38:06.629877+00:00",
+    "updated": "2020-07-07T20:49:13.557555+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Expected ~60 kDa band, ~50 kDa band, and ~45 kDa band are all present, however the ~50 kDa band and ~45 kDa band both appear decreased in abundance compared to wild type COCH.\n\n**AssayResultAssertion**: Abnormal",
+    "tags": [
+      "FuncAssay:4",
+      "Variant:1",
+      "CAID:CA253895",
+      "ClinVarID:6614",
+      "CGType:FunctionalAssayResult"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 352,
+            "startOffset": 177,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]"
+          },
+          {
+            "end": 31288,
+            "type": "TextPositionSelector",
+            "start": 31113
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Interestingly, there appears to be a relatively lower amount of the smaller secreted cochlin isoforms in the p.C542F mutant than in the wild\u2010type and p.P51S and p.G88E mutants",
+            "prefix": "ously [Robertson et al., 2003]. ",
+            "suffix": ". It is possible that these isof"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/7JclQL-NEeqrZbdxBWxBsQ",
+      "incontext": "https://hyp.is/7JclQL-NEeqrZbdxBWxBsQ/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/7JclQL-NEeqrZbdxBWxBsQ"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "IQCMnL-REeqRNSPgRPA2Fw",
+    "created": "2020-07-06T14:01:02.471093+00:00",
+    "updated": "2020-07-08T17:39:06.550625+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Presence of ~60 kDa band\n\n**AssayResultAssertion**: Normal\n\n**ControlType**: Normal, previous publication determined this variant is secreted and processed like wild type cochlin protein (PMID: 12843317)",
+    "tags": [
+      "FuncAssay:1",
+      "Variant:2",
+      "CAID:CA253889",
+      "CGType:FunctionalAssayResult",
+      "ClinVarID:6611",
+      "AssayControl:Normal"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 165,
+            "startOffset": 0,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]"
+          },
+          {
+            "end": 30037,
+            "type": "TextPositionSelector",
+            "start": 29872
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "In both cellular lysates and media from cells transfected with wild\u2010type and mutant COCH  constructs, a band representing full\u2010length cochlin (\u223c60 kDa) was detected ",
+            "prefix": " Cells\n            \n            ",
+            "suffix": "(Fig. 2D). These results suggest"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/IQCMnL-REeqRNSPgRPA2Fw",
+      "incontext": "https://hyp.is/IQCMnL-REeqRNSPgRPA2Fw/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/IQCMnL-REeqRNSPgRPA2Fw"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "U2JmVr-REeqyYluTQUAY6w",
+    "created": "2020-07-06T14:02:27.393638+00:00",
+    "updated": "2020-07-08T17:40:09.692554+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Presence of ~60 kDa band\n\n**AssayResultAssertion**: Normal\n\n**ControlType**:Normal, previous publication determined this variant is secreted and processed like wild type cochlin protein (PMID: 12843317)",
+    "tags": [
+      "FuncAssay:1",
+      "Variant:3",
+      "CAID:CA253885",
+      "CGType:FunctionalAssayResult",
+      "ClinVarID:6609",
+      "AssayControl:Normal"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 165,
+            "startOffset": 0,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[1]"
+          },
+          {
+            "end": 30037,
+            "type": "TextPositionSelector",
+            "start": 29872
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "In both cellular lysates and media from cells transfected with wild\u2010type and mutant COCH  constructs, a band representing full\u2010length cochlin (\u223c60 kDa) was detected ",
+            "prefix": " Cells\n            \n            ",
+            "suffix": "(Fig. 2D). These results suggest"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/U2JmVr-REeqyYluTQUAY6w",
+      "incontext": "https://hyp.is/U2JmVr-REeqyYluTQUAY6w/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/U2JmVr-REeqyYluTQUAY6w"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "mMIVAr-REeqneo_5lG_eFg",
+    "created": "2020-07-06T14:04:23.996080+00:00",
+    "updated": "2020-07-08T17:40:51.564736+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Presence of ~60 kDa band, ~45 kDa band, and ~50 kDa band\n\n**AssayResultAssertion**: Normal\n\n**ControlType**:Normal, previous publication determined this variant is secreted and processed like wild type cochlin protein (PMID: 12843317)",
+    "tags": [
+      "FuncAssay:2",
+      "Variant:2",
+      "CAID:CA253889",
+      "CGType:FunctionalAssayResult",
+      "ClinVarID:6611",
+      "AssayControl:Normal"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 150,
+            "startOffset": 0,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]"
+          },
+          {
+            "end": 31086,
+            "type": "TextPositionSelector",
+            "start": 30936
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "In the media, a smaller sized cochlin doublet (\u223c45 and \u223c50 kDa) representing post\u2010translational proteolytic processing is apparent as noted previously",
+            "prefix": "      \n            \n            ",
+            "suffix": " [Robertson et al., 2003]. Inter"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/mMIVAr-REeqneo_5lG_eFg",
+      "incontext": "https://hyp.is/mMIVAr-REeqneo_5lG_eFg/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/mMIVAr-REeqneo_5lG_eFg"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "2g1hdL-REeqGLQs5cg7q9Q",
+    "created": "2020-07-06T14:06:13.346516+00:00",
+    "updated": "2020-07-08T17:41:09.810781+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Presence of ~60 kDa band, ~45 kDa band, and ~50 kDa band\n\n**AssayResultAssertion**: Normal\n\n**ControlType**:Normal, previous publication determined this variant is secreted and processed like wild type cochlin protein (PMID: 12843317)",
+    "tags": [
+      "FuncAssay:2",
+      "Variant:3",
+      "CAID:CA253885",
+      "CGType:FunctionalAssayResult",
+      "ClinVarID:6609",
+      "AssayControl:Normal"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 150,
+            "startOffset": 0,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]"
+          },
+          {
+            "end": 31086,
+            "type": "TextPositionSelector",
+            "start": 30936
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "In the media, a smaller sized cochlin doublet (\u223c45 and \u223c50 kDa) representing post\u2010translational proteolytic processing is apparent as noted previously",
+            "prefix": "      \n            \n            ",
+            "suffix": " [Robertson et al., 2003]. Inter"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/2g1hdL-REeqGLQs5cg7q9Q",
+      "incontext": "https://hyp.is/2g1hdL-REeqGLQs5cg7q9Q/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/2g1hdL-REeqGLQs5cg7q9Q"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "Hr040L-SEeqgNj9YHJR1tA",
+    "created": "2020-07-06T14:08:08.459745+00:00",
+    "updated": "2020-07-08T17:42:09.775030+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Expected ~60 kDa band present with similar intensity as wild type COCH\n\n**AssayResultAssertion**: Normal\n\n**ControlType**:Normal, previous publication determined this variant is secreted and processed like wild type cochlin protein (PMID: 12843317)",
+    "tags": [
+      "FuncAssay:3",
+      "Variant:2",
+      "CAID:CA253889",
+      "ClinVarID:6611",
+      "CGType:FunctionalAssayResult",
+      "AssayControl:Normal"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 460,
+            "startOffset": 338,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]"
+          },
+          {
+            "end": 32017,
+            "type": "TextPositionSelector",
+            "start": 31895
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": " In reducing conditions, the p.C542F mutant cochlin migrates at the same size as the wild\u2010type, p.P51S, and p.G88E mutants",
+            "prefix": ".G88E cochlin mutants (Fig. 2D).",
+            "suffix": " (Fig. 2D). These results indica"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/Hr040L-SEeqgNj9YHJR1tA",
+      "incontext": "https://hyp.is/Hr040L-SEeqgNj9YHJR1tA/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/Hr040L-SEeqgNj9YHJR1tA"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "NVmcPL-SEeqq8XvWWfwlXA",
+    "created": "2020-07-06T14:08:46.774801+00:00",
+    "updated": "2020-07-08T17:42:20.277401+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Expected ~60 kDa band present with similar intensity as wild type COCH\n\n**AssayResultAssertion**: Normal\n\n**ControlType**:Normal, previous publication determined this variant is secreted and processed like wild type cochlin protein (PMID: 12843317)",
+    "tags": [
+      "FuncAssay:3",
+      "Variant:3",
+      "CAID:CA253885",
+      "ClinVarID:6609",
+      "CGType:FunctionalAssayResult",
+      "AssayControl:Normal"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 460,
+            "startOffset": 339,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[3]"
+          },
+          {
+            "end": 32017,
+            "type": "TextPositionSelector",
+            "start": 31896
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "In reducing conditions, the p.C542F mutant cochlin migrates at the same size as the wild\u2010type, p.P51S, and p.G88E mutants",
+            "prefix": "G88E cochlin mutants (Fig. 2D). ",
+            "suffix": " (Fig. 2D). These results indica"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/NVmcPL-SEeqq8XvWWfwlXA",
+      "incontext": "https://hyp.is/NVmcPL-SEeqq8XvWWfwlXA/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/NVmcPL-SEeqq8XvWWfwlXA"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "gdJmIL-SEeqD-Wukfh72uw",
+    "created": "2020-07-06T14:10:54.959582+00:00",
+    "updated": "2020-07-08T17:41:23.776923+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Presence of ~60 kDa band, ~45 kDa band, and ~50 kDa band\n\n**AssayResultAssertion**: Normal\n\n**ControlType**:Normal, previous publication determined this variant is secreted and processed like wild type cochlin protein (PMID: 12843317)",
+    "tags": [
+      "FuncAssay:4",
+      "Variant:2",
+      "CAID:CA253889",
+      "ClinVarID:6611",
+      "CGType:FunctionalAssayResult",
+      "AssayControl:Normal"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 150,
+            "startOffset": 0,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]"
+          },
+          {
+            "end": 31086,
+            "type": "TextPositionSelector",
+            "start": 30936
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "In the media, a smaller sized cochlin doublet (\u223c45 and \u223c50 kDa) representing post\u2010translational proteolytic processing is apparent as noted previously",
+            "prefix": "      \n            \n            ",
+            "suffix": " [Robertson et al., 2003]. Inter"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/gdJmIL-SEeqD-Wukfh72uw",
+      "incontext": "https://hyp.is/gdJmIL-SEeqD-Wukfh72uw/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/gdJmIL-SEeqD-Wukfh72uw"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "mY5wur-SEeqXP6-vPqYatA",
+    "created": "2020-07-06T14:11:34.827591+00:00",
+    "updated": "2020-07-08T17:41:47.323563+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+    "text": "**AssayResult**: Presence of ~60 kDa band, ~45 kDa band, and ~50 kDa band\n\n**AssayResultAssertion**: Normal\n\n**ControlType**:Normal, previous publication determined this variant is secreted and processed like wild type cochlin protein (PMID: 12843317)",
+    "tags": [
+      "FuncAssay:4",
+      "Variant:3",
+      "CAID:CA253885",
+      "ClinVarID:6609",
+      "CGType:FunctionalAssayResult",
+      "AssayControl:Normal"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 150,
+            "startOffset": 0,
+            "endContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]",
+            "startContainer": "/div[2]/div[1]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[5]/article[1]/section[1]/section[3]/section[4]/p[2]"
+          },
+          {
+            "end": 31086,
+            "type": "TextPositionSelector",
+            "start": 30936
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "In the media, a smaller sized cochlin doublet (\u223c45 and \u223c50 kDa) representing post\u2010translational proteolytic processing is apparent as noted previously",
+            "prefix": "      \n            \n            ",
+            "suffix": " [Robertson et al., 2003]. Inter"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "A novel DFNA9 mutation in the vWFA2 domain of COCH alters a conserved cysteine residue and intrachain disulfide bond formation resulting in progressive hearing loss and site\u2010specific vestibular and central oculomotor dysfunction"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/mY5wur-SEeqXP6-vPqYatA",
+      "incontext": "https://hyp.is/mY5wur-SEeqXP6-vPqYatA/onlinelibrary-wiley-com.libproxy.lib.unc.edu/doi/full/10.1002/ajmg.a.30980",
+      "json": "https://hypothes.is/api/annotations/mY5wur-SEeqXP6-vPqYatA"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  }
+]

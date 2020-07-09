@@ -1,0 +1,960 @@
+- created: '2020-06-18T13:41:34.624176+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: bZ3qsrFpEequ9NeiG_5YLQ
+  links:
+    html: https://hypothes.is/a/bZ3qsrFpEequ9NeiG_5YLQ
+    incontext: https://hyp.is/bZ3qsrFpEequ9NeiG_5YLQ/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/bZ3qsrFpEequ9NeiG_5YLQ
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - 'PMID: 31757951'
+  - 'PMCID: PMC6876638'
+  - CGType:Manuscript
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[1]/header[1]/ul[2]/li[1]/span[1]/a[1]
+      endOffset: 0
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[1]/header[1]/h1[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 7208
+      start: 7083
+      type: TextPositionSelector
+    - exact: "Functional analysis of genetic variants in the high-risk breast cancer\
+        \ susceptibility gene PALB2\n                            "
+      prefix: "   \n                            "
+      suffix: "Rick A. C. M. Boonen1, Am\xE9lie Ro"
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: ''
+  updated: '2020-06-18T13:41:34.624176+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-06-18T13:46:07.837339+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: EDgQ6rFqEeqayOPYdLlORA
+  links:
+    html: https://hypothes.is/a/EDgQ6rFqEeqayOPYdLlORA
+    incontext: https://hyp.is/EDgQ6rFqEeqayOPYdLlORA/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/EDgQ6rFqEeqayOPYdLlORA
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - Gene:PALB2
+  - HGNC:26144
+  - MONDO:0016419
+  - ModeOfInheritance:HP:0000006
+  - CGType:GeneticCondition
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[1]/div[1]/div[1]/p[1]
+      endOffset: 158
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[1]/div[1]/div[1]/p[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 8827
+      start: 8669
+      type: TextPositionSelector
+    - exact: Heterozygous carriers of germ-line loss-of-function variants in the DNA
+        repair gene PALB2 are at a highly increased lifetime risk for developing breast
+        cancer
+      prefix: '                        Abstract'
+      suffix: . While truncating variants in P
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: '**Gene**: *PALB2*
+
+
+    **Disease**: Hereditary breast carcinoma
+
+
+    **MONDO**: MONDO:0016419'
+  updated: '2020-07-01T12:25:20.042221+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-06-18T13:58:49.124016+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 1gJHXrFrEequ_XMOkI21Zg
+  links:
+    html: https://hypothes.is/a/1gJHXrFrEequ_XMOkI21Zg
+    incontext: https://hyp.is/1gJHXrFrEequ_XMOkI21Zg/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/1gJHXrFrEequ_XMOkI21Zg
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - FuncAssay:1
+  - BAO:0003061
+  - CLO:0037317
+  - MONDO:0016419
+  - HGNC:26144
+  - AssayRangeType:Quantitative
+  - AssayUnits:UO:0000187
+  - CGType:FunctionalAssay
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[1]
+      endOffset: 0
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/h3[1]
+      startOffset: 0
+      type: RangeSelector
+    - end: 14627
+      start: 14579
+      type: TextPositionSelector
+    - exact: A cell-based functional assay for PALB2 variants
+      prefix: dicting therapy response.Results
+      suffix: For the analysis of PALB2 varian
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: "**AssayGeneralClass**: BAO:0003061\n\n**AssayMaterialUsed**: CLO:0037317\n\
+    \n**AssayDescription**: Stable expression of wild type and variant *PALB2* cDNA\
+    \ constructs in *Trp53* and *Palb2*-null mouse cell line containing DR-GFP reporter;\
+    \ I-SceI endonuclease introduces a double-stranded break in the reporter construct\
+    \ and efficient repair results in GFP expression, which is detected by flow cytometry\n\
+    \n**AssayReadOutDescription**: Relative homologous recombination (HR) efficiency\
+    \ represented as mean percentages of GFP-positive cells among the mCherry-positive\
+    \ cells relative to wild type, which was set to 100% \n\n**AssayRange**: 0-100+%\n\
+    \n**AssayNormalRange**: HR levels comparable to that of cells expressing wild\
+    \ type *PALB2*; no numeric threshold given \n\n**AssayAbnormalRange**: HR levels\
+    \ \u226410% of wild type\n\n**AssayIndeterminateRange**: Not indicated \n\n**AssayNormalControl**:\
+    \ Wild type *PALB2* cDNA\n\n**AssayAbnormalControl**: Empty vector\n\n**ValidationControlPathogenic**:\
+    \ 12\n\n**ValidationControlBenign**: 9\n\n**Replication**: 2 independent experiments\n\
+    \n**StatisticalAnalysisDescription**:  ND"
+  updated: '2020-07-01T12:26:17.386922+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-06-18T14:39:19.213698+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: fpgJlLFxEeqlbedelUnsAA
+  links:
+    html: https://hypothes.is/a/fpgJlLFxEeqlbedelUnsAA
+    incontext: https://hyp.is/fpgJlLFxEeqlbedelUnsAA/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/fpgJlLFxEeqlbedelUnsAA
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - FuncAssay:2
+  - BAO:0002805
+  - CLO:0037317
+  - MONDO:0016419
+  - HGNC:26144
+  - AssayRangeType:Quantitative
+  - AssayUnits:UO:0000187
+  - CGType:FunctionalAssay
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[6]
+      endOffset: 192
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[6]
+      startOffset: 125
+      type: RangeSelector
+    - end: 23221
+      start: 23154
+      type: TextPositionSelector
+    - exact: "sensitivity to PARPi\_treatment using a cellular proliferation assay"
+      prefix: 'uncating PALB2 variants display '
+      suffix: . As expected, we found that Trp
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: "**AssayGeneralClass**: BAO:0002805\n\n**AssayMaterialUsed**: CLO:0037317\n\
+    \n**AssayDescription**: Stable  expression of wild type and variant *PALB2* cDNA\
+    \ constructs in *Trp53* and *Palb2*-null mouse cell line containing DR-GFP reporter;\
+    \ exposure to PARP inhibitor Olaparib for 48 h inhibits end-joining mediated by\
+    \ PARP and sensitizes cells to DNA damage; cell survival is measured by FACS 24\
+    \ h after Olaparib washout\n\n**AssayReadOutDescription**: Relative resistance\
+    \ to PARPi represented as cell survival relative to wild type, which was set to\
+    \ 100%\n\n**AssayRange**: 0-100+%\n\n**AssayNormalRange**: PARPi resistance levels\
+    \ comparable to that of cells expressing wild type *PALB2*; no numeric threshold\
+    \ given\n\n**AssayAbnormalRange**: PARPi resistance levels \u226430% of wild type\n\
+    \n**AssayIndeterminateRange**: Not indicated\n\n**AssayNormalControl**: Wild type\
+    \ *PALB2* cDNA\n\n**AssayAbnormalControl**: Empty vector\n\n**ValidationControlPathogenic**:\
+    \ 12\n\n**ValidationControlBenign**: 9\n\n**Replication**: 2 independent experiments\n\
+    \n**StatisticalAnalysisDescription**: ND"
+  updated: '2020-07-01T12:27:12.774656+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-06-18T14:56:03.576254+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 1SO5WrFzEeq8i28lo3fN5w
+  links:
+    html: https://hypothes.is/a/1SO5WrFzEeq8i28lo3fN5w
+    incontext: https://hyp.is/1SO5WrFzEeq8i28lo3fN5w/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/1SO5WrFzEeq8i28lo3fN5w
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - FuncAssay:3
+  - BAO:0002805
+  - CLO:0037317
+  - MONDO:0016419
+  - HGNC:26144
+  - AssayRangeType:Quantitative
+  - AssayUnits:UO:0000187
+  - CGType:FunctionalAssay
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[9]
+      endOffset: 332
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[9]
+      startOffset: 247
+      type: RangeSelector
+    - end: 29102
+      start: 29017
+      type: TextPositionSelector
+    - exact: analyzed several PALB2 variants in their response to the ICL-inducing
+        agent cisplatin
+      prefix: ' their repair32. We, therefore, '
+      suffix: . As expected, two truncating va
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: "**AssayGeneralClass**: BAO:0002805\n\n**AssayMaterialUsed**: CLO:0037317\n\
+    \n**AssayDescription**: Stable expression of wild type and variant *PALB2* cDNA\
+    \ constructs in *Trp53* and *Palb2*-null mouse cell line containing DR-GFP reporter;\
+    \ exposure to cisplatin for 48 h induces interstrand-crosslink DNA damage; cell\
+    \ survival is measured by FACS 24 h after cisplatin washout \n\n**AssayReadOutDescription**:\
+    \ Relative resistance to cisplatin represented as cell survival relative to wild\
+    \ type, which was set to 100%\n\n**AssayRange**: 0-100+%\n\n**AssayNormalRange**:\
+    \ Cisplatin resistance levels comparable to that of cells expressing wild type\
+    \ *PALB2*; no numeric threshold given\n\n**AssayAbnormalRange**: Cisplatin resistance\
+    \ levels comparable to that of cells expressing empty vector; no numeric threshold\
+    \ given\n\n**AssayIndeterminateRange**: Not indicated\n\n**AssayNormalControl**:\
+    \ Wild type *PALB2* cDNA\n\n**AssayAbnormalControl**: Empty vector\n\n**ValidationControlPathogenic**:\
+    \ 12\n\n**ValidationControlBenign**: 9\n\n**Replication**: 2 independent experiments\n\
+    \n**StatisticalAnalysisDescription**: ND"
+  updated: '2020-07-01T12:28:02.952611+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-06-18T15:05:00.331566+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: FQkftLF1EeqfsFN_kTyCvQ
+  links:
+    html: https://hypothes.is/a/FQkftLF1EeqfsFN_kTyCvQ
+    incontext: https://hyp.is/FQkftLF1EeqfsFN_kTyCvQ/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/FQkftLF1EeqfsFN_kTyCvQ
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - FuncAssay:4
+  - BAO:0000450
+  - CLO:0003684
+  - MONDO:0016419
+  - HGNC:26144
+  - AssayRangeType:Quantitative
+  - AssayUnits:?
+  - CGType:FunctionalAssay
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[19]
+      endOffset: 255
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[19]
+      startOffset: 221
+      type: RangeSelector
+    - end: 48183
+      start: 48149
+      type: TextPositionSelector
+    - exact: measuring the formation RAD51 foci
+      prefix: ' of RAD51 at IR-induced DSBs by '
+      suffix: . HeLa cells were treated with s
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: '**AssayGeneralClass**: BAO:0000450
+
+
+    **AssayMaterialUsed**: CLO:0003684
+
+
+    **AssayDescription**: Transient expression of wild type and variant *PALB2* cDNA
+    constructs in HeLa cells following PALB2 siRNA knockdown; exposure ionizing radiation
+    induces DNA damage; RAD51 foci formation is measured by immunofluorescence microscopy
+    4 h after irradiation
+
+
+    **AssayReadOutDescription**: Number of RAD51 foci per S-phase cell (determined
+    by cyclin A detection)
+
+
+    **AssayRange**: 0-80 foci/cell
+
+
+    **AssayNormalRange**: RAD51 foci numbers comparable to that of cells expressing
+    wild type *PALB2* (average ~25 foci/cell); no numeric threshold given
+
+
+    **AssayAbnormalRange**: RAD51 foci numbers comparable to that of cells expressing
+    empty vector (average ~1 foci/cell); no numeric threshold given
+
+
+    **AssayIndeterminateRange**: Not indicated
+
+
+    **AssayNormalControl**: Wild type *PALB2* cDNA
+
+
+    **AssayAbnormalControl**: Empty vector
+
+
+    **ValidationControlPathogenic**: 0
+
+
+    **ValidationControlBenign**: 0
+
+
+    **Replication**: 3 independent experiments
+
+
+    **StatisticalAnalysisDescription**: ND'
+  updated: '2020-07-01T12:28:49.844155+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-06-18T16:25:29.607218+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: U5pemrGAEeqvIcsE-mLpmw
+  links:
+    html: https://hypothes.is/a/U5pemrGAEeqvIcsE-mLpmw
+    incontext: https://hyp.is/U5pemrGAEeqvIcsE-mLpmw/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/U5pemrGAEeqvIcsE-mLpmw
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - 'CAID: CA395121845'
+  - Variant:1
+  - CGType:Variant
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[7]
+      endOffset: 684
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[7]
+      startOffset: 677
+      type: RangeSelector
+    - end: 26728
+      start: 26721
+      type: TextPositionSelector
+    - exact: p.W912G
+      prefix: 's in DR-GFP assays for p.L35P-, '
+      suffix: -, p.I944N-, p.L961P-, p.G1043D-
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: 'HGVS: NM_024675.3:c.2734T>G <br>'
+  updated: '2020-06-18T16:25:29.607218+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-06-18T16:27:57.893887+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: q95P5LGAEeqgTs8t6a9IDg
+  links:
+    html: https://hypothes.is/a/q95P5LGAEeqgTs8t6a9IDg
+    incontext: https://hyp.is/q95P5LGAEeqgTs8t6a9IDg/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/q95P5LGAEeqgTs8t6a9IDg
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - Variant:2
+  - CGType:Variant
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[7]
+      endOffset: 704
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[7]
+      startOffset: 697
+      type: RangeSelector
+    - end: 26748
+      start: 26741
+      type: TextPositionSelector
+    - exact: p.L961P
+      prefix: 'or p.L35P-, p.W912G-, p.I944N-, '
+      suffix: '-, p.G1043D-PALB2, exhibiting a '
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: 'HGVS: NM_024675.3:c.2882T>C'
+  updated: '2020-06-18T16:43:04.932009+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-06-18T16:30:06.155155+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: -NnU5LGAEeq-98_lpYIgxw
+  links:
+    html: https://hypothes.is/a/-NnU5LGAEeq-98_lpYIgxw
+    incontext: https://hyp.is/-NnU5LGAEeq-98_lpYIgxw/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/-NnU5LGAEeq-98_lpYIgxw
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - CAID:CA279530867
+  - Variant:3
+  - CGType:Variant
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[7]
+      endOffset: 715
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[7]
+      startOffset: 707
+      type: RangeSelector
+    - end: 26759
+      start: 26751
+      type: TextPositionSelector
+    - exact: p.G1043D
+      prefix: ', p.W912G-, p.I944N-, p.L961P-, '
+      suffix: "-PALB2, exhibiting a ~90\u201395% red"
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: 'HGVS: NM_024675.3:c.3128G>A'
+  updated: '2020-06-18T16:30:06.155155+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-06-18T16:31:40.076864+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: MFjbhrGBEeqTy7sQPy219Q
+  links:
+    html: https://hypothes.is/a/MFjbhrGBEeqTy7sQPy219Q
+    incontext: https://hyp.is/MFjbhrGBEeqTy7sQPy219Q/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/MFjbhrGBEeqTy7sQPy219Q
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - CAID:CA395144928
+  - Variant:4
+  - CGType:Variant
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[7]
+      endOffset: 945
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[7]
+      startOffset: 938
+      type: RangeSelector
+    - end: 26989
+      start: 26982
+      type: TextPositionSelector
+    - exact: p.G937R
+      prefix: 'eral other VUS (p.L24S, p.Y28C, '
+      suffix: ', p.L947S, p.L972Q, p.T1030I, p.'
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: 'HGVS: NM_024675.3:c.2809G>A'
+  updated: '2020-06-18T16:31:40.076864+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-06-18T16:33:10.125785+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: Zf_ZVrGBEeqi2FMLro2zCA
+  links:
+    html: https://hypothes.is/a/Zf_ZVrGBEeqi2FMLro2zCA
+    incontext: https://hyp.is/Zf_ZVrGBEeqi2FMLro2zCA/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/Zf_ZVrGBEeqi2FMLro2zCA
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - CAID:CA7963465
+  - Variant:5
+  - CGType:Variant
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[7]
+      endOffset: 954
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[7]
+      startOffset: 947
+      type: RangeSelector
+    - end: 26998
+      start: 26991
+      type: TextPositionSelector
+    - exact: p.L947S
+      prefix: 'r VUS (p.L24S, p.Y28C, p.G937R, '
+      suffix: ', p.L972Q, p.T1030I, p.I1037T, p'
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: 'HGVS: NM_024675.3:c.2840T>C'
+  updated: '2020-06-18T16:33:10.125785+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-06-18T16:38:21.425376+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: H6NPbrGCEeqodJ8Xh22Dgw
+  links:
+    html: https://hypothes.is/a/H6NPbrGCEeqodJ8Xh22Dgw
+    incontext: https://hyp.is/H6NPbrGCEeqodJ8Xh22Dgw/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/H6NPbrGCEeqodJ8Xh22Dgw
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - FuncAssay:4
+  - Variant:1
+  - 'CAID: CA395121845'
+  - CGType:FunctionalAssayResult
+  - ExtrapolatedResult
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[19]
+      endOffset: 659
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[19]
+      startOffset: 546
+      type: RangeSelector
+    - end: 48587
+      start: 48474
+      type: TextPositionSelector
+    - exact: While 3 VUS (p.W912G, p.L961P, and p.G1043D) had a dramatic impact on
+        the percentage of cells showing RAD51 foci,
+      prefix: "ing S-phase cells (Fig.\_7c, d). "
+      suffix: ' 2 VUS (p.G937R and p.L947S) dis'
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: '**AssayResult**: ~1 foci/cell
+
+
+    **AssayResultIntervalLower**: ~0
+
+
+    **AssayResultIntervalUpper**: ~21
+
+
+    **AssayResultAssertion**: Abnormal'
+  updated: '2020-07-01T12:29:14.226863+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-06-18T16:41:23.433089+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: i9FH4LGCEeqlW4eYXm8QZg
+  links:
+    html: https://hypothes.is/a/i9FH4LGCEeqlW4eYXm8QZg
+    incontext: https://hyp.is/i9FH4LGCEeqlW4eYXm8QZg/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/i9FH4LGCEeqlW4eYXm8QZg
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - FuncAssay:4
+  - Variant:2
+  - CAID:CA195974
+  - CGType:FunctionalAssayResult
+  - ExtrapolatedResult
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[19]
+      endOffset: 659
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[19]
+      startOffset: 546
+      type: RangeSelector
+    - end: 48587
+      start: 48474
+      type: TextPositionSelector
+    - exact: While 3 VUS (p.W912G, p.L961P, and p.G1043D) had a dramatic impact on
+        the percentage of cells showing RAD51 foci,
+      prefix: "ing S-phase cells (Fig.\_7c, d). "
+      suffix: ' 2 VUS (p.G937R and p.L947S) dis'
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: '**AssayResult**: ~4 foci/cell
+
+
+    **AssayResultIntervalLower**: ~0
+
+
+    **AssayResultIntervalUpper**: ~30
+
+
+    **AssayResultAssertion**: abnormal'
+  updated: '2020-07-01T12:29:34.436562+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-06-18T16:42:14.652076+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: qmp7crGCEeqR7Q9ZW4eeJg
+  links:
+    html: https://hypothes.is/a/qmp7crGCEeqR7Q9ZW4eeJg
+    incontext: https://hyp.is/qmp7crGCEeqR7Q9ZW4eeJg/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/qmp7crGCEeqR7Q9ZW4eeJg
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - FuncAssay:4
+  - Variant:3
+  - CAID:CA279530867
+  - CGType:FunctionalAssayResult
+  - ExtrapolatedResult
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[19]
+      endOffset: 659
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[19]
+      startOffset: 546
+      type: RangeSelector
+    - end: 48587
+      start: 48474
+      type: TextPositionSelector
+    - exact: While 3 VUS (p.W912G, p.L961P, and p.G1043D) had a dramatic impact on
+        the percentage of cells showing RAD51 foci,
+      prefix: "ing S-phase cells (Fig.\_7c, d). "
+      suffix: ' 2 VUS (p.G937R and p.L947S) dis'
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: "**AssayResult**: ~16 foci/cell \n\n**AssayResultIntervalLower**: ~0\n\n**AssayResultIntervalUpper**:\
+    \ ~70 \n\n**AssayResultAssertion**: Abnormal "
+  updated: '2020-07-01T12:29:47.966397+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-06-18T16:46:41.733423+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: SdLzTLGDEeqnMi-qpK-6Zw
+  links:
+    html: https://hypothes.is/a/SdLzTLGDEeqnMi-qpK-6Zw
+    incontext: https://hyp.is/SdLzTLGDEeqnMi-qpK-6Zw/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/SdLzTLGDEeqnMi-qpK-6Zw
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - FuncAssay:4
+  - Variant:4
+  - CAID:CA395144928
+  - CGType:FunctionalAssayResult
+  - ExtrapolatedResult
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[19]
+      endOffset: 717
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[19]
+      startOffset: 660
+      type: RangeSelector
+    - end: 48645
+      start: 48588
+      type: TextPositionSelector
+    - exact: 2 VUS (p.G937R and p.L947S) displayed a more minor effect
+      prefix: 'ge of cells showing RAD51 foci, '
+      suffix: . However, for these 2 VUS, we f
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: "**AssayResult**: ~17 foci/cell \n\n**AssayResultIntervalLower**: ~0\n\n**AssayResultIntervalUpper**:\
+    \ ~75\n\n**AssayResultAssertion**: Indeterminate (described as \"minor\" "
+  updated: '2020-07-01T12:30:01.860451+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-06-18T16:48:03.612913+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: eoXR7rGDEeqUiM9pvcyFZw
+  links:
+    html: https://hypothes.is/a/eoXR7rGDEeqUiM9pvcyFZw
+    incontext: https://hyp.is/eoXR7rGDEeqUiM9pvcyFZw/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/eoXR7rGDEeqUiM9pvcyFZw
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - FuncAssay:4
+  - Variant:5
+  - CAID:CA7963465
+  - CGType:FunctionalAssayResult
+  - ExtrapolatedResult
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[19]
+      endOffset: 717
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[19]
+      startOffset: 660
+      type: RangeSelector
+    - end: 48645
+      start: 48588
+      type: TextPositionSelector
+    - exact: 2 VUS (p.G937R and p.L947S) displayed a more minor effect
+      prefix: 'ge of cells showing RAD51 foci, '
+      suffix: . However, for these 2 VUS, we f
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: "**AssayResult**: ~20 foci/cell \n\n**AssayResultIntervalLower**: ~0 \n\n\
+    **AssayResultIntervalUpper**: ~70 \n\n**AssayResultAssertion**: Indeterminate\
+    \ (described as \"minor\""
+  updated: '2020-07-01T12:30:15.208647+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
+- created: '2020-06-18T16:51:20.587150+00:00'
+  document:
+    title:
+    - Functional analysis of genetic variants in the high-risk breast cancer susceptibility
+      gene PALB2
+  flagged: false
+  group: DRL6xW1v
+  hidden: false
+  id: 7-8jQLGDEeqVsL9K6GG8uQ
+  links:
+    html: https://hypothes.is/a/7-8jQLGDEeqVsL9K6GG8uQ
+    incontext: https://hyp.is/7-8jQLGDEeqVsL9K6GG8uQ/www.nature.com/articles/s41467-019-13194-2
+    json: https://hypothes.is/api/annotations/7-8jQLGDEeqVsL9K6GG8uQ
+  permissions:
+    admin:
+    - acct:shannon_mcnulty@hypothes.is
+    delete:
+    - acct:shannon_mcnulty@hypothes.is
+    read:
+    - group:DRL6xW1v
+    update:
+    - acct:shannon_mcnulty@hypothes.is
+  tags:
+  - FuncAssay:4
+  - CGType:FunctionalAssayResult
+  - ValidationControl:WildType
+  - ExtrapolatedResult
+  target:
+  - selector:
+    - endContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[19]
+      endOffset: 531
+      startContainer: /div[6]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/p[19]
+      startOffset: 440
+      type: RangeSelector
+    - end: 48554
+      start: 48463
+      type: TextPositionSelector
+    - exact: average number of RAD51 foci was scored in cyclin-A- and YFP-PALB2-expressing
+        S-phase cells
+      prefix: '. Following exposure to IR, the '
+      suffix: " (Fig.\_7c, d). While 3 VUS (p.W9"
+      type: TextQuoteSelector
+    source: https://www.nature.com/articles/s41467-019-13194-2
+  text: '**AssayResult**: ~25 foci/cell
+
+
+    **AssayResultIntervalLower**: ~0
+
+
+    **AssayResultIntervalUpper**: ~65
+
+
+    **AssayResultAssertion**: Normal'
+  updated: '2020-07-01T12:29:01.251171+00:00'
+  uri: https://www.nature.com/articles/s41467-019-13194-2
+  user: acct:shannon_mcnulty@hypothes.is
+  user_info:
+    display_name: null
