@@ -1,1294 +1,5 @@
 [
   {
-    "id": "K9YQ7F28Eeq4H78MeI0w-Q",
-    "created": "2020-03-04T02:02:15.744365+00:00",
-    "updated": "2020-03-04T02:02:15.744365+00:00",
-    "user": "acct:bpow@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "0.3",
-    "tags": [
-      "FuncExp:1",
-      "Variant:2",
-      "CGType:ExperimentResults",
-      "ResultCategorization:Normal"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:bpow@hypothes.is"
-      ],
-      "update": [
-        "acct:bpow@hypothes.is"
-      ],
-      "delete": [
-        "acct:bpow@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 1006,
-            "startOffset": 927,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[1]/span[2]/span[1]/p[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[1]/span[2]/span[1]/p[1]"
-          },
-          {
-            "end": 17118,
-            "type": "TextPositionSelector",
-            "start": 17039
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": " No statistically significant differences were found among the LDLR expression.",
-            "prefix": "ablish statistical significance.",
-            "suffix": "Download : Download high-res ima"
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/K9YQ7F28Eeq4H78MeI0w-Q",
-      "incontext": "https://hyp.is/K9YQ7F28Eeq4H78MeI0w-Q/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/K9YQ7F28Eeq4H78MeI0w-Q"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": "Bradford Powell"
-    }
-  },
-  {
-    "id": "QbwNyl29EeqEYBP2KrBYxQ",
-    "created": "2020-03-04T02:10:01.991418+00:00",
-    "updated": "2020-03-04T02:11:45.537851+00:00",
-    "user": "acct:bpow@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "NM_000527.4(LDLR):c.261G>A (p.Trp87Ter)",
-    "tags": [
-      "CanonicalAllele:CA10584814",
-      "ControlType:Pathogenic",
-      "CGType:ValidationControl"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:bpow@hypothes.is"
-      ],
-      "update": [
-        "acct:bpow@hypothes.is"
-      ],
-      "delete": [
-        "acct:bpow@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 415,
-            "startOffset": 407,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/p[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/p[1]"
-          },
-          {
-            "end": 18164,
-            "type": "TextPositionSelector",
-            "start": 18156
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "p.Trp87*",
-            "prefix": " by FACS. One of the control is ",
-            "suffix": ", a null allele mutant, that doe"
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/QbwNyl29EeqEYBP2KrBYxQ",
-      "incontext": "https://hyp.is/QbwNyl29EeqEYBP2KrBYxQ/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/QbwNyl29EeqEYBP2KrBYxQ"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": "Bradford Powell"
-    }
-  },
-  {
-    "id": "XM-NqF29Eeq7RZuG9J5DJg",
-    "created": "2020-03-04T02:10:47.522801+00:00",
-    "updated": "2020-03-04T02:10:47.522801+00:00",
-    "user": "acct:bpow@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "could also have a Variant:# tag, if referred to elsewhere",
-    "tags": [],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:bpow@hypothes.is"
-      ],
-      "update": [
-        "acct:bpow@hypothes.is"
-      ],
-      "delete": [
-        "acct:bpow@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487"
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/XM-NqF29Eeq7RZuG9J5DJg",
-      "incontext": "https://hyp.is/QbwNyl29EeqEYBP2KrBYxQ/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/XM-NqF29Eeq7RZuG9J5DJg"
-    },
-    "references": [
-      "QbwNyl29EeqEYBP2KrBYxQ"
-    ],
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": "Bradford Powell"
-    }
-  },
-  {
-    "id": "1Wri3HQiEeqn4CNmh470oA",
-    "created": "2020-04-01T14:12:34.407441+00:00",
-    "updated": "2020-07-08T14:25:19.214303+00:00",
-    "user": "acct:dkanavy@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "**HGVS**: NM_000527.4:c.261G>A (p.Trp87Ter)",
-    "tags": [
-      "Variant:7",
-      "CAID:CA10584814",
-      "ClinVarID:251100",
-      "CGType:Variant"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "update": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "delete": [
-        "acct:dkanavy@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 415,
-            "startOffset": 407,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[7]/div[1]/section[3]/section[3]/p[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[7]/div[1]/section[3]/section[3]/p[1]"
-          },
-          {
-            "end": 18241,
-            "type": "TextPositionSelector",
-            "start": 18233
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "p.Trp87*",
-            "prefix": " by FACS. One of the control is ",
-            "suffix": ", a null allele mutant, that doe"
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/1Wri3HQiEeqn4CNmh470oA",
-      "incontext": "https://hyp.is/1Wri3HQiEeqn4CNmh470oA/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/1Wri3HQiEeqn4CNmh470oA"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": null
-    }
-  },
-  {
-    "id": "FD0BZnT6Eeqi5YdSmFzIbQ",
-    "created": "2020-04-02T15:53:21.360628+00:00",
-    "updated": "2020-07-08T14:25:29.241332+00:00",
-    "user": "acct:dkanavy@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "**HGVS**: ",
-    "tags": [
-      "Variant:8",
-      "CGType:Variant"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "update": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "delete": [
-        "acct:dkanavy@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 512,
-            "startOffset": 497,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[7]/div[1]/section[3]/section[3]/p[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[7]/div[1]/section[3]/section[3]/p[1]"
-          },
-          {
-            "end": 18338,
-            "type": "TextPositionSelector",
-            "start": 18323
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "Ex3_4del mutant",
-            "prefix": ". The other internal control is ",
-            "suffix": " that produces a defective bindi"
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/FD0BZnT6Eeqi5YdSmFzIbQ",
-      "incontext": "https://hyp.is/FD0BZnT6Eeqi5YdSmFzIbQ/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/FD0BZnT6Eeqi5YdSmFzIbQ"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": null
-    }
-  },
-  {
-    "id": "a5e-mMBiEeq_2UMVv9r_dA",
-    "created": "2020-07-07T14:59:13.064750+00:00",
-    "updated": "2020-07-07T14:59:13.064750+00:00",
-    "user": "acct:dkanavy@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "",
-    "tags": [
-      "PMID:25545329",
-      "CGType:Manuscript"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "update": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "delete": [
-        "acct:dkanavy@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 97,
-            "startOffset": 0,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/h1[1]/span[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/h1[1]/span[1]"
-          },
-          {
-            "end": 826,
-            "type": "TextPositionSelector",
-            "start": 729
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats",
-            "prefix": " 2, February 2015, Pages 304-312",
-            "suffix": "Author links open overlay panelA"
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/a5e-mMBiEeq_2UMVv9r_dA",
-      "incontext": "https://hyp.is/a5e-mMBiEeq_2UMVv9r_dA/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/a5e-mMBiEeq_2UMVv9r_dA"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": null
-    }
-  },
-  {
-    "id": "3vRVmsBiEeqYNENYKTHSfA",
-    "created": "2020-07-07T15:02:26.553802+00:00",
-    "updated": "2020-07-08T14:18:44.679677+00:00",
-    "user": "acct:dkanavy@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "**Gene**: LDLR\n\n**Disease**: Familial Hypercholesterolemia\n\n**MONDO**: MONDO:0005439\n\n**InheritancePattern**: HP:0000006 Autosomal Dominant",
-    "tags": [
-      "Gene:LDLR",
-      "HGNC:6547",
-      "MONDO:0005439",
-      "CGType:GeneticCondition",
-      "HP:0000006"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "update": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "delete": [
-        "acct:dkanavy@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 668,
-            "startOffset": 0,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[1]/p[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[1]/p[1]"
-          },
-          {
-            "end": 3432,
-            "type": "TextPositionSelector",
-            "start": 2764
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "Familial Hypercholesterolemia (FH; MIM#143890) is an autosomal dominant disorder causing premature coronary heart disease (CHD) [1] that is characterized by increased plasma LDL cholesterol, tendon xanthomas, deposits of cholesterol in peripheral tissues and accelerated atherosclerosis. FH has a homozygous frequency of 1:1,000,000, and its heterozygous frequency has recently been estimated to be as high as 1/200 in the general population [2], [3], suggesting that the disease is heavily underdiagnosed and undertreated. FH is mainly due to mutations in the LDL receptor (LDLR; MIM# 606945) gene, which is responsible for the uptake of LDL particles into cells [1].",
-            "prefix": "tion class defect1. Introduction",
-            "suffix": "The LDLR is a modular protein th"
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/3vRVmsBiEeqYNENYKTHSfA",
-      "incontext": "https://hyp.is/3vRVmsBiEeqYNENYKTHSfA/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/3vRVmsBiEeqYNENYKTHSfA"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": null
-    }
-  },
-  {
-    "id": "Kf1zcsBzEeqJ6o-CcmKnTg",
-    "created": "2020-07-07T16:59:04.300974+00:00",
-    "updated": "2020-07-08T14:10:02.476836+00:00",
-    "user": "acct:dkanavy@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "**AssayResult:** 0.3\n\n**AssayResultAssertion**: Normal\n\n**StandardDeviation**: Value not reported, see figure 2B for graphical representation\n\n**Approximation**: See figure 2B for bar graph, approximated the relative LDLR expression\n\n**ControlType**: Wild type LDLR",
-    "tags": [
-      "FuncAssay:1",
-      "CGType:FunctionalAssayResult",
-      "ValidationControl:WildType",
-      "AssayControl:Normal"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "update": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "delete": [
-        "acct:dkanavy@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 694,
-            "startOffset": 681,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/p[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/p[1]"
-          },
-          {
-            "end": 15758,
-            "type": "TextPositionSelector",
-            "start": 15745
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "one in the wt",
-            "prefix": "e variants being similar to the ",
-            "suffix": " (Fig.\u00a03A).Download : Download h"
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/Kf1zcsBzEeqJ6o-CcmKnTg",
-      "incontext": "https://hyp.is/Kf1zcsBzEeqJ6o-CcmKnTg/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/Kf1zcsBzEeqJ6o-CcmKnTg"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": null
-    }
-  },
-  {
-    "id": "a2msmsBzEeqfANtf3LQWNQ",
-    "created": "2020-07-07T17:00:53.993063+00:00",
-    "updated": "2020-07-07T18:17:32.714610+00:00",
-    "user": "acct:dkanavy@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "**AssayResult:** 0.0\n\n**AssayResultAssertion**: Abnormal\n\n**StandardDeviation**: Value not reported, see figure 2B for graphical representation\n\n**Approximation**: See figure 2B for bar graph, approximated the relative LDLR expression\n\n**ControlType**: non transfected CHO cells",
-    "tags": [
-      "FuncAssay:1",
-      "CGType:FunctionalAssayResult",
-      "AssayControl:Abnormal"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "update": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "delete": [
-        "acct:dkanavy@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 7,
-            "startOffset": 0,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[1]/span[2]/span[1]/p[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[1]/span[2]/span[1]/p[1]/span[1]"
-          },
-          {
-            "end": 15853,
-            "type": "TextPositionSelector",
-            "start": 15846
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "Fig.\u00a02.",
-            "prefix": "nload : Download full-size image",
-            "suffix": " Expression of wt LDLR and LDLR "
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/a2msmsBzEeqfANtf3LQWNQ",
-      "incontext": "https://hyp.is/a2msmsBzEeqfANtf3LQWNQ/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/a2msmsBzEeqfANtf3LQWNQ"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": null
-    }
-  },
-  {
-    "id": "zLVo4MB9EeqyHRMCTcUcgQ",
-    "created": "2020-07-07T18:15:12.369522+00:00",
-    "updated": "2020-07-07T19:17:22.375469+00:00",
-    "user": "acct:dkanavy@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "**AssayResult:** 100\n\n**AssayResultAssertion**: Normal\n\n**StandardDeviation**: Value not reported, see figure 3B for graphical representation\n\n**Approximation**: See figure 3B for bar graph, approximated the LDL binding\n\n**ControlType**: Wild type LDLR",
-    "tags": [
-      "FuncAssay:2",
-      "CGType:FunctionalAssayResult",
-      "AssayControl:Normal",
-      "ValidationControl:WildType"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "update": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "delete": [
-        "acct:dkanavy@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 6,
-            "startOffset": 0,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]"
-          },
-          {
-            "end": 16935,
-            "type": "TextPositionSelector",
-            "start": 16929
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "Fig.\u00a03",
-            "prefix": "nload : Download full-size image",
-            "suffix": ". Functional characterization of"
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/zLVo4MB9EeqyHRMCTcUcgQ",
-      "incontext": "https://hyp.is/zLVo4MB9EeqyHRMCTcUcgQ/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/zLVo4MB9EeqyHRMCTcUcgQ"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": null
-    }
-  },
-  {
-    "id": "GBcqHMB-Eeq9hbfLw9UBOg",
-    "created": "2020-07-07T18:17:18.803155+00:00",
-    "updated": "2020-07-07T18:20:52.111548+00:00",
-    "user": "acct:dkanavy@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "Trp87Ter\n\n**AssayResult:** 8\n\n**AssayResultAssertion**: Abnormal\n\n**StandardDeviation**: Value not reported, see figure 3B for graphical representation\n\n**Approximation**: See figure 3B for bar graph, approximated the LDL binding",
-    "tags": [
-      "ValidationControl:Pathogenic",
-      "FuncAssay:2",
-      "CGType:FunctionalAssayResult",
-      "Variant:7",
-      "CAID:CA10584814",
-      "ClinVarID:251100"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "update": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "delete": [
-        "acct:dkanavy@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 6,
-            "startOffset": 0,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]"
-          },
-          {
-            "end": 16935,
-            "type": "TextPositionSelector",
-            "start": 16929
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "Fig.\u00a03",
-            "prefix": "nload : Download full-size image",
-            "suffix": ". Functional characterization of"
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/GBcqHMB-Eeq9hbfLw9UBOg",
-      "incontext": "https://hyp.is/GBcqHMB-Eeq9hbfLw9UBOg/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/GBcqHMB-Eeq9hbfLw9UBOg"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": null
-    }
-  },
-  {
-    "id": "1z7jJsB-EeqRIfOwnoPQxA",
-    "created": "2020-07-07T18:22:39.548030+00:00",
-    "updated": "2020-07-07T18:22:39.548030+00:00",
-    "user": "acct:dkanavy@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "Ex3-4del\n\n**AssayResult:** 5\n\n**AssayResultAssertion**: Abnormal\n\n**StandardDeviation**: Value not reported, see figure 3B for graphical representation\n\n**Approximation**: See figure 3B for bar graph, approximated the LDL binding",
-    "tags": [
-      "Variant:8",
-      "ValidationControl:Pathogenic",
-      "FuncAssay:2",
-      "CGType:FunctionalAssayResult"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "update": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "delete": [
-        "acct:dkanavy@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 6,
-            "startOffset": 0,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]"
-          },
-          {
-            "end": 16935,
-            "type": "TextPositionSelector",
-            "start": 16929
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "Fig.\u00a03",
-            "prefix": "nload : Download full-size image",
-            "suffix": ". Functional characterization of"
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/1z7jJsB-EeqRIfOwnoPQxA",
-      "incontext": "https://hyp.is/1z7jJsB-EeqRIfOwnoPQxA/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/1z7jJsB-EeqRIfOwnoPQxA"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": null
-    }
-  },
-  {
-    "id": "pUQTmMCGEeq9muP1VT74GQ",
-    "created": "2020-07-07T19:18:31.538101+00:00",
-    "updated": "2020-07-07T19:18:41.743350+00:00",
-    "user": "acct:dkanavy@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "**AssayResult:** 100\n\n**AssayResultAssertion**: Normal\n\n**StandardDeviation**: Value not reported, see figure 3C for graphical representation\n\n**Approximation**: See figure 3C for bar graph, approximated the LDL uptake\n\n**ControlType**: Wild type LDLR",
-    "tags": [
-      "FuncAssay:3",
-      "CGType:FunctionalAssayResult",
-      "ValidationControl:WildType",
-      "AssayControl:Normal"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "update": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "delete": [
-        "acct:dkanavy@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 6,
-            "startOffset": 0,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]"
-          },
-          {
-            "end": 16935,
-            "type": "TextPositionSelector",
-            "start": 16929
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "Fig.\u00a03",
-            "prefix": "nload : Download full-size image",
-            "suffix": ". Functional characterization of"
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/pUQTmMCGEeq9muP1VT74GQ",
-      "incontext": "https://hyp.is/pUQTmMCGEeq9muP1VT74GQ/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/pUQTmMCGEeq9muP1VT74GQ"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": null
-    }
-  },
-  {
-    "id": "_WjAPMCGEeqYrUPAA7R2WA",
-    "created": "2020-07-07T19:20:59.485053+00:00",
-    "updated": "2020-07-07T19:20:59.485053+00:00",
-    "user": "acct:dkanavy@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "Ex3-4del\n\n**AssayResult:** 8\n\n**AssayResultAssertion**: Abnormal\n\n**StandardDeviation**: Value not reported, see figure 3C for graphical representation\n\n**Approximation**: See figure 3C for bar graph, approximated the LDL uptake",
-    "tags": [
-      "Variant:8",
-      "FuncAssay:3",
-      "CGType:FunctionalAssayResult",
-      "ValidationControl:Pathogenic"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "update": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "delete": [
-        "acct:dkanavy@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 6,
-            "startOffset": 0,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]"
-          },
-          {
-            "end": 16935,
-            "type": "TextPositionSelector",
-            "start": 16929
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "Fig.\u00a03",
-            "prefix": "nload : Download full-size image",
-            "suffix": ". Functional characterization of"
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/_WjAPMCGEeqYrUPAA7R2WA",
-      "incontext": "https://hyp.is/_WjAPMCGEeqYrUPAA7R2WA/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/_WjAPMCGEeqYrUPAA7R2WA"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": null
-    }
-  },
-  {
-    "id": "OywN3sCHEeqUJi-8AqLBVg",
-    "created": "2020-07-07T19:22:42.991779+00:00",
-    "updated": "2020-07-07T19:22:42.991779+00:00",
-    "user": "acct:dkanavy@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "Trp87Ter\n\n**AssayResult:** 5\n\n**AssayResultAssertion**: Abnormal\n\n**StandardDeviation**: Value not reported, see figure 3C for graphical representation\n\n**Approximation**: See figure 3C for bar graph, approximated the LDL uptake",
-    "tags": [
-      "Variant:7",
-      "CAID:CA10584814",
-      "ClinVarID:251100",
-      "FuncAssay:3",
-      "CGType:FunctionalAssayResult",
-      "ValidationControl:Pathogenic"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "update": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "delete": [
-        "acct:dkanavy@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 6,
-            "startOffset": 0,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]"
-          },
-          {
-            "end": 16935,
-            "type": "TextPositionSelector",
-            "start": 16929
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "Fig.\u00a03",
-            "prefix": "nload : Download full-size image",
-            "suffix": ". Functional characterization of"
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/OywN3sCHEeqUJi-8AqLBVg",
-      "incontext": "https://hyp.is/OywN3sCHEeqUJi-8AqLBVg/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/OywN3sCHEeqUJi-8AqLBVg"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": null
-    }
-  },
-  {
-    "id": "MzCoUMCNEeqCtI-4_RHHLw",
-    "created": "2020-07-07T20:05:26.670928+00:00",
-    "updated": "2020-07-07T20:26:21.025523+00:00",
-    "user": "acct:dkanavy@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "**AssayResult:** 100\n\n**AssayResultAssertion**: Normal\n\n**StandardDeviation**: Value not reported, see figure 4C and 5B for graphical representation\n\n**Approximation**: See figure 4C and 5B for bar graph, approximated the LDL binding\n\n**ControlType**: Wild type LDLR",
-    "tags": [
-      "FuncAssay:4",
-      "CGType:FunctionalAssayResult",
-      "AssayControl:Normal",
-      "ValidationControl:WildType"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "update": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "delete": [
-        "acct:dkanavy@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 237,
-            "startOffset": 235,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/figure[1]/span[2]/span[1]/p[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/figure[1]/span[2]/span[1]/p[1]"
-          },
-          {
-            "end": 20270,
-            "type": "TextPositionSelector",
-            "start": 20268
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "wt",
-            "prefix": ", LDL binding and LDL uptake in ",
-            "suffix": " and p.Arg257Trp. For LDLR expre"
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/MzCoUMCNEeqCtI-4_RHHLw",
-      "incontext": "https://hyp.is/MzCoUMCNEeqCtI-4_RHHLw/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/MzCoUMCNEeqCtI-4_RHHLw"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": null
-    }
-  },
-  {
-    "id": "WM1W5MCNEeqwwkvWtQBATA",
-    "created": "2020-07-07T20:06:29.861752+00:00",
-    "updated": "2020-07-07T20:06:29.861752+00:00",
-    "user": "acct:dkanavy@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "**AssayResult:** 1\n\n**AssayResultAssertion**: Abnormal\n\n**StandardDeviation**: Value not reported, see figure 4C for graphical representation\n\n**Approximation**: See figure 4C for bar graph, approximated the LDL binding\n\n**ControlType**: Non transfected cells",
-    "tags": [
-      "FuncAssay:4",
-      "CGType:FunctionalAssayResult",
-      "AssayControl:Abnormal"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "update": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "delete": [
-        "acct:dkanavy@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 723,
-            "startOffset": 702,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/figure[1]/span[2]/span[1]/p[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/figure[1]/span[2]/span[1]/p[1]"
-          },
-          {
-            "end": 20756,
-            "type": "TextPositionSelector",
-            "start": 20735
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "non transfected cells",
-            "prefix": "used to visualize the nuclei of ",
-            "suffix": " or p.Trp87* transfected cells. "
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/WM1W5MCNEeqwwkvWtQBATA",
-      "incontext": "https://hyp.is/WM1W5MCNEeqwwkvWtQBATA/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/WM1W5MCNEeqwwkvWtQBATA"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": null
-    }
-  },
-  {
-    "id": "kahTksCNEeqCtoftcS1t1A",
-    "created": "2020-07-07T20:08:05.235020+00:00",
-    "updated": "2020-07-07T20:08:05.235020+00:00",
-    "user": "acct:dkanavy@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "**AssayResult:** 5\n\n**AssayResultAssertion**: Abnormal\n\n**StandardDeviation**: Value not reported, see figure 4C for graphical representation\n\n**Approximation**: See figure 4C for bar graph, approximated the LDL binding",
-    "tags": [
-      "Variant:7",
-      "CAID:CA10584814",
-      "ClinVarID:251100",
-      "FuncAssay:4",
-      "CGType:FunctionalAssayResult",
-      "ValidationControl:Pathogenic"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "update": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "delete": [
-        "acct:dkanavy@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 736,
-            "startOffset": 727,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/figure[1]/span[2]/span[1]/p[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/figure[1]/span[2]/span[1]/p[1]"
-          },
-          {
-            "end": 20769,
-            "type": "TextPositionSelector",
-            "start": 20760
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "p.Trp87* ",
-            "prefix": "lei of non transfected cells or ",
-            "suffix": "transfected cells. The images sh"
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/kahTksCNEeqCtoftcS1t1A",
-      "incontext": "https://hyp.is/kahTksCNEeqCtoftcS1t1A/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/kahTksCNEeqCtoftcS1t1A"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": null
-    }
-  },
-  {
-    "id": "Ms8NhsCQEeqkvMODacYF7A",
-    "created": "2020-07-07T20:26:54.591573+00:00",
-    "updated": "2020-07-07T20:26:54.591573+00:00",
-    "user": "acct:dkanavy@hypothes.is",
-    "uri": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-    "text": "**AssayResult:** 100\n\n**AssayResultAssertion**: Normal\n\n**StandardDeviation**: Value not reported, see figure 4C and 6B for graphical representation\n\n**Approximation**: See figure 4C and 6B for bar graph, approximated the LDL binding\n\n**ControlType**: Wild type LDLR",
-    "tags": [
-      "FuncAssay:5",
-      "CGType:FunctionalAssayResult",
-      "AssayControl:Normal",
-      "ValidationControl:WildType"
-    ],
-    "group": "DRL6xW1v",
-    "permissions": {
-      "read": [
-        "group:DRL6xW1v"
-      ],
-      "admin": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "update": [
-        "acct:dkanavy@hypothes.is"
-      ],
-      "delete": [
-        "acct:dkanavy@hypothes.is"
-      ]
-    },
-    "target": [
-      {
-        "source": "https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-        "selector": [
-          {
-            "type": "RangeSelector",
-            "endOffset": 36,
-            "startOffset": 34,
-            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[2]/figure[2]/span[2]/span[1]/p[1]",
-            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[2]/figure[2]/span[2]/span[1]/p[1]"
-          },
-          {
-            "end": 22937,
-            "type": "TextPositionSelector",
-            "start": 22935
-          },
-          {
-            "type": "TextQuoteSelector",
-            "exact": "wt",
-            "prefix": "g.\u00a06. Analysis of LDL uptake in ",
-            "suffix": ", p.Cys116Arg, p. Asp168Ans, p.A"
-          }
-        ]
-      }
-    ],
-    "document": {
-      "title": [
-        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
-      ]
-    },
-    "links": {
-      "html": "https://hypothes.is/a/Ms8NhsCQEeqkvMODacYF7A",
-      "incontext": "https://hyp.is/Ms8NhsCQEeqkvMODacYF7A/www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S0021915014016487",
-      "json": "https://hypothes.is/api/annotations/Ms8NhsCQEeqkvMODacYF7A"
-    },
-    "flagged": false,
-    "hidden": false,
-    "user_info": {
-      "display_name": null
-    }
-  },
-  {
     "id": "WrPDVlpaEeq4TQubShyJgw",
     "created": "2020-02-28T18:44:30.088889+00:00",
     "updated": "2020-07-07T15:03:45.707768+00:00",
@@ -4416,6 +3127,1350 @@
     "hidden": false,
     "user_info": {
       "display_name": null
+    }
+  },
+  {
+    "id": "T2GuttgMEeqM2K86WUxpBA",
+    "created": "2020-08-06T17:43:17.066127+00:00",
+    "updated": "2020-08-06T17:43:17.066127+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "**HGVS**: ",
+    "tags": [
+      "Variant:8",
+      "CGType:Variant"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 512,
+            "startOffset": 497,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[7]/div[1]/section[3]/section[3]/p[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[7]/div[1]/section[3]/section[3]/p[1]"
+          },
+          {
+            "end": 18338,
+            "type": "TextPositionSelector",
+            "start": 18323
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Ex3_4del mutant",
+            "prefix": ". The other internal control is ",
+            "suffix": " that produces a defective bindi"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/T2GuttgMEeqM2K86WUxpBA",
+      "incontext": "https://hyp.is/FD0BZnT6Eeqi5YdSmFzIbQ/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/T2GuttgMEeqM2K86WUxpBA"
+    },
+    "references": [
+      "FD0BZnT6Eeqi5YdSmFzIbQ"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "T68n6tgMEeq3K2tgSN1rKw",
+    "created": "2020-08-06T17:43:17.475088+00:00",
+    "updated": "2020-08-06T17:43:17.475088+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "**HGVS**: NM_000527.4:c.261G>A (p.Trp87Ter)",
+    "tags": [
+      "Variant:7",
+      "CAID:CA10584814",
+      "ClinVarID:251100",
+      "CGType:Variant"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 415,
+            "startOffset": 407,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[7]/div[1]/section[3]/section[3]/p[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[7]/div[1]/section[3]/section[3]/p[1]"
+          },
+          {
+            "end": 18241,
+            "type": "TextPositionSelector",
+            "start": 18233
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "p.Trp87*",
+            "prefix": " by FACS. One of the control is ",
+            "suffix": ", a null allele mutant, that doe"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/T68n6tgMEeq3K2tgSN1rKw",
+      "incontext": "https://hyp.is/1Wri3HQiEeqn4CNmh470oA/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/T68n6tgMEeq3K2tgSN1rKw"
+    },
+    "references": [
+      "1Wri3HQiEeqn4CNmh470oA"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "UA1GNtgMEeqGQJ-6z5zUrg",
+    "created": "2020-08-06T17:43:18.134399+00:00",
+    "updated": "2020-08-06T17:43:18.134399+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "**Gene**: LDLR\n\n**Disease**: Familial Hypercholesterolemia\n\n**MONDO**: MONDO:0005439\n\n**InheritancePattern**: HP:0000006 Autosomal Dominant",
+    "tags": [
+      "Gene:LDLR",
+      "HGNC:6547",
+      "MONDO:0005439",
+      "CGType:GeneticCondition",
+      "HP:0000006"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 668,
+            "startOffset": 0,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[1]/p[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[1]/p[1]"
+          },
+          {
+            "end": 3432,
+            "type": "TextPositionSelector",
+            "start": 2764
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Familial Hypercholesterolemia (FH; MIM#143890) is an autosomal dominant disorder causing premature coronary heart disease (CHD) [1] that is characterized by increased plasma LDL cholesterol, tendon xanthomas, deposits of cholesterol in peripheral tissues and accelerated atherosclerosis. FH has a homozygous frequency of 1:1,000,000, and its heterozygous frequency has recently been estimated to be as high as 1/200 in the general population [2], [3], suggesting that the disease is heavily underdiagnosed and undertreated. FH is mainly due to mutations in the LDL receptor (LDLR; MIM# 606945) gene, which is responsible for the uptake of LDL particles into cells [1].",
+            "prefix": "tion class defect1. Introduction",
+            "suffix": "The LDLR is a modular protein th"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/UA1GNtgMEeqGQJ-6z5zUrg",
+      "incontext": "https://hyp.is/3vRVmsBiEeqYNENYKTHSfA/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/UA1GNtgMEeqGQJ-6z5zUrg"
+    },
+    "references": [
+      "3vRVmsBiEeqYNENYKTHSfA"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "UJws6NgMEeqFuvNLCg7K1g",
+    "created": "2020-08-06T17:43:19.106884+00:00",
+    "updated": "2020-08-06T17:43:19.106884+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "**AssayResult:** 0.3\n\n**AssayResultAssertion**: Normal\n\n**StandardDeviation**: Value not reported, see figure 2B for graphical representation\n\n**Approximation**: See figure 2B for bar graph, approximated the relative LDLR expression\n\n**ControlType**: Wild type LDLR",
+    "tags": [
+      "FuncAssay:1",
+      "CGType:FunctionalAssayResult",
+      "ValidationControl:WildType",
+      "AssayControl:Normal"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 694,
+            "startOffset": 681,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/p[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/p[1]"
+          },
+          {
+            "end": 15758,
+            "type": "TextPositionSelector",
+            "start": 15745
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "one in the wt",
+            "prefix": "e variants being similar to the ",
+            "suffix": " (Fig.\u00a03A).Download : Download h"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/UJws6NgMEeqFuvNLCg7K1g",
+      "incontext": "https://hyp.is/Kf1zcsBzEeqJ6o-CcmKnTg/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/UJws6NgMEeqFuvNLCg7K1g"
+    },
+    "references": [
+      "Kf1zcsBzEeqJ6o-CcmKnTg"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "VS_cHtgMEeqyBVPoxFXS0Q",
+    "created": "2020-08-06T17:43:26.797217+00:00",
+    "updated": "2020-08-06T17:43:26.797217+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "**AssayResult:** 100\n\n**AssayResultAssertion**: Normal\n\n**StandardDeviation**: Value not reported, see figure 4C and 6B for graphical representation\n\n**Approximation**: See figure 4C and 6B for bar graph, approximated the LDL binding\n\n**ControlType**: Wild type LDLR",
+    "tags": [
+      "FuncAssay:5",
+      "CGType:FunctionalAssayResult",
+      "AssayControl:Normal",
+      "ValidationControl:WildType"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 36,
+            "startOffset": 34,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[2]/figure[2]/span[2]/span[1]/p[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[2]/figure[2]/span[2]/span[1]/p[1]"
+          },
+          {
+            "end": 22937,
+            "type": "TextPositionSelector",
+            "start": 22935
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "wt",
+            "prefix": "g.\u00a06. Analysis of LDL uptake in ",
+            "suffix": ", p.Cys116Arg, p. Asp168Ans, p.A"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/VS_cHtgMEeqyBVPoxFXS0Q",
+      "incontext": "https://hyp.is/Ms8NhsCQEeqkvMODacYF7A/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/VS_cHtgMEeqyBVPoxFXS0Q"
+    },
+    "references": [
+      "Ms8NhsCQEeqkvMODacYF7A"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "VYSNGNgMEeqLAMOBAyk_NQ",
+    "created": "2020-08-06T17:43:27.321080+00:00",
+    "updated": "2020-08-06T17:43:27.321080+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "**AssayResult:** 100\n\n**AssayResultAssertion**: Normal\n\n**StandardDeviation**: Value not reported, see figure 4C and 5B for graphical representation\n\n**Approximation**: See figure 4C and 5B for bar graph, approximated the LDL binding\n\n**ControlType**: Wild type LDLR",
+    "tags": [
+      "FuncAssay:4",
+      "CGType:FunctionalAssayResult",
+      "AssayControl:Normal",
+      "ValidationControl:WildType"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 237,
+            "startOffset": 235,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/figure[1]/span[2]/span[1]/p[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/figure[1]/span[2]/span[1]/p[1]"
+          },
+          {
+            "end": 20270,
+            "type": "TextPositionSelector",
+            "start": 20268
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "wt",
+            "prefix": ", LDL binding and LDL uptake in ",
+            "suffix": " and p.Arg257Trp. For LDLR expre"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/VYSNGNgMEeqLAMOBAyk_NQ",
+      "incontext": "https://hyp.is/MzCoUMCNEeqCtI-4_RHHLw/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/VYSNGNgMEeqLAMOBAyk_NQ"
+    },
+    "references": [
+      "MzCoUMCNEeqCtI-4_RHHLw"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "VcJwsNgMEeqqeBvn3amrMA",
+    "created": "2020-08-06T17:43:27.688636+00:00",
+    "updated": "2020-08-06T17:43:27.688636+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "**AssayResult:** 5\n\n**AssayResultAssertion**: Abnormal\n\n**StandardDeviation**: Value not reported, see figure 4C for graphical representation\n\n**Approximation**: See figure 4C for bar graph, approximated the LDL binding",
+    "tags": [
+      "Variant:7",
+      "CAID:CA10584814",
+      "ClinVarID:251100",
+      "FuncAssay:4",
+      "CGType:FunctionalAssayResult",
+      "ValidationControl:Pathogenic"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 736,
+            "startOffset": 727,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/figure[1]/span[2]/span[1]/p[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/figure[1]/span[2]/span[1]/p[1]"
+          },
+          {
+            "end": 20769,
+            "type": "TextPositionSelector",
+            "start": 20760
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "p.Trp87* ",
+            "prefix": "lei of non transfected cells or ",
+            "suffix": "transfected cells. The images sh"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/VcJwsNgMEeqqeBvn3amrMA",
+      "incontext": "https://hyp.is/kahTksCNEeqCtoftcS1t1A/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/VcJwsNgMEeqqeBvn3amrMA"
+    },
+    "references": [
+      "kahTksCNEeqCtoftcS1t1A"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "VhJEZNgMEeqk4G9RlN4hlw",
+    "created": "2020-08-06T17:43:28.239560+00:00",
+    "updated": "2020-08-06T17:43:28.239560+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "**AssayResult:** 1\n\n**AssayResultAssertion**: Abnormal\n\n**StandardDeviation**: Value not reported, see figure 4C for graphical representation\n\n**Approximation**: See figure 4C for bar graph, approximated the LDL binding\n\n**ControlType**: Non transfected cells",
+    "tags": [
+      "FuncAssay:4",
+      "CGType:FunctionalAssayResult",
+      "AssayControl:Abnormal"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 723,
+            "startOffset": 702,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/figure[1]/span[2]/span[1]/p[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[4]/div[1]/figure[1]/span[2]/span[1]/p[1]"
+          },
+          {
+            "end": 20756,
+            "type": "TextPositionSelector",
+            "start": 20735
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "non transfected cells",
+            "prefix": "used to visualize the nuclei of ",
+            "suffix": " or p.Trp87* transfected cells. "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/VhJEZNgMEeqk4G9RlN4hlw",
+      "incontext": "https://hyp.is/WM1W5MCNEeqwwkvWtQBATA/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/VhJEZNgMEeqk4G9RlN4hlw"
+    },
+    "references": [
+      "WM1W5MCNEeqwwkvWtQBATA"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "VmAeWtgMEeq6NL_nv1imBg",
+    "created": "2020-08-06T17:43:28.623802+00:00",
+    "updated": "2020-08-06T17:43:28.623802+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "Trp87Ter\n\n**AssayResult:** 5\n\n**AssayResultAssertion**: Abnormal\n\n**StandardDeviation**: Value not reported, see figure 3C for graphical representation\n\n**Approximation**: See figure 3C for bar graph, approximated the LDL uptake",
+    "tags": [
+      "Variant:7",
+      "CAID:CA10584814",
+      "ClinVarID:251100",
+      "FuncAssay:3",
+      "CGType:FunctionalAssayResult",
+      "ValidationControl:Pathogenic"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 6,
+            "startOffset": 0,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]"
+          },
+          {
+            "end": 16935,
+            "type": "TextPositionSelector",
+            "start": 16929
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Fig.\u00a03",
+            "prefix": "nload : Download full-size image",
+            "suffix": ". Functional characterization of"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/VmAeWtgMEeq6NL_nv1imBg",
+      "incontext": "https://hyp.is/OywN3sCHEeqUJi-8AqLBVg/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/VmAeWtgMEeq6NL_nv1imBg"
+    },
+    "references": [
+      "OywN3sCHEeqUJi-8AqLBVg"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "VqFV3NgMEeqKhwtOXGn3Xw",
+    "created": "2020-08-06T17:43:29.236764+00:00",
+    "updated": "2020-08-06T17:43:29.236764+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "Ex3-4del\n\n**AssayResult:** 8\n\n**AssayResultAssertion**: Abnormal\n\n**StandardDeviation**: Value not reported, see figure 3C for graphical representation\n\n**Approximation**: See figure 3C for bar graph, approximated the LDL uptake",
+    "tags": [
+      "Variant:8",
+      "FuncAssay:3",
+      "CGType:FunctionalAssayResult",
+      "ValidationControl:Pathogenic"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 6,
+            "startOffset": 0,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]"
+          },
+          {
+            "end": 16935,
+            "type": "TextPositionSelector",
+            "start": 16929
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Fig.\u00a03",
+            "prefix": "nload : Download full-size image",
+            "suffix": ". Functional characterization of"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/VqFV3NgMEeqKhwtOXGn3Xw",
+      "incontext": "https://hyp.is/_WjAPMCGEeqYrUPAA7R2WA/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/VqFV3NgMEeqKhwtOXGn3Xw"
+    },
+    "references": [
+      "_WjAPMCGEeqYrUPAA7R2WA"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "VvGOTtgMEeq7oi8UVxkUHA",
+    "created": "2020-08-06T17:43:29.703658+00:00",
+    "updated": "2020-08-06T17:43:29.703658+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "**AssayResult:** 100\n\n**AssayResultAssertion**: Normal\n\n**StandardDeviation**: Value not reported, see figure 3C for graphical representation\n\n**Approximation**: See figure 3C for bar graph, approximated the LDL uptake\n\n**ControlType**: Wild type LDLR",
+    "tags": [
+      "FuncAssay:3",
+      "CGType:FunctionalAssayResult",
+      "ValidationControl:WildType",
+      "AssayControl:Normal"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 6,
+            "startOffset": 0,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]"
+          },
+          {
+            "end": 16935,
+            "type": "TextPositionSelector",
+            "start": 16929
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Fig.\u00a03",
+            "prefix": "nload : Download full-size image",
+            "suffix": ". Functional characterization of"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/VvGOTtgMEeq7oi8UVxkUHA",
+      "incontext": "https://hyp.is/pUQTmMCGEeq9muP1VT74GQ/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/VvGOTtgMEeq7oi8UVxkUHA"
+    },
+    "references": [
+      "pUQTmMCGEeq9muP1VT74GQ"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "V0V_zNgMEeqrpbuZ2bZ2Zw",
+    "created": "2020-08-06T17:43:30.178945+00:00",
+    "updated": "2020-08-06T17:43:30.178945+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "**AssayResult:** 100\n\n**AssayResultAssertion**: Normal\n\n**StandardDeviation**: Value not reported, see figure 3B for graphical representation\n\n**Approximation**: See figure 3B for bar graph, approximated the LDL binding\n\n**ControlType**: Wild type LDLR",
+    "tags": [
+      "FuncAssay:2",
+      "CGType:FunctionalAssayResult",
+      "AssayControl:Normal",
+      "ValidationControl:WildType"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 6,
+            "startOffset": 0,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]"
+          },
+          {
+            "end": 16935,
+            "type": "TextPositionSelector",
+            "start": 16929
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Fig.\u00a03",
+            "prefix": "nload : Download full-size image",
+            "suffix": ". Functional characterization of"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/V0V_zNgMEeqrpbuZ2bZ2Zw",
+      "incontext": "https://hyp.is/zLVo4MB9EeqyHRMCTcUcgQ/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/V0V_zNgMEeqrpbuZ2bZ2Zw"
+    },
+    "references": [
+      "zLVo4MB9EeqyHRMCTcUcgQ"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "V5F0_tgMEeqFml9EpJM5vg",
+    "created": "2020-08-06T17:43:30.753099+00:00",
+    "updated": "2020-08-06T17:43:30.753099+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "Ex3-4del\n\n**AssayResult:** 5\n\n**AssayResultAssertion**: Abnormal\n\n**StandardDeviation**: Value not reported, see figure 3B for graphical representation\n\n**Approximation**: See figure 3B for bar graph, approximated the LDL binding",
+    "tags": [
+      "Variant:8",
+      "ValidationControl:Pathogenic",
+      "FuncAssay:2",
+      "CGType:FunctionalAssayResult"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 6,
+            "startOffset": 0,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]"
+          },
+          {
+            "end": 16935,
+            "type": "TextPositionSelector",
+            "start": 16929
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Fig.\u00a03",
+            "prefix": "nload : Download full-size image",
+            "suffix": ". Functional characterization of"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/V5F0_tgMEeqFml9EpJM5vg",
+      "incontext": "https://hyp.is/1z7jJsB-EeqRIfOwnoPQxA/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/V5F0_tgMEeqFml9EpJM5vg"
+    },
+    "references": [
+      "1z7jJsB-EeqRIfOwnoPQxA"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "V8_altgMEeq8MZs6_I0jCQ",
+    "created": "2020-08-06T17:43:31.193626+00:00",
+    "updated": "2020-08-06T17:43:31.193626+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "Trp87Ter\n\n**AssayResult:** 8\n\n**AssayResultAssertion**: Abnormal\n\n**StandardDeviation**: Value not reported, see figure 3B for graphical representation\n\n**Approximation**: See figure 3B for bar graph, approximated the LDL binding",
+    "tags": [
+      "ValidationControl:Pathogenic",
+      "FuncAssay:2",
+      "CGType:FunctionalAssayResult",
+      "Variant:7",
+      "CAID:CA10584814",
+      "ClinVarID:251100"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 6,
+            "startOffset": 0,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[2]/span[2]/span[1]/p[1]/span[1]"
+          },
+          {
+            "end": 16935,
+            "type": "TextPositionSelector",
+            "start": 16929
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Fig.\u00a03",
+            "prefix": "nload : Download full-size image",
+            "suffix": ". Functional characterization of"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/V8_altgMEeq8MZs6_I0jCQ",
+      "incontext": "https://hyp.is/GBcqHMB-Eeq9hbfLw9UBOg/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/V8_altgMEeq8MZs6_I0jCQ"
+    },
+    "references": [
+      "GBcqHMB-Eeq9hbfLw9UBOg"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "WBTadNgMEeqXaf8-fwO4Gg",
+    "created": "2020-08-06T17:43:31.569975+00:00",
+    "updated": "2020-08-06T17:43:31.569975+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "**AssayResult:** 0.0\n\n**AssayResultAssertion**: Abnormal\n\n**StandardDeviation**: Value not reported, see figure 2B for graphical representation\n\n**Approximation**: See figure 2B for bar graph, approximated the relative LDLR expression\n\n**ControlType**: non transfected CHO cells",
+    "tags": [
+      "FuncAssay:1",
+      "CGType:FunctionalAssayResult",
+      "AssayControl:Abnormal"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 7,
+            "startOffset": 0,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[1]/span[2]/span[1]/p[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[1]/span[2]/span[1]/p[1]/span[1]"
+          },
+          {
+            "end": 15853,
+            "type": "TextPositionSelector",
+            "start": 15846
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Fig.\u00a02.",
+            "prefix": "nload : Download full-size image",
+            "suffix": " Expression of wt LDLR and LDLR "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/WBTadNgMEeqXaf8-fwO4Gg",
+      "incontext": "https://hyp.is/a2msmsBzEeqfANtf3LQWNQ/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/WBTadNgMEeqXaf8-fwO4Gg"
+    },
+    "references": [
+      "a2msmsBzEeqfANtf3LQWNQ"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "WGDE8tgMEeqRt3sBUBj26A",
+    "created": "2020-08-06T17:43:32.079377+00:00",
+    "updated": "2020-08-06T17:43:32.079377+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "",
+    "tags": [
+      "PMID:25545329",
+      "CGType:Manuscript"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 97,
+            "startOffset": 0,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/h1[1]/span[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/h1[1]/span[1]"
+          },
+          {
+            "end": 826,
+            "type": "TextPositionSelector",
+            "start": 729
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats",
+            "prefix": " 2, February 2015, Pages 304-312",
+            "suffix": "Author links open overlay panelA"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/WGDE8tgMEeqRt3sBUBj26A",
+      "incontext": "https://hyp.is/a5e-mMBiEeq_2UMVv9r_dA/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/WGDE8tgMEeqRt3sBUBj26A"
+    },
+    "references": [
+      "a5e-mMBiEeq_2UMVv9r_dA"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "ZX0qStgMEeq3hReJ67ZiMA",
+    "created": "2020-08-06T17:43:54.098624+00:00",
+    "updated": "2020-08-06T17:43:54.098624+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "NM_000527.4(LDLR):c.261G>A (p.Trp87Ter)",
+    "tags": [
+      "CanonicalAllele:CA10584814",
+      "ControlType:Pathogenic",
+      "CGType:ValidationControl"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 415,
+            "startOffset": 407,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/p[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[3]/p[1]"
+          },
+          {
+            "end": 18164,
+            "type": "TextPositionSelector",
+            "start": 18156
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "p.Trp87*",
+            "prefix": " by FACS. One of the control is ",
+            "suffix": ", a null allele mutant, that doe"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/ZX0qStgMEeq3hReJ67ZiMA",
+      "incontext": "https://hyp.is/QbwNyl29EeqEYBP2KrBYxQ/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/ZX0qStgMEeq3hReJ67ZiMA"
+    },
+    "references": [
+      "QbwNyl29EeqEYBP2KrBYxQ"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "ZbCxqNgMEeqcaFNCn-LWkw",
+    "created": "2020-08-06T17:43:54.468384+00:00",
+    "updated": "2020-08-06T17:43:54.468384+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "could also have a Variant:# tag, if referred to elsewhere",
+    "tags": [],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487"
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/ZbCxqNgMEeqcaFNCn-LWkw",
+      "incontext": "https://hyp.is/QbwNyl29EeqEYBP2KrBYxQ/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/ZbCxqNgMEeqcaFNCn-LWkw"
+    },
+    "references": [
+      "QbwNyl29EeqEYBP2KrBYxQ",
+      "XM-NqF29Eeq7RZuG9J5DJg"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
+    }
+  },
+  {
+    "id": "Zd9L0NgMEeqRuD_ksJ-xHw",
+    "created": "2020-08-06T17:43:54.790873+00:00",
+    "updated": "2020-08-06T17:43:54.790873+00:00",
+    "user": "acct:bpow@hypothes.is",
+    "uri": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+    "text": "0.3",
+    "tags": [
+      "FuncExp:1",
+      "Variant:2",
+      "CGType:ExperimentResults",
+      "ResultCategorization:Normal"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:bpow@hypothes.is"
+      ],
+      "update": [
+        "acct:bpow@hypothes.is"
+      ],
+      "delete": [
+        "acct:bpow@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.sciencedirect.com/science/article/pii/S0021915014016487",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 1006,
+            "startOffset": 927,
+            "endContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[1]/span[2]/span[1]/p[1]",
+            "startContainer": "/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[7]/div[1]/section[3]/section[2]/div[1]/figure[1]/span[2]/span[1]/p[1]"
+          },
+          {
+            "end": 17118,
+            "type": "TextPositionSelector",
+            "start": 17039
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": " No statistically significant differences were found among the LDLR expression.",
+            "prefix": "ablish statistical significance.",
+            "suffix": "Download : Download high-res ima"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Activity-associated effect of LDL receptor missense variants located in the cysteine-rich repeats"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/Zd9L0NgMEeqRuD_ksJ-xHw",
+      "incontext": "https://hyp.is/K9YQ7F28Eeq4H78MeI0w-Q/www.sciencedirect.com/science/article/pii/S0021915014016487",
+      "json": "https://hypothes.is/api/annotations/Zd9L0NgMEeqRuD_ksJ-xHw"
+    },
+    "references": [
+      "K9YQ7F28Eeq4H78MeI0w-Q"
+    ],
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": "Bradford Powell"
     }
   }
 ]

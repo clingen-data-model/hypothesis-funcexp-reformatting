@@ -70,16 +70,16 @@
   {
     "id": "EDgQ6rFqEeqayOPYdLlORA",
     "created": "2020-06-18T13:46:07.837339+00:00",
-    "updated": "2020-07-01T12:25:20.042221+00:00",
+    "updated": "2020-07-13T17:18:02.440531+00:00",
     "user": "acct:shannon_mcnulty@hypothes.is",
     "uri": "https://www.nature.com/articles/s41467-019-13194-2",
-    "text": "**Gene**: *PALB2*\n\n**Disease**: Hereditary breast carcinoma\n\n**MONDO**: MONDO:0016419",
+    "text": "**Gene**: *PALB2*\n\n**Disease**: Hereditary breast carcinoma\n\n**MONDO**: MONDO:0016419\n\n**InheritancePattern**: Autosomal dominant",
     "tags": [
       "Gene:PALB2",
       "HGNC:26144",
       "MONDO:0016419",
-      "ModeOfInheritance:HP:0000006",
-      "CGType:GeneticCondition"
+      "CGType:GeneticCondition",
+      "HP:0000006"
     ],
     "group": "DRL6xW1v",
     "permissions": {
@@ -140,10 +140,10 @@
   {
     "id": "1gJHXrFrEequ_XMOkI21Zg",
     "created": "2020-06-18T13:58:49.124016+00:00",
-    "updated": "2020-07-01T12:26:17.386922+00:00",
+    "updated": "2020-07-13T19:00:55.855808+00:00",
     "user": "acct:shannon_mcnulty@hypothes.is",
     "uri": "https://www.nature.com/articles/s41467-019-13194-2",
-    "text": "**AssayGeneralClass**: BAO:0003061\n\n**AssayMaterialUsed**: CLO:0037317\n\n**AssayDescription**: Stable expression of wild type and variant *PALB2* cDNA constructs in *Trp53* and *Palb2*-null mouse cell line containing DR-GFP reporter; I-SceI endonuclease introduces a double-stranded break in the reporter construct and efficient repair results in GFP expression, which is detected by flow cytometry\n\n**AssayReadOutDescription**: Relative homologous recombination (HR) efficiency represented as mean percentages of GFP-positive cells among the mCherry-positive cells relative to wild type, which was set to 100% \n\n**AssayRange**: 0-100+%\n\n**AssayNormalRange**: HR levels comparable to that of cells expressing wild type *PALB2*; no numeric threshold given \n\n**AssayAbnormalRange**: HR levels \u226410% of wild type\n\n**AssayIndeterminateRange**: Not indicated \n\n**AssayNormalControl**: Wild type *PALB2* cDNA\n\n**AssayAbnormalControl**: Empty vector\n\n**ValidationControlPathogenic**: 12\n\n**ValidationControlBenign**: 9\n\n**Replication**: 2 independent experiments\n\n**StatisticalAnalysisDescription**:  ND",
+    "text": "**AssayGeneralClass**: BAO:0003061 reporter protein\n\n**AssayMaterialUsed**: CLO:0037317 mouse embryonic stem cell line\n\n**AssayDescription**: Stable expression of wild type and variant *PALB2* cDNA constructs in *Trp53* and *Palb2*-null mouse cell line containing DR-GFP reporter; I-SceI endonuclease introduces a double-stranded break in the reporter construct and efficient repair results in GFP expression, which is detected by flow cytometry\n\n**AssayReadOutDescription**: Relative homologous recombination (HR) efficiency represented as mean percentages of GFP-positive cells among the mCherry-positive cells relative to wild type, which was set to 100% \n\n**AssayRange**: %\n\n**AssayNormalRange**: HR levels comparable to that of cells expressing wild type *PALB2*; no numeric threshold given \n\n**AssayAbnormalRange**: HR levels \u226440% of wild type\n\n**AssayIndeterminateRange**: Not reported \n\n**ValidationControlPathogenic**: 12\n\n**ValidationControlBenign**: 9\n\n**Replication**: 2 independent experiments\n\n**StatisticalAnalysisDescription**: Not reported",
     "tags": [
       "FuncAssay:1",
       "BAO:0003061",
@@ -151,8 +151,8 @@
       "MONDO:0016419",
       "HGNC:26144",
       "AssayRangeType:Quantitative",
-      "AssayUnits:UO:0000187",
-      "CGType:FunctionalAssay"
+      "CGType:FunctionalAssay",
+      "UO:0000187"
     ],
     "group": "DRL6xW1v",
     "permissions": {
@@ -213,10 +213,10 @@
   {
     "id": "fpgJlLFxEeqlbedelUnsAA",
     "created": "2020-06-18T14:39:19.213698+00:00",
-    "updated": "2020-07-01T12:27:12.774656+00:00",
+    "updated": "2020-07-13T17:27:00.410991+00:00",
     "user": "acct:shannon_mcnulty@hypothes.is",
     "uri": "https://www.nature.com/articles/s41467-019-13194-2",
-    "text": "**AssayGeneralClass**: BAO:0002805\n\n**AssayMaterialUsed**: CLO:0037317\n\n**AssayDescription**: Stable  expression of wild type and variant *PALB2* cDNA constructs in *Trp53* and *Palb2*-null mouse cell line containing DR-GFP reporter; exposure to PARP inhibitor Olaparib for 48 h inhibits end-joining mediated by PARP and sensitizes cells to DNA damage; cell survival is measured by FACS 24 h after Olaparib washout\n\n**AssayReadOutDescription**: Relative resistance to PARPi represented as cell survival relative to wild type, which was set to 100%\n\n**AssayRange**: 0-100+%\n\n**AssayNormalRange**: PARPi resistance levels comparable to that of cells expressing wild type *PALB2*; no numeric threshold given\n\n**AssayAbnormalRange**: PARPi resistance levels \u226430% of wild type\n\n**AssayIndeterminateRange**: Not indicated\n\n**AssayNormalControl**: Wild type *PALB2* cDNA\n\n**AssayAbnormalControl**: Empty vector\n\n**ValidationControlPathogenic**: 12\n\n**ValidationControlBenign**: 9\n\n**Replication**: 2 independent experiments\n\n**StatisticalAnalysisDescription**: ND",
+    "text": "**AssayGeneralClass**: BAO:0002805 cell proliferation assay\n\n**AssayMaterialUsed**: CLO:0037317 mouse embryonic stem cell line\n\n**AssayDescription**: Stable expression of wild type and variant *PALB2* cDNA constructs in *Trp53* and *Palb2*-null mouse cell line containing DR-GFP reporter; exposure to PARP inhibitor Olaparib for 48 h inhibits end-joining mediated by PARP and sensitizes cells to DNA damage; cell survival is measured by FACS 24 h after Olaparib washout\n\n**AssayReadOutDescription**: Relative resistance to PARPi represented as cell survival relative to wild type, which was set to 100%\n\n**AssayRange**: %\n\n**AssayNormalRange**: PARPi resistance levels comparable to that of cells expressing wild type *PALB2*; no numeric threshold given\n\n**AssayAbnormalRange**: PARPi resistance levels \u226430% of wild type\n\n**AssayIndeterminateRange**: Not reported\n\n**ValidationControlPathogenic**: 12\n\n**ValidationControlBenign**: 9\n\n**Replication**: 2 independent experiments\n\n**StatisticalAnalysisDescription**: Not reported",
     "tags": [
       "FuncAssay:2",
       "BAO:0002805",
@@ -224,8 +224,8 @@
       "MONDO:0016419",
       "HGNC:26144",
       "AssayRangeType:Quantitative",
-      "AssayUnits:UO:0000187",
-      "CGType:FunctionalAssay"
+      "CGType:FunctionalAssay",
+      "UO:0000187"
     ],
     "group": "DRL6xW1v",
     "permissions": {
@@ -286,10 +286,10 @@
   {
     "id": "1SO5WrFzEeq8i28lo3fN5w",
     "created": "2020-06-18T14:56:03.576254+00:00",
-    "updated": "2020-07-01T12:28:02.952611+00:00",
+    "updated": "2020-07-13T22:21:22.987044+00:00",
     "user": "acct:shannon_mcnulty@hypothes.is",
     "uri": "https://www.nature.com/articles/s41467-019-13194-2",
-    "text": "**AssayGeneralClass**: BAO:0002805\n\n**AssayMaterialUsed**: CLO:0037317\n\n**AssayDescription**: Stable expression of wild type and variant *PALB2* cDNA constructs in *Trp53* and *Palb2*-null mouse cell line containing DR-GFP reporter; exposure to cisplatin for 48 h induces interstrand-crosslink DNA damage; cell survival is measured by FACS 24 h after cisplatin washout \n\n**AssayReadOutDescription**: Relative resistance to cisplatin represented as cell survival relative to wild type, which was set to 100%\n\n**AssayRange**: 0-100+%\n\n**AssayNormalRange**: Cisplatin resistance levels comparable to that of cells expressing wild type *PALB2*; no numeric threshold given\n\n**AssayAbnormalRange**: Cisplatin resistance levels comparable to that of cells expressing empty vector; no numeric threshold given\n\n**AssayIndeterminateRange**: Not indicated\n\n**AssayNormalControl**: Wild type *PALB2* cDNA\n\n**AssayAbnormalControl**: Empty vector\n\n**ValidationControlPathogenic**: 12\n\n**ValidationControlBenign**: 9\n\n**Replication**: 2 independent experiments\n\n**StatisticalAnalysisDescription**: ND",
+    "text": "**AssayGeneralClass**: BAO:0002805 cell proliferation assay\n\n**AssayMaterialUsed**: CLO:0037317 mouse embryonic stem cell line\n\n**AssayDescription**: Stable expression of wild type and variant *PALB2* cDNA constructs in *Trp53* and *Palb2*-null mouse cell line containing DR-GFP reporter; exposure to cisplatin for 48 h induces interstrand-crosslink DNA damage; cell survival is measured by FACS 24 h after cisplatin washout \n\n**AssayReadOutDescription**: Relative resistance to cisplatin represented as cell survival relative to wild type, which was set to 100%\n\n**AssayRange**: %\n\n**AssayNormalRange**: Cisplatin resistance levels comparable to that of cells expressing wild type *PALB2*; no numeric threshold given\n\n**AssayAbnormalRange**: Cisplatin resistance levels comparable to that of cells expressing empty vector; no numeric threshold given\n\n**AssayIndeterminateRange**: Not reported\n\n**ValidationControlPathogenic**: 2\n\n**ValidationControlBenign**: 2\n\n**Replication**: 2 independent experiments\n\n**StatisticalAnalysisDescription**: Not reported",
     "tags": [
       "FuncAssay:3",
       "BAO:0002805",
@@ -297,8 +297,8 @@
       "MONDO:0016419",
       "HGNC:26144",
       "AssayRangeType:Quantitative",
-      "AssayUnits:UO:0000187",
-      "CGType:FunctionalAssay"
+      "CGType:FunctionalAssay",
+      "UO:0000187"
     ],
     "group": "DRL6xW1v",
     "permissions": {
@@ -359,10 +359,10 @@
   {
     "id": "FQkftLF1EeqfsFN_kTyCvQ",
     "created": "2020-06-18T15:05:00.331566+00:00",
-    "updated": "2020-07-01T12:28:49.844155+00:00",
+    "updated": "2020-07-13T17:29:05.771104+00:00",
     "user": "acct:shannon_mcnulty@hypothes.is",
     "uri": "https://www.nature.com/articles/s41467-019-13194-2",
-    "text": "**AssayGeneralClass**: BAO:0000450\n\n**AssayMaterialUsed**: CLO:0003684\n\n**AssayDescription**: Transient expression of wild type and variant *PALB2* cDNA constructs in HeLa cells following PALB2 siRNA knockdown; exposure ionizing radiation induces DNA damage; RAD51 foci formation is measured by immunofluorescence microscopy 4 h after irradiation\n\n**AssayReadOutDescription**: Number of RAD51 foci per S-phase cell (determined by cyclin A detection)\n\n**AssayRange**: 0-80 foci/cell\n\n**AssayNormalRange**: RAD51 foci numbers comparable to that of cells expressing wild type *PALB2* (average ~25 foci/cell); no numeric threshold given\n\n**AssayAbnormalRange**: RAD51 foci numbers comparable to that of cells expressing empty vector (average ~1 foci/cell); no numeric threshold given\n\n**AssayIndeterminateRange**: Not indicated\n\n**AssayNormalControl**: Wild type *PALB2* cDNA\n\n**AssayAbnormalControl**: Empty vector\n\n**ValidationControlPathogenic**: 0\n\n**ValidationControlBenign**: 0\n\n**Replication**: 3 independent experiments\n\n**StatisticalAnalysisDescription**: ND",
+    "text": "**AssayGeneralClass**: BAO:0000450 fluorescence microscopy\n\n**AssayMaterialUsed**: CLO:0003684 HeLa cell\n\n**AssayDescription**: Transient expression of wild type and variant *PALB2* cDNA constructs in HeLa cells following PALB2 siRNA knockdown; exposure ionizing radiation induces DNA damage; RAD51 foci formation is measured by immunofluorescence microscopy 4 h after irradiation\n\n**AssayReadOutDescription**: Number of RAD51 foci per S-phase cell (determined by cyclin A detection)\n\n**AssayRange**: foci/cell\n\n**AssayNormalRange**: RAD51 foci numbers comparable to that of cells expressing wild type *PALB2*; no numeric threshold given\n\n**AssayAbnormalRange**: RAD51 foci numbers comparable to that of cells expressing empty vector; no numeric threshold given\n\n**AssayIndeterminateRange**: Not reported\n\n**ValidationControlPathogenic**: 0\n\n**ValidationControlBenign**: 0\n\n**Replication**: 3 independent experiments\n\n**StatisticalAnalysisDescription**: Not reported",
     "tags": [
       "FuncAssay:4",
       "BAO:0000450",
@@ -432,10 +432,10 @@
   {
     "id": "U5pemrGAEeqvIcsE-mLpmw",
     "created": "2020-06-18T16:25:29.607218+00:00",
-    "updated": "2020-06-18T16:25:29.607218+00:00",
+    "updated": "2020-07-13T17:36:19.526070+00:00",
     "user": "acct:shannon_mcnulty@hypothes.is",
     "uri": "https://www.nature.com/articles/s41467-019-13194-2",
-    "text": "HGVS: NM_024675.3:c.2734T>G <br>",
+    "text": "**HGVS**: NM_024675.3:c.2734T>G <br>",
     "tags": [
       "CAID: CA395121845",
       "Variant:1",
@@ -500,13 +500,14 @@
   {
     "id": "q95P5LGAEeqgTs8t6a9IDg",
     "created": "2020-06-18T16:27:57.893887+00:00",
-    "updated": "2020-06-18T16:43:04.932009+00:00",
+    "updated": "2020-07-13T17:36:14.941371+00:00",
     "user": "acct:shannon_mcnulty@hypothes.is",
     "uri": "https://www.nature.com/articles/s41467-019-13194-2",
-    "text": "HGVS: NM_024675.3:c.2882T>C",
+    "text": "**HGVS**: NM_024675.3:c.2882T>C",
     "tags": [
       "Variant:2",
-      "CGType:Variant"
+      "CGType:Variant",
+      "ClinVarID:186824"
     ],
     "group": "DRL6xW1v",
     "permissions": {
@@ -567,10 +568,10 @@
   {
     "id": "-NnU5LGAEeq-98_lpYIgxw",
     "created": "2020-06-18T16:30:06.155155+00:00",
-    "updated": "2020-06-18T16:30:06.155155+00:00",
+    "updated": "2020-07-13T17:36:10.951737+00:00",
     "user": "acct:shannon_mcnulty@hypothes.is",
     "uri": "https://www.nature.com/articles/s41467-019-13194-2",
-    "text": "HGVS: NM_024675.3:c.3128G>A",
+    "text": "**HGVS**: NM_024675.3:c.3128G>A",
     "tags": [
       "CAID:CA279530867",
       "Variant:3",
@@ -635,10 +636,10 @@
   {
     "id": "MFjbhrGBEeqTy7sQPy219Q",
     "created": "2020-06-18T16:31:40.076864+00:00",
-    "updated": "2020-06-18T16:31:40.076864+00:00",
+    "updated": "2020-07-13T17:36:05.565234+00:00",
     "user": "acct:shannon_mcnulty@hypothes.is",
     "uri": "https://www.nature.com/articles/s41467-019-13194-2",
-    "text": "HGVS: NM_024675.3:c.2809G>A",
+    "text": "**HGVS**: NM_024675.3:c.2809G>A",
     "tags": [
       "CAID:CA395144928",
       "Variant:4",
@@ -703,10 +704,10 @@
   {
     "id": "Zf_ZVrGBEeqi2FMLro2zCA",
     "created": "2020-06-18T16:33:10.125785+00:00",
-    "updated": "2020-06-18T16:33:10.125785+00:00",
+    "updated": "2020-07-13T17:35:57.398561+00:00",
     "user": "acct:shannon_mcnulty@hypothes.is",
     "uri": "https://www.nature.com/articles/s41467-019-13194-2",
-    "text": "HGVS: NM_024675.3:c.2840T>C",
+    "text": "**HGVS**: NM_024675.3:c.2840T>C",
     "tags": [
       "CAID:CA7963465",
       "Variant:5",
@@ -771,16 +772,15 @@
   {
     "id": "H6NPbrGCEeqodJ8Xh22Dgw",
     "created": "2020-06-18T16:38:21.425376+00:00",
-    "updated": "2020-07-01T12:29:14.226863+00:00",
+    "updated": "2020-07-13T18:01:03.097553+00:00",
     "user": "acct:shannon_mcnulty@hypothes.is",
     "uri": "https://www.nature.com/articles/s41467-019-13194-2",
-    "text": "**AssayResult**: ~1 foci/cell\n\n**AssayResultIntervalLower**: ~0\n\n**AssayResultIntervalUpper**: ~21\n\n**AssayResultAssertion**: Abnormal",
+    "text": "**AssayResult**: 1.24 foci/cell\n\n**AssayResultAssertion**: Abnormal\n\n**Range**: 0 - 25\n\n**Comment**: Exact values reported in \"Source Data\" file\n",
     "tags": [
       "FuncAssay:4",
       "Variant:1",
       "CAID: CA395121845",
-      "CGType:FunctionalAssayResult",
-      "ExtrapolatedResult"
+      "CGType:FunctionalAssayResult"
     ],
     "group": "DRL6xW1v",
     "permissions": {
@@ -841,16 +841,15 @@
   {
     "id": "i9FH4LGCEeqlW4eYXm8QZg",
     "created": "2020-06-18T16:41:23.433089+00:00",
-    "updated": "2020-07-01T12:29:34.436562+00:00",
+    "updated": "2020-07-13T18:00:30.188854+00:00",
     "user": "acct:shannon_mcnulty@hypothes.is",
     "uri": "https://www.nature.com/articles/s41467-019-13194-2",
-    "text": "**AssayResult**: ~4 foci/cell\n\n**AssayResultIntervalLower**: ~0\n\n**AssayResultIntervalUpper**: ~30\n\n**AssayResultAssertion**: abnormal",
+    "text": "**AssayResult**: 3.19 foci/cell\n\n**AssayResultAssertion**: abnormal\n\n**Range**: 0 - 32\n\n**Comment**: Exact values reported in \"Source Data\" file\n",
     "tags": [
       "FuncAssay:4",
       "Variant:2",
       "CAID:CA195974",
-      "CGType:FunctionalAssayResult",
-      "ExtrapolatedResult"
+      "CGType:FunctionalAssayResult"
     ],
     "group": "DRL6xW1v",
     "permissions": {
@@ -911,16 +910,15 @@
   {
     "id": "qmp7crGCEeqR7Q9ZW4eeJg",
     "created": "2020-06-18T16:42:14.652076+00:00",
-    "updated": "2020-07-01T12:29:47.966397+00:00",
+    "updated": "2020-07-13T17:59:41.087968+00:00",
     "user": "acct:shannon_mcnulty@hypothes.is",
     "uri": "https://www.nature.com/articles/s41467-019-13194-2",
-    "text": "**AssayResult**: ~16 foci/cell \n\n**AssayResultIntervalLower**: ~0\n\n**AssayResultIntervalUpper**: ~70 \n\n**AssayResultAssertion**: Abnormal ",
+    "text": "**AssayResult**: 13.96 foci/cell \n\n**AssayResultAssertion**: Abnormal \n\n**Range**: 0 - 69\n\n**Comment**: Exact values reported in \"Source Data\" file",
     "tags": [
       "FuncAssay:4",
       "Variant:3",
       "CAID:CA279530867",
-      "CGType:FunctionalAssayResult",
-      "ExtrapolatedResult"
+      "CGType:FunctionalAssayResult"
     ],
     "group": "DRL6xW1v",
     "permissions": {
@@ -981,16 +979,15 @@
   {
     "id": "SdLzTLGDEeqnMi-qpK-6Zw",
     "created": "2020-06-18T16:46:41.733423+00:00",
-    "updated": "2020-07-01T12:30:01.860451+00:00",
+    "updated": "2020-07-13T17:58:59.209031+00:00",
     "user": "acct:shannon_mcnulty@hypothes.is",
     "uri": "https://www.nature.com/articles/s41467-019-13194-2",
-    "text": "**AssayResult**: ~17 foci/cell \n\n**AssayResultIntervalLower**: ~0\n\n**AssayResultIntervalUpper**: ~75\n\n**AssayResultAssertion**: Indeterminate (described as \"minor\" ",
+    "text": "**AssayResult**: 15.80 foci/cell \n\n**AssayResultAssertion**: Indeterminate (described as \"minor effect\")\n\n**Range**: 0 - 74\n\n**Comment**: Exact values reported in \"Source Data\" file",
     "tags": [
       "FuncAssay:4",
       "Variant:4",
       "CAID:CA395144928",
-      "CGType:FunctionalAssayResult",
-      "ExtrapolatedResult"
+      "CGType:FunctionalAssayResult"
     ],
     "group": "DRL6xW1v",
     "permissions": {
@@ -1051,16 +1048,15 @@
   {
     "id": "eoXR7rGDEeqUiM9pvcyFZw",
     "created": "2020-06-18T16:48:03.612913+00:00",
-    "updated": "2020-07-01T12:30:15.208647+00:00",
+    "updated": "2020-07-13T17:57:44.638370+00:00",
     "user": "acct:shannon_mcnulty@hypothes.is",
     "uri": "https://www.nature.com/articles/s41467-019-13194-2",
-    "text": "**AssayResult**: ~20 foci/cell \n\n**AssayResultIntervalLower**: ~0 \n\n**AssayResultIntervalUpper**: ~70 \n\n**AssayResultAssertion**: Indeterminate (described as \"minor\"",
+    "text": "**AssayResult**: 19.52 foci/cell \n\n**AssayResultAssertion**: Indeterminate (described as \"minor effect\")\n\n**Range**: 0 - 70\n\n**Comment**: Exact values reported in \"Source Data\" file",
     "tags": [
       "FuncAssay:4",
       "Variant:5",
       "CAID:CA7963465",
-      "CGType:FunctionalAssayResult",
-      "ExtrapolatedResult"
+      "CGType:FunctionalAssayResult"
     ],
     "group": "DRL6xW1v",
     "permissions": {
@@ -1121,15 +1117,15 @@
   {
     "id": "7-8jQLGDEeqVsL9K6GG8uQ",
     "created": "2020-06-18T16:51:20.587150+00:00",
-    "updated": "2020-07-01T12:29:01.251171+00:00",
+    "updated": "2020-07-13T18:01:51.529726+00:00",
     "user": "acct:shannon_mcnulty@hypothes.is",
     "uri": "https://www.nature.com/articles/s41467-019-13194-2",
-    "text": "**AssayResult**: ~25 foci/cell\n\n**AssayResultIntervalLower**: ~0\n\n**AssayResultIntervalUpper**: ~65\n\n**AssayResultAssertion**: Normal",
+    "text": "**AssayResult**: 24.90 foci/cell\n\n**AssayResultAssertion**: Normal\n\n**Range**: 1 - 90\n\n**ControlType**: Normal; wild type *PALB2* cDNA\n\n**Comment**: Exact values reported in \"Source Data\" file\n",
     "tags": [
       "FuncAssay:4",
       "CGType:FunctionalAssayResult",
       "ValidationControl:WildType",
-      "ExtrapolatedResult"
+      "AssayControl:Normal"
     ],
     "group": "DRL6xW1v",
     "permissions": {
@@ -1180,6 +1176,74 @@
       "html": "https://hypothes.is/a/7-8jQLGDEeqVsL9K6GG8uQ",
       "incontext": "https://hyp.is/7-8jQLGDEeqVsL9K6GG8uQ/www.nature.com/articles/s41467-019-13194-2",
       "json": "https://hypothes.is/api/annotations/7-8jQLGDEeqVsL9K6GG8uQ"
+    },
+    "flagged": false,
+    "hidden": false,
+    "user_info": {
+      "display_name": null
+    }
+  },
+  {
+    "id": "cyI8ksUwEeqquz_Kra6fvQ",
+    "created": "2020-07-13T17:44:06.361821+00:00",
+    "updated": "2020-07-13T18:02:30.340750+00:00",
+    "user": "acct:shannon_mcnulty@hypothes.is",
+    "uri": "https://www.nature.com/articles/s41467-019-13194-2?error=cookies_not_supported&code=ae8e9737-9903-4bce-b766-8e45bd03d08f",
+    "text": "**AssayResult**: 1.35 foci/cell\n\n**AssayResultAssertion**: Abnormal\n\n**Range**: 0 - 40\n\n**ControlType**: Abormal; empty vector\n\n**Comment**: Exact values reported in \"Source Data\" file\n",
+    "tags": [
+      "FuncAssay:4",
+      "CGType:FunctionalAssayResult",
+      "AssayControl:Abnormal"
+    ],
+    "group": "DRL6xW1v",
+    "permissions": {
+      "read": [
+        "group:DRL6xW1v"
+      ],
+      "admin": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "update": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ],
+      "delete": [
+        "acct:shannon_mcnulty@hypothes.is"
+      ]
+    },
+    "target": [
+      {
+        "source": "https://www.nature.com/articles/s41467-019-13194-2?error=cookies_not_supported&code=ae8e9737-9903-4bce-b766-8e45bd03d08f",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 1110,
+            "startOffset": 1090,
+            "endContainer": "/div[5]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/div[7]/figure[1]/div[1]/div[2]/p[1]",
+            "startContainer": "/div[5]/div[1]/div[1]/article[1]/div[1]/div[2]/section[3]/div[1]/div[1]/div[7]/figure[1]/div[1]/div[2]/p[1]"
+          },
+          {
+            "end": 47258,
+            "type": "TextPositionSelector",
+            "start": 47238
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "empty vector control",
+            "prefix": "h the indicated variants (or an ",
+            "suffix": ", Ev). Scale bar: 5\u2009\u00b5m. d Quanti"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Functional analysis of genetic variants in the high-risk breast cancer susceptibility gene PALB2"
+      ]
+    },
+    "links": {
+      "html": "https://hypothes.is/a/cyI8ksUwEeqquz_Kra6fvQ",
+      "incontext": "https://hyp.is/cyI8ksUwEeqquz_Kra6fvQ/www.nature.com/articles/s41467-019-13194-2?error=cookies_not_supported&code=ae8e9737-9903-4bce-b766-8e45bd03d08f",
+      "json": "https://hypothes.is/api/annotations/cyI8ksUwEeqquz_Kra6fvQ"
     },
     "flagged": false,
     "hidden": false,
